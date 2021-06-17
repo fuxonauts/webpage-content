@@ -1,0 +1,3 @@
+[submodule "themes/flexible-seo"]
+	path = themes/flexible-seo
+	url = git@github.com:pjbakker/flexible-seo-hugo.git
