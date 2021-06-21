@@ -7,7 +7,8 @@ stages:
 build_job:
   stage: build
   script:
-    - apk add ssh
+    - apk update
+    - apk add openssh
     - hugo
   artifacts:
     paths:
@@ -20,5 +21,6 @@ build_job:
 deploy_job:
   stage: deploy
   script:
+    - apk update
     - apk add lftp
     - lftp -c "set ftp:ssl-allow no; open -u $USERNAME,$PASSWORD $HOST; mirror -Rev public/ ./preview  --ignore-time --parallel=10"
