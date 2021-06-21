@@ -21,4 +21,4 @@ deploy_job:
   script:
     - apk update
     - apk add lftp
-    - lftp -c "set ftp:ssl-allow no; open -u $USERNAME,$PASSWORD $HOST; mirror -Rev public/ ./preview  --ignore-time --parallel=10"
+    - lftp -c "set ftp:ssl-allow no; open -u $USERNAME,$PASSWORD $HOST; mirror -Rev public/ ./art-off-hamburg.de/preview --ignore-time --parallel=10"
