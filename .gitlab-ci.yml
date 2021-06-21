@@ -1,14 +1,19 @@
 image: registry.gitlab.com/pages/hugo:latest
 
 stages:
+  - setup
   - build
   - deploy
+
+setup_job:
+  stage: setup
+  script:
+    - apk update
+    - apk add openssh
 
 build_job:
   stage: build
   script:
-    - apk update
-    - apk add openssh
     - hugo
   artifacts:
     paths:
