@@ -1,0 +1,23 @@
+image: registry.gitlab.com/pages/hugo:latest
+
+stages:
+  - build
+  - deploy
+
+build_job:
+  stage: build
+  script:
+    - hugo
+  artifacts:
+    paths:
+    - public
+  variables:
+    GIT_SUBMODULE_STRATEGY: recursive
+  only:
+  - master
+
+deploy_job:
+  stage: deploy
+  script:
+    - apk add lftp
+    - lftp -c "set ftp:ssl-allow no; open -u $USERNAME,$PASSWORD $HOST; mirror -Rev public/ ./preview  --ignore-time --parallel=10"
