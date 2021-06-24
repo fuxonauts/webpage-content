@@ -18,27 +18,35 @@ theme = "LoveIt"
     pre = ""
     # you can add extra information after the name (HTML format is supported), such as icons
     post = ""
-    name = "Posts"
-    url = "/posts/"
+    name = "Home"
+    url = "posts/"
     # title will be shown when you hover on this menu link
     title = ""
     weight = 1
   [[menu.main]]
-    identifier = "tags"
+    identifier = "event"
     pre = ""
     post = ""
-    name = "Tags"
-    url = "/tags/"
+    name = "Veranstaltungen"
+    url = "events/"
     title = ""
     weight = 2
   [[menu.main]]
-    identifier = "categories"
+    identifier = "place"
     pre = ""
     post = ""
-    name = "Categories"
-    url = "/categories/"
+    name = "Kunstorte"
+    url = "places/"
     title = ""
     weight = 3
+  [[menu.main]]
+    identifier = "demands"
+    pre = ""
+    post = ""
+    name = "Forderungen"
+    url = "demands/"
+    title = ""
+    weight = 4
 
 # Markup related configuration in Hugo
 [markup]
