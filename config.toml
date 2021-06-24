@@ -49,6 +49,14 @@ theme = "LoveIt"
       url = "demands/"
       title = ""
       weight = 4
+    [[languages.de.menu.main]]
+      identifier = "imprint"
+      pre = ""
+      post = ""
+      name = "Impressum"
+      url = "imprint/"
+      title = ""
+      weight = 5
 
   [languages.en]
     weight = 2
@@ -90,6 +98,14 @@ theme = "LoveIt"
       url = "demands/"
       title = ""
       weight = 4
+    [[languages.en.menu.main]]
+      identifier = "imprint"
+      pre = ""
+      post = ""
+      name = "Imprint"
+      url = "imprint/"
+      title = ""
+      weight = 5
 
 
 # Markup related configuration in Hugo
