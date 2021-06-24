@@ -1,52 +1,96 @@
 baseURL = "https://art-off-hamburg.de/preview/"
 
 defaultContentLanguage = "de"
-# language code
-languageCode = "de"
 
-title = "ART OFF Hamburg"
 theme = "LoveIt"
 
 [params]
   # LoveIt theme version
   version = "0.2.X"
 
-[menu]
-  [[menu.main]]
-    identifier = "posts"
-    # you can add extra information before the name (HTML format is supported), such as icons
-    pre = ""
-    # you can add extra information after the name (HTML format is supported), such as icons
-    post = ""
-    name = "Home"
-    url = "posts/"
-    # title will be shown when you hover on this menu link
-    title = ""
+[languages]
+  [languages.de]
     weight = 1
-  [[menu.main]]
-    identifier = "event"
-    pre = ""
-    post = ""
-    name = "Veranstaltungen"
-    url = "events/"
-    title = ""
+    title = "ART OFF Hamburg"
+    languageCode = "de"
+    languageName = "Deutsch"
+    [[languages.de.menu.main]]
+      identifier = "posts"
+      # you can add extra information before the name (HTML format is supported), such as icons
+      pre = ""
+      # you can add extra information after the name (HTML format is supported), such as icons
+      post = ""
+      name = "Home"
+      url = "posts/"
+      # title will be shown when you hover on this menu link
+      title = ""
+      weight = 1
+    [[languages.de.menu.main]]
+      identifier = "event"
+      pre = ""
+      post = ""
+      name = "Veranstaltungen"
+      url = "events/"
+      title = ""
+      weight = 2
+    [[languages.de.menu.main]]
+      identifier = "place"
+      pre = ""
+      post = ""
+      name = "Kunstorte"
+      url = "places/"
+      title = ""
+      weight = 3
+    [[languages.de.menu.main]]
+      identifier = "demands"
+      pre = ""
+      post = ""
+      name = "Forderungen"
+      url = "demands/"
+      title = ""
+      weight = 4
+
+  [languages.en]
     weight = 2
-  [[menu.main]]
-    identifier = "place"
-    pre = ""
-    post = ""
-    name = "Kunstorte"
-    url = "places/"
-    title = ""
-    weight = 3
-  [[menu.main]]
-    identifier = "demands"
-    pre = ""
-    post = ""
-    name = "Forderungen"
-    url = "demands/"
-    title = ""
-    weight = 4
+    title = "ART OFF Hamburg"
+    languageCode = "en"
+    languageName = "English"
+    [[languages.en.menu.main]]
+      identifier = "posts"
+      # you can add extra information before the name (HTML format is supported), such as icons
+      pre = ""
+      # you can add extra information after the name (HTML format is supported), such as icons
+      post = ""
+      name = "Home"
+      url = "posts/"
+      # title will be shown when you hover on this menu link
+      title = ""
+      weight = 1
+    [[languages.en.menu.main]]
+      identifier = "event"
+      pre = ""
+      post = ""
+      name = "Events"
+      url = "events/"
+      title = ""
+      weight = 2
+    [[languages.en.menu.main]]
+      identifier = "place"
+      pre = ""
+      post = ""
+      name = "Places"
+      url = "places/"
+      title = ""
+      weight = 3
+    [[languages.en.menu.main]]
+      identifier = "demands"
+      pre = ""
+      post = ""
+      name = "Demands"
+      url = "demands/"
+      title = ""
+      weight = 4
+
 
 # Markup related configuration in Hugo
 [markup]
