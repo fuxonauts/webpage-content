@@ -5,4 +5,16 @@ draft: false
 featuredImage: "images/frappant.jpg"
 ---
 
+## Historie
+
+### Früher
+
 Frappant ist ein alter Kunstort
+
+### Sehr viel früher
+
+### heute
+
+## Adresse
+
+## Öffnungszeiten
