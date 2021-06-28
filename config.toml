@@ -1,4 +1,4 @@
-baseURL = "https://art-off-hamburg.de/preview/"
+baseURL = "http://art-off-hamburg.de/preview/"
 
 defaultContentLanguage = "de"
 
