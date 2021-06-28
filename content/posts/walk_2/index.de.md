@@ -1,11 +1,11 @@
 ---
-title: "Walk 1"
+title: "Walk 2"
 date: 2021-06-17T18:58:41+02:00
 draft: false
 gpx: "example.gpx"
 ---
 
-Layout muss noch angepasst werden, damit die Karte auch in der Vorschau angezeigt wird.
+Anderer Text hier
 
 <!--more-->
 
