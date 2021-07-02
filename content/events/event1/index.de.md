@@ -5,6 +5,7 @@ draft: false
 address: "Zeiseweg 9, 22087 Hamburg"
 place: "frappant"
 genre: "Theater"
+featuredImage: "images/event1.jpg"
 ---
 
 Wir führen am soundsovielten ein Theaterstück auf. Wenn du Lust hast vorbeizukommen, dann komm einfach vorbei.
