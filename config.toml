@@ -31,7 +31,7 @@ theme = "LoveIt"
       post = ""
       name = "Veranstaltungen"
       url = "events/"
-      title = ""
+      title = "Programm – ART OFF Hamburg Kultursommer – Wir sind hier"
       weight = 2
     [[languages.de.menu.main]]
       identifier = "place"
@@ -55,7 +55,7 @@ theme = "LoveIt"
       post = ""
       name = "Impressum"
       url = "imprint/"
-      title = ""
+      title = "langer Name für Impressum"
       weight = 5
 
   [languages.en]
@@ -80,7 +80,7 @@ theme = "LoveIt"
       post = ""
       name = "Events"
       url = "events/"
-      title = ""
+      title = "Events Title"
       weight = 2
     [[languages.en.menu.main]]
       identifier = "place"
