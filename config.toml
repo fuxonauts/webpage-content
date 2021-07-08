@@ -107,6 +107,10 @@ theme = "LoveIt"
       title = ""
       weight = 5
 
+[taxonomies]
+  genre = "genres"
+  organizer = "organizers"
+
 
 # Markup related configuration in Hugo
 [markup]

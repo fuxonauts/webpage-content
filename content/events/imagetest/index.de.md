@@ -3,8 +3,9 @@ title: "Imagetest"
 date: 2021-07-02T09:24:02+02:00
 draft: false
 featuredImage: "images/frappant.jpg"
-place: "foo"
+organizers: ["frappant"]
 address: "bar"
-genre: "baz"
+genres: ["baz"]
 ---
 
+huiuiui
