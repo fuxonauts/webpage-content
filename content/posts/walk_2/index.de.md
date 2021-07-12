@@ -2,7 +2,7 @@
 title: "Walk 2"
 date: 2021-06-17T18:58:41+02:00
 draft: false
-gpx: "example.gpx"
+gpx: "example_pm.gpx"
 ---
 
 Anderer Text hier
