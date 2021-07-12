@@ -8,4 +8,9 @@ address: "bar"
 genres: ["baz"]
 ---
 
+
+gps_koordinaten: "N", "O"
+zuordnung: "walk1"
+
+
 huiuiui

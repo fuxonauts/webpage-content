@@ -8,3 +8,10 @@ type: page
 Wer wir sind
 
 Wie man uns kontaktiert: test@example.org
+
+
+{{< leaflet-map mapHeight="500px" mapWidth="100%" >}}
+    {{< leaflet-marker markerLat="27.66995" markerLon="85.43249" >}}
+    {{< leaflet-marker markerLat="27.66995" markerLon="85.43255" >}}
+    {{< leaflet-marker markerLat="27.66995" markerLon="85.43345" >}}
+{{< /leaflet-map >}}
