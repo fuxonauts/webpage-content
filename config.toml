@@ -9,7 +9,7 @@ theme = "LoveIt"
   version = "0.2.X"
   [params.header]
     [params.header.title]
-#      logo = "/preview/lib/img/logo.png"
+      logo = "/preview/lib/img/ART-OFF-Logo_1200.png"
 
 [languages]
   [languages.de]
