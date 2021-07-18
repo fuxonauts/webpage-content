@@ -6,5 +6,8 @@ draft: false
 ---
 
 The third series of ART OFF HAMBURG Art Walks will take place in Hamburg’s west end. Starting in the St. Pauli and Altona districts, the tours proceed to Bahrenfeld and Ottensen---or vice versa. 
+
+<!--more-->
+
 The independent art spaces *2025*, *8. Salon*, *Frappant*, *Frise* and *hinterconti* will be presenting numerous outdoor projects. There is plenty to explore along the Grosse Bergstrasse or the 
 Reeperbahn and, once again, you will encounter the ever-mobile *Kunstimbiss*.

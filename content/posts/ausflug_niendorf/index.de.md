@@ -7,3 +7,5 @@ draft: false
 
 Das *Künstlerhaus Sootbörn* lädt am **28. und 29. August** ein. Mit seinen Räumen im Bauhausstil und seinen ausgedehnten Außenflächen ist es ein kulturelles Zentrum Niendorfs. Der *Kunst-Imbiss* als 
 mobile Kunstversorgung leistet Gesellschaft.
+
+<!--more-->

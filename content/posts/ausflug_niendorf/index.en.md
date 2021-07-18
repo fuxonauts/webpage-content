@@ -7,3 +7,6 @@ draft: false
 
 ART OFF HAMBURG invites you to visit the art venue *Künstlerhaus Sootbörn*. With its spacious rooms built in the style of the Bauhaus and its expansive outside surroundings, Sootbörn is the 
 cultural hub of the Niendorf district. Expect to find the *Kunstimbiss* here too!
+
+<!--more-->
+

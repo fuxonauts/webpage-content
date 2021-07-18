@@ -7,3 +7,5 @@ draft: false
 
 ART OFF HAMBURG is also offering an outing to an art venue close to the Sachsenwald forest on the outskirts of the city. The *Künstlerhaus Bergedorf* is hosting an indoor and outdoor programme. The 
 artists’ group will be joined by the itinerant *Kunstimbiss* to provide further artistic nourishment to-go.
+
+<!--more-->

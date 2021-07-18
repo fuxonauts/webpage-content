@@ -7,3 +7,4 @@ draft: false
 
 Durchatmen kann man bei Ausflügen in die Nähe des Sachsenwalds. Das *Künstlerhaus Bergedorf* zeigt vom **21.- 29. August** ein umfangreiches In- und Outdoor-Programm. Mehr Kunst für unterwegs gibt es 
 vom *Kunst-Imbiss*.
+<!--more-->
