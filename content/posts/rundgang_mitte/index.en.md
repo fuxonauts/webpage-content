@@ -1,8 +1,8 @@
 ---
 title: "Art Walk Central: 13 to 15 August"
-date: 2021-06-16T18:58:41+02:00
+date: 2021-06-18T18:58:41+02:00
 draft: false
-gpx: "example_pm.gpx"
+#gpx: "example_pm.gpx"
 ---
 
 The second series of events in the ART OFF Kultursommer focuses on the districts of Hamburg Central and St. Pauli. This tour starts, for example, in St. Pauli and the Karolinenviertel quarter, 
