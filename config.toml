@@ -36,14 +36,14 @@ theme = "LoveIt"
 #      url = "events/"
 #      title = "Programm – ART OFF Hamburg Kultursommer – Wir sind hier"
 #      weight = 2
-#    [[languages.de.menu.main]]
-#      identifier = "place"
-#      pre = ""
-#      post = ""
-#      name = "Kunstorte"
-#      url = "places/"
-#      title = ""
-#      weight = 3
+    [[languages.de.menu.main]]
+      identifier = "place"
+      pre = ""
+      post = ""
+      name = "Kunstorte"
+      url = "places/"
+      title = ""
+      weight = 3
 #    [[languages.de.menu.main]]
 #      identifier = "demands"
 #      pre = ""
@@ -85,14 +85,14 @@ theme = "LoveIt"
 #      url = "events/"
 #      title = "Events Title"
 #      weight = 2
-#    [[languages.en.menu.main]]
-#      identifier = "place"
-#      pre = ""
-#      post = ""
-#      name = "Places"
-#      url = "places/"
-#      title = ""
-#      weight = 3
+    [[languages.en.menu.main]]
+      identifier = "place"
+      pre = ""
+      post = ""
+      name = "Places"
+      url = "places/"
+      title = ""
+      weight = 3
 #    [[languages.en.menu.main]]
 #      identifier = "demands"
 #      pre = ""
