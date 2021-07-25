@@ -7,7 +7,7 @@ featuredImage: "images/frappant.jpg"
 street: "Straße 123"
 city: "12345 Hamburg"
 tel: "040 123456"
-images: ["images/frappant.jpg"]
+images: ["images/frappant.jpg", "images/beispiel.jpg", "images/beispiel2.jpg", "images/beispiel3.jpg",]
 ---
 
 Frappant is an art place
