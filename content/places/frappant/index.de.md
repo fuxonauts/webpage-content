@@ -7,7 +7,7 @@ featuredImage: "images/frappant.jpg"
 street: "Straße 123"
 city: "12345 Hamburg"
 tel: "040 123456"
-images: ["images/frappant.jpg", "images/beispiel.jpg", "images/beispiel2.jpg", "images/beispiel3.jpg",]
+images: ["images/frappant.jpg", "images/beispiel.jpg", "images/beispiel2.jpg", "images/beispiel3.jpg", "images/beispiel4.jpg"]
 ---
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet...
