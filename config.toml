@@ -12,6 +12,8 @@ theme = "LoveIt"
       logo = "/preview/lib/img/ART-OFF-Logo_1200.png"
   [params.footer]
     enable = false
+  [params.home.profile]
+    enable = false
 
 [languages]
   [languages.de]
