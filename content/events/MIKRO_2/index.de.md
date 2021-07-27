@@ -8,6 +8,7 @@ draft: false
 street: Billwerder Neuer Deich am Entenwerder Park
 address: "20539 Hamburg"
 organizers: ["Mikropol"]
+artists: "Eva Zulauf, Hobby R. Kompositor"
 genres: ['Skulptur']
 kids: []
 featuredImage: ""

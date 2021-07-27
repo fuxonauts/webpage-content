@@ -8,6 +8,7 @@ draft: false
 street: Süderstraße 112
 address: "20537 Hamburg "
 organizers: ["Südpol"]
+artists: "Elisa Manig"
 genres: ['Skulptur']
 kids: []
 featuredImage: ""

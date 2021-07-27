@@ -8,6 +8,7 @@ draft: false
 street: Repsoldstraße 45
 address: " 20097 Hamburg"
 organizers: ["xpon-art gallery"]
+artists: "Mariola Brillowska, Carla Riveros Eissmann"
 genres: ['Performance']
 kids: []
 featuredImage: ""
