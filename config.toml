@@ -30,14 +30,14 @@ theme = "LoveIt"
       # title will be shown when you hover on this menu link
       title = ""
       weight = 1
-#    [[languages.de.menu.main]]
-#      identifier = "event"
-#      pre = ""
-#      post = ""
-#      name = "Veranstaltungen"
-#      url = "events/"
-#      title = "Programm – ART OFF Hamburg Kultursommer – Wir sind hier"
-#      weight = 2
+    [[languages.de.menu.main]]
+      identifier = "event"
+      pre = ""
+      post = ""
+      name = "Veranstaltungen"
+      url = "events/"
+      title = "Programm – ART OFF Hamburg Kultursommer – Wir sind hier"
+      weight = 2
     [[languages.de.menu.main]]
       identifier = "place"
       pre = ""
@@ -79,14 +79,14 @@ theme = "LoveIt"
       # title will be shown when you hover on this menu link
       title = ""
       weight = 1
-#    [[languages.en.menu.main]]
-#      identifier = "event"
-#      pre = ""
-#      post = ""
-#      name = "Events"
-#      url = "events/"
-#      title = "Events Title"
-#      weight = 2
+    [[languages.en.menu.main]]
+      identifier = "event"
+      pre = ""
+      post = ""
+      name = "Events"
+      url = "events/"
+      title = "Events Title"
+      weight = 2
     [[languages.en.menu.main]]
       identifier = "place"
       pre = ""
@@ -115,6 +115,8 @@ theme = "LoveIt"
 [taxonomies]
   genre = "genres"
   organizer = "organizers"
+  walk = "walks"
+  kid = "kids"
 
 
 # Markup related configuration in Hugo
