@@ -12,7 +12,7 @@ artists: "Mariola Brillowska, Carla Riveros Eissmann"
 genres: ['Performance']
 kids: []
 featuredImage: ""
-repeats: ['xpon_01B', 'xpon_01C']
+repeats: []
 sequels: []
 ---
 

@@ -10,9 +10,9 @@ address: "20537 Hamburg"
 organizers: ["Zollo"]
 artists: "Nuriye Tohermes, Lila Zoe Krauss, Almuth Anders, Luka Lenzin, Jan Rasehorn, Leon Lechner. Daniel Möring"
 genres: []
-kids: []
+kids: ['Kindergeeignet']
 featuredImage: ""
-repeats: ['ZOLLO_2', 'ZOLLO_3']
+repeats: []
 sequels: []
 ---
 

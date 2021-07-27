@@ -10,7 +10,7 @@ address: "20539 Hamburg"
 organizers: ["Mikropol"]
 artists: "Eva Zulauf, Hobby R. Kompositor"
 genres: ['Skulptur']
-kids: []
+kids: ['Kindergeeignet']
 featuredImage: ""
 repeats: []
 sequels: []

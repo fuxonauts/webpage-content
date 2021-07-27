@@ -12,7 +12,7 @@ artists: "Rasmus Gerlach, Yukari Kosakai, Llaura I. Sünner"
 genres: ['Fotografie', 'Skulptur']
 kids: []
 featuredImage: ""
-repeats: ['EINST_02B', 'EINST_02C']
+repeats: []
 sequels: []
 ---
 

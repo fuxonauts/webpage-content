@@ -13,6 +13,6 @@ genres: []
 kids: []
 featuredImage: ""
 repeats: []
-sequels: ['n23_02B']
+sequels: ['n23_02B', 'n23_02C', 'n23_02D', 'n23_02E', 'n23_02F', 'n23_02G', 'n23_02H']
 ---
 
