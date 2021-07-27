@@ -10,6 +10,8 @@ theme = "LoveIt"
   [params.header]
     [params.header.title]
       logo = "/preview/lib/img/ART-OFF-Logo_1200.png"
+  [params.footer]
+    enable = false
 
 [languages]
   [languages.de]
