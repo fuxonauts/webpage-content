@@ -16,5 +16,7 @@ sequels: []
 ---
 
 Alexandra Polina: 
+
 Zu meinem Projekt Steindamm-Atlas kam ich, als Freunde mich bei meinem ersten Besuch am Hamburger Steindamm zum Essen mitnahmen. Die Gegend hat mich überfordert, irritiert und begeistert. Seit über zwei Jahren beobachte ich das  Leben der Straße. Nicht nur als Privatperson, sondern auch als Fotografin.
+
 Die klare Bildsprache der Serie soll dem Überfordernden entgegenwirken und all dem eine Bühne geben, was im chaotischen Alltag untergeht. Mit fokussiertem Blick erkunde ich meine marginalisierte Nachbarschaft und halte die Ausschnitte des Geschehens fest, die die Geschichten der Straße erzählen. In meinem Projekt zelebriere ich die individuellen ästhetischen Entscheidungen und lege das Hauptaugenmerk auf die lokalen Communities und ihre einzigartigen persönlichen Stile.

@@ -16,4 +16,5 @@ sequels: ['n23_02E', 'n23_02G']
 ---
 
 Der nachtspeicher23 wird zu einem postkatastrophalen Rückzugsort: Seit März 2020 hat sich hier ein Kollektiv aus drei Menschen verschanzt. Die Zeit bleibt stehen. Psychische Kräfte wirken auf die Gravitation der Erde. Sie verrücken die Realität und drehen den Raum um 90°: der Boden wird zur Wand und die Wände zu Boden und Decke. Die hier isolierten Lebewesen hinterlassen im Schaufenster Spuren in Form von Tagebuchnotizen und Zeichnungen, die leise ankündigen, was nach der Flucht am 6. August bei der Ausstellungseröffnung zutage tritt. 
+
 [Vom 6. bis 20. August wird der Ausstellungsraum für das Publikum geöffnet: jeweils Freitag 19-21 Uhr, Samstag 15-18 Uhr, Dienstag 19-21 Uhr sowie nach Vereinbarung] 

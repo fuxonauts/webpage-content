@@ -16,6 +16,9 @@ sequels: []
 ---
 
 KUNSTAUFSTELLUNGEN mit Mariola Brillowska und Carla Riveros Eissmann. Dreiteilige Performance im Schaufenster der Xpon Galerie mit Kunstaufstellungen berühmter Künstlerpaare, je ca. 30 Minuten.
+
 Die Beziehungen zwischen den Künstlerpaaren Frida Kahlo und Diego Rivera, Mariana Abramovic und Ulay, Ciciolina und Jeff Koons werden wie bei einer Familienaufstellung analysiert. Die Konstellation und die Position der Künstler*innen zueinander und in der Kunstgeschichte werden untersucht. Wahrheiten werden ans Licht gerückt. Wunden werden geöffnet, geheilt, geschlossen. Die Künstlerinnen Mariola und Carla stellen sich der Kunst als Objekte, Subjekte und Stellvertreterinnen für Frauen, Männer und Diverse.
+
 KUNSTAUFSTELLUNG PROTO
+
 https://soundcloud.com/mariolabrillowska/kunstaufstellung
