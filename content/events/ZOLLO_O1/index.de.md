@@ -16,4 +16,4 @@ repeats: ['ZOLLO_2', 'ZOLLO_3']
 sequels: []
 ---
 
-in einem performative Bauworkshop sind Interessierte aller Altersgruppen eingeladen zusammen mit 5 Künstler*Innen der ZOLLO Gruppe in einem gemeinschaftlichen Akt die lange Tafel zu bauen. Mit einfachen Handgeräten wird die Tafel aus Bohlen zusammengesetzt. Der Entwurf stammt von den kollaborierenden Landschaftsrchitekt*Innen atelier le balto. Baubeginn ist um 15 Uhr, am Abend soll die Tafel stehen zum gemeinsamen Essen und sprechen über ‘socially engaged Art’ und der Verschiebung von sozialen Rollen durch den Bauprozess.
+in einem performative Bauworkshop sind Interessierte aller Altersgruppen eingeladen zusammen mit 5 Künstler\*Innen der ZOLLO Gruppe in einem gemeinschaftlichen Akt die lange Tafel zu bauen. Mit einfachen Handgeräten wird die Tafel aus Bohlen zusammengesetzt. Der Entwurf stammt von den kollaborierenden Landschaftsrchitekt\*Innen atelier le balto. Baubeginn ist um 15 Uhr, am Abend soll die Tafel stehen zum gemeinsamen Essen und sprechen über ‘socially engaged Art’ und der Verschiebung von sozialen Rollen durch den Bauprozess.
