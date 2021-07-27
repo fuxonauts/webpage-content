@@ -13,6 +13,8 @@ genres: []
 kids: []
 featuredImage: ""
 repeats: []
+repeat_times: []
 sequels: []
+sequel_times: []
 ---
 

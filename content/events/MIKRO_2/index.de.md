@@ -13,7 +13,9 @@ genres: ['Skulptur']
 kids: ['Kindergeeignet']
 featuredImage: ""
 repeats: []
+repeat_times: []
 sequels: []
+sequel_times: []
 ---
 
 Litfaßsäule (Skulptur im öffentlichen Raum) Sie, diese eine, hat in Hessen ausgedient – aufgrund von Ausbau von Glasfaser vor Ort musste sie weichen und findet hier einen neuen Standpunkt am Monopol – für Mikropol – für Nachbar:innen. Ein Kommentar als Display für analoge ´Anschläge´ (Sprachgebrauch für Plakatierung diverser Informationen) – dort, wo ein Stadtteilzentrum für Rothenburgsort Platz finden soll. Kuratierte “Anschläge” | Plakatierung werden z.Z. bekanntgegeben.

@@ -13,7 +13,9 @@ genres: ['Skulptur']
 kids: []
 featuredImage: ""
 repeats: []
+repeat_times: []
 sequels: []
+sequel_times: []
 ---
 
 In schlichten, aufs Wesentliche fokussierten Skulpturen und Objekten stellt Elisa Manig immer wieder Selbstverständlichkeiten unserer alltäglichen Umgebung infrage. So werden Konstruktionen und Objekte, die auf den ersten Blick Sicherheit versprechen, zu haltlosen Raumerfahrungen verkehrt. Das eigens für den Kultursommer angefertigte überdimensionale Scharnier an der Außenfassade des Südpols wird zur symbolischen Figur mit hohem Aktualitätswert. Seiner Funktion nach ist es eine stabilisierende Konstruktion, die gleichzeitig stets eine öffnende oder schließende Bewegung impliziert. Subtil wird hier die allgemeine "Scharnierfunktion" von Kunst hinterfragt. 

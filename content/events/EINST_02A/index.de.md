@@ -12,8 +12,10 @@ artists: "Rasmus Gerlach, Yukari Kosakai, Llaura I. Sünner"
 genres: ['Fotografie', 'Skulptur']
 kids: []
 featuredImage: ""
-repeats: []
+repeats: ['EINST_02B', 'EINST_02C']
+repeat_times: ['2021-07-31T14:00:00', '2021-08-01T14:00:00']
 sequels: []
+sequel_times: []
 ---
 
 1. Llaura I. Sünner: Großer Einlass Litfaßsäule / Installation, 2. Yukari Kosakai: Objekt, 3. Rasmus Gerlach: Filmprojektion auf die Fensterscheibe - Reportage 20 Jahre EINSTELLUNGSRAUM e.V.

@@ -12,8 +12,10 @@ artists: "Nuriye Tohermes, Lila Zoe Krauss, Almuth Anders, Luka Lenzin, Jan Rase
 genres: ['Performance']
 kids: ['Kindergeeignet']
 featuredImage: ""
-repeats: ['ZOLLO_O1']
-sequels: ['']
+repeats: ['ZOLLO_O1', 'ZOLLO_3']
+repeat_times: ['2021-07-30T15:00:00', '2021-08-01T15:00:00']
+sequels: []
+sequel_times: []
 ---
 
 Die ZOLLO-Tafel besteht aus drei Elementen mit je 5 Metern länge. Ein Element wird während des geführten Ost-Spaziergangs in einem gemeinsamen Kraftakt und performativer Aktion zum Mikropol in den angrenzenden Stadtteil getragen. Der Spaziergang wird so zur Prozession. Große und kleine Besucher\*Innen des Spaziergangs sind eingeladen mit anzufassen!

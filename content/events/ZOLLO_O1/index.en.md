@@ -12,7 +12,9 @@ artists: "Nuriye Tohermes, Lila Zoe Krauss, Almuth Anders, Luka Lenzin, Jan Rase
 genres: []
 kids: ['Kindergeeignet']
 featuredImage: ""
-repeats: []
+repeats: ['ZOLLO_2', 'ZOLLO_3']
+repeat_times: ['2021-07-31T17:30:00', '2021-08-01T15:00:00']
 sequels: []
+sequel_times: []
 ---
 

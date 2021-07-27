@@ -12,8 +12,10 @@ artists: "Nuriye Tohermes, Lila Zoe Krauss, Almuth Anders, Luka Lenzin, Jan Rase
 genres: ['Performance']
 kids: ['Kindergeeignet']
 featuredImage: ""
-repeats: ['ZOLLO_O1']
-sequels: ['']
+repeats: ['ZOLLO_O1', 'ZOLLO_2']
+repeat_times: ['2021-07-30T15:00:00', '2021-07-31T17:30:00']
+sequels: []
+sequel_times: []
 ---
 
 Host der Tafel - Die zwei im öffentlichen Raum vor dem ZOLLO verbleibende Teile der gebauten Tafel sind Zentrum des folgenden ZOLLO-Programms. Am Sonntag verwebt sich hier profanes Gastgeben mit theatralen Elementen. Die Szenographie wird verändert: die Container bekommen ein Camouflage und verlaufen nach Fertigstellung optisch in den Himmel und in den angrenzenden Fluss Bille. Beobachtet werden kann die Transformation einerseits an der Tafel - wo den vorbeikommenden Spaziergänger\*Innen zur Stärkung Wasser und Obst gereicht wird - und auf der Spazierroute von der Schwarzen Brücke aus.
