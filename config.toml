@@ -9,7 +9,7 @@ theme = "LoveIt"
   version = "0.2.X"
   [params.header]
     [params.header.title]
-      logo = "/preview/lib/img/ART-OFF-Logo_1200.png"
+      logo = "/lib/img/ART-OFF-Logo_1200.png"
   [params.footer]
     enable = false
   [params.home.profile]
