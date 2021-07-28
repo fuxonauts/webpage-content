@@ -3,6 +3,7 @@ title: "Rundgang Ost vom 30. Juli - 1. August"
 date: 2021-06-17T18:58:41+02:00
 draft: false
 #gpx: "example_pm.gpx"
+featuredImage: "images/art_off_Hamburg_Postkarte_Rundgang_Ost.jpg"
 ---
 
 Der ART OFF Kultursommer beginnt mit Kunst-Spaziergängen im Hamburger Osten. Kunstwege verbinden zahlreiche Veranstaltungen, die im Umfeld der teilnehmenden Kunsträume und im Freien stattfinden. 
