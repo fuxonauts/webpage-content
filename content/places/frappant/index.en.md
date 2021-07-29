@@ -7,7 +7,7 @@ featuredImage: "images/frappant.jpg"
 street: "Zeiseweg 9"
 city: "22765 Hamburg"
 tel: "www.frappant.org"
-images: ["images/frappant.jpg", "images/beispiel.jpg", "images/beispiel2.jpg", "images/beispiel3.jpg",]
+images: ["images/neues_Frappant-kl.png",]
 ---
 
 Frappant is considered a major player in the city’s art scene, hosting a
