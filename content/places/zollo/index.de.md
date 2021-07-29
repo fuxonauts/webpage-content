@@ -4,9 +4,9 @@ date: 2021-06-25T20:18:28+02:00
 weight: 8
 draft: false
 featuredImage: "images/zollo.jpg"
-street: "Straße 123"
-city: "12345 Hamburg"
-tel: "040 123456"
+street: "Bullerdeich 6"
+city: "0537 Hamburg"
+tel: ""
 images: ["images/zollo.jpg"]
 ---
 
