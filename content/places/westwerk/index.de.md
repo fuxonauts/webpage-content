@@ -6,7 +6,7 @@ draft: false
 featuredImage: "images/westwerk.jpg"
 street: "Admiralitätsstrasse 74"
 city: "20459 Hamburg"
-tel: "www.westwerk.org"
+url: "www.westwerk.org"
 images: ["images/westwerk.jpg"]
 ---
 

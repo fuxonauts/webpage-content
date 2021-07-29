@@ -6,7 +6,7 @@ draft: false
 featuredImage: "images/galerie_genscher.jpg"
 street: "Marktstrasse 138, Hinterhof"
 city: "20357 Hamburg"
-tel: "040 123456"
+url: "040 123456"
 images: ["images/galerie_genscher.jpg"]
 ---
 

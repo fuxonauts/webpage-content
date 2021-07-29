@@ -6,7 +6,7 @@ draft: false
 featuredImage: "images/oel-fr_h.jpg"
 street: "Marckmannstraße 32"
 city: "20539 Hamburg"
-tel: "www.oelfrueh.org"
+url: "www.oelfrueh.org"
 images: ["images/oel-fr_h.jpg"]
 ---
 

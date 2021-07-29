@@ -5,7 +5,7 @@ weight: 10
 draft: false
 featuredImage: "images/projektgruppe.jpg"
 street: "mobile location"
-tel: "http://www.projektgruppe.org/"
+url: "www.projektgruppe.org"
 images: ["images/projektgruppe.jpg"]
 ---
 

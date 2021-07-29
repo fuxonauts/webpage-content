@@ -6,7 +6,7 @@ draft: false
 featuredImage: "images/k_nstlerhaus_sootb_rn.jpg"
 street: "Sootbörn 22"
 city: "22453 Hamburg/Niendorf"
-tel: "www.kuenstlerhaus-sootboern.de"
+url: "www.kuenstlerhaus-sootboern.de"
 images: ["images/k_nstlerhaus_sootb_rn.jpg"]
 ---
 

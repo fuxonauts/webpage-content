@@ -6,7 +6,7 @@ draft: false
 featuredImage: "images/k_nstlerhaus_vorwerk-stift.jpg"
 street: "Vorwerkstr. 21/ Marktstr. 107"
 city: "20357 Hamburg"
-tel: "www.vorwerkstift.de/galerie-21"
+url: "www.vorwerkstift.de/galerie-21"
 images: ["images/k_nstlerhaus_vorwerk-stift.jpg"]
 ---
 

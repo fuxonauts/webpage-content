@@ -6,7 +6,7 @@ draft: false
 featuredImage: "images/raum_links-rechts.jpg"
 street: "Valentinskamp 37"
 city: "20355 Hamburg"
-tel: "www.raumlinksrechts.com"
+url: "www.raumlinksrechts.com"
 images: ["images/raum_links-rechts.jpg"]
 ---
 

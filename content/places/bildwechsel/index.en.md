@@ -6,7 +6,7 @@ draft: false
 featuredImage: "images/bildwechsel.jpg"
 street: "Kirchenallee 25"
 city: "20099 Hamburg"
-tel: "www.bildwechsel.org"
+url: "www.bildwechsel.org"
 images: ["images/bildwechsel.jpg"]
 ---
 

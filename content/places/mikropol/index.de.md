@@ -6,7 +6,7 @@ draft: false
 featuredImage: "images/mikropol.jpg"
 street: "Billhorner Mühlenweg 13"
 city: "20539 Hamburg"
-tel: "https://mikropol.de/kontakt.html"
+url: "mikropol.de/kontakt.html"
 images: ["images/mikropol.jpg"]
 ---
 

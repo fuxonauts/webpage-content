@@ -6,7 +6,7 @@ draft: false
 featuredImage: "images/xpon-art.jpg"
 street: "Repsoldstrasse 45"
 city: "20097 Hamburg"
-tel: "http://xpon-art.de"
+url: "xpon-art.de"
 images: ["images/xpon-art.jpg"]
 ---
 

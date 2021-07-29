@@ -6,7 +6,7 @@ draft: false
 featuredImage: "images/galerie_lad_ns.jpg"
 street: "Valentinskamp 39"
 city: "20355 Hamburg"
-tel: "https://das-gaengeviertel.info/gaengeviertel/portraets-haeuser/puppenstube.html"
+url: "das-gaengeviertel.info/gaengeviertel/portraets-haeuser/puppenstube.html"
 images: ["images/galerie_lad_ns.jpg"]
 ---
 

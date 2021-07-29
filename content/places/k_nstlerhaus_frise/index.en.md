@@ -6,7 +6,7 @@ draft: false
 featuredImage: "images/k_nstlerhaus_frise.jpg"
 street: "Arnoldstraße 26"
 city: "22765 Hamburg"
-tel: ""
+url: ""
 images: ["images/k_nstlerhaus_frise.jpg"]
 ---
 

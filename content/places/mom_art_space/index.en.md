@@ -6,7 +6,7 @@ draft: false
 featuredImage: "images/mom_art_space.jpg"
 street: "Valentinskamp 34a"
 city: "20355 Hamburg"
-tel: "www.fabrique.das-gaengeviertel.info"
+url: "www.fabrique.das-gaengeviertel.info"
 images: ["images/mom_art_space.jpg"]
 ---
 

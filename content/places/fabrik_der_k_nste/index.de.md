@@ -6,7 +6,7 @@ draft: false
 featuredImage: "images/fabrik_der_k_nste.jpg"
 street: "Kreuzbrook 10/12"
 city: "20537 Hamburg"
-tel: "https://www.fabrikderkuenste.de/kontakt.html"
+url: "www.fabrikderkuenste.de/kontakt.html"
 images: ["images/fabrik_der_k_nste.jpg"]
 ---
 

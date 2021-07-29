@@ -6,7 +6,7 @@ draft: false
 featuredImage: "images/come_over_chez_malik_s.jpg"
 street: "Kirchweg 2,"
 city: "20099 Hamburg"
-tel: "https://www.facebook.com/comeoverchezmaliks"
+url: "www.facebook.com/comeoverchezmaliks"
 images: ["images/come_over_chez_malik_s.jpg"]
 ---
 

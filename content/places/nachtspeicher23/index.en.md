@@ -6,7 +6,7 @@ draft: false
 featuredImage: "images/nachtspeicher23.jpg"
 street: "Lindenstrasse 23"
 city: "20099 Hamburg"
-tel: "www.nachtspeicher23.de"
+url: "www.nachtspeicher23.de"
 images: ["images/nachtspeicher23.jpg"]
 ---
 

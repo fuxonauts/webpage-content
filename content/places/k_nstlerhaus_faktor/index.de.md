@@ -6,7 +6,7 @@ draft: false
 featuredImage: "images/k_nstlerhaus_faktor.jpg"
 street: "Max-Brauer-Allee 229"
 city: "22769 Hamburg"
-tel: "www.faktor.hamburg"
+url: "www.faktor.hamburg"
 images: ["images/k_nstlerhaus_faktor.jpg"]
 ---
 

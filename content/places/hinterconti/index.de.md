@@ -6,7 +6,7 @@ draft: false
 featuredImage: "images/hinterconti.jpg"
 street: "Balduinstrasse 24"
 city: "20359 Hamburg"
-tel: "www.hinterconti.de"
+url: "www.hinterconti.de"
 images: ["images/hinterconti.jpg"]
 ---
 

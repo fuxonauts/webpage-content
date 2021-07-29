@@ -5,7 +5,7 @@ weight: 18
 draft: false
 featuredImage: "images/kunst-imbiss.jpg"
 city: "mobile location"
-tel: "www.kunst-imbiss.de"
+url: "www.kunst-imbiss.de"
 images: ["images/kunst-imbiss.jpg"]
 ---
 
