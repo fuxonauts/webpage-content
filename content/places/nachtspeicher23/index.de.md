@@ -4,10 +4,15 @@ date: 2021-06-25T20:18:28+02:00
 weight: 22
 draft: false
 featuredImage: "images/nachtspeicher23.jpg"
-street: "Straße 123"
-city: "12345 Hamburg"
-tel: "040 123456"
+street: "Lindenstrasse 23"
+city: "20099 Hamburg"
+tel: "www.nachtspeicher23.de"
 images: ["images/nachtspeicher23.jpg"]
 ---
 
-Nachtspeicher23 ist ein Kunstort
+Die Galerie nachtspeicher23 ist ein seit 2008 bestehender Off-Space im
+Hamburger Stadtteil St. Georg. Ziel ist es, zeitgenössische Kunst einem
+breiten Publikum nahezubringen, Künstler*innen die Möglichkeit zum
+Experimentieren zu geben, Talente zu fördern sowie die Kommunikation
+über unterschiedliche Themen anzuregen. Durch ein großes Schaufenster
+sind die Ausstellungen auch außerhalb der Öffnungszeiten sichtbar.
