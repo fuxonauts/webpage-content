@@ -1,361 +1,361 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
-  <wpt lat="53.5436" lon="10.0341">
-    <ele>0</ele>
-    <name>ZOLLO 2</name>
-    <desc>  Walk der Tafel&lt;/br&gt;&lt;a href="./events/zollo_2"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5452" lon="10.0069">
-    <ele>0</ele>
-    <name>Spurensicherung</name>
-    <desc>Textile Installation von Anja Matzke&lt;/br&gt;&lt;a href="./events/xpon_07a"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5475" lon="10.0275">
-    <ele>0</ele>
-    <name>Blockperformance</name>
-    <desc>&lt;a href="./events/wende_03"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5475" lon="10.0275">
-    <ele>0</ele>
-    <name>If you love for…</name>
-    <desc>&lt;a href="./events/wende_05"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5539" lon="10.0181">
-    <ele>0</ele>
-    <name>After the Flood</name>
-    <desc>&lt;a href="./events/n23_02c"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5475" lon="10.0275">
-    <ele>0</ele>
-    <name>Motivprobleme on water</name>
-    <desc>&lt;a href="./events/wende_01a"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5500" lon="10.0151">
-    <ele>0</ele>
-    <name>ONE - WHO - T(HERE) oder Individuum - Gesellschaft - Planet</name>
-    <desc>&lt;a href="./events/n23_03a"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5442" lon="10.0401">
-    <ele>0</ele>
-    <name>Ort des Gegen</name>
-    <desc>&lt;a href="./events/proje_11"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5508" lon="09.9931">
-    <ele>0</ele>
-    <name>Weiße Pracht / Der leere Himmel</name>
-    <desc>&lt;a href="./events/xpon_04"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5486" lon="10.0065">
-    <ele>0</ele>
-    <name>20 Jahre Einstellungsraum e.V.</name>
-    <desc>Ausstellung mit Objekten, Malerei und Film&lt;/br&gt;&lt;a href="./events/einst_01a"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.57394" lon="10.07295">
-    <ele>0</ele>
-    <name>Wand und Tür im digitalen Globalismus - 02</name>
-    <desc> Affekt, Effekt, Infekt, Konfekt.&lt;/br&gt;&lt;a href="./events/einst_03a"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5649" lon="10.0354">
-    <ele>0</ele>
-    <name>Wand und Tür im digitalen Globalismus - 01</name>
-    <desc> Affekt, Effekt, Infekt, Konfekt.&lt;/br&gt;&lt;a href="./events/einst_02a"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
   <wpt lat="53.5493" lon="10.0143">
     <ele>0</ele>
     <name>„WERKHAUS MÜNZVIERTEL zur Verschränkung von Pädagogik, Kunst und Quartiersarbeit“</name>
-    <desc> „offene Tür“&lt;/br&gt;&lt;a href="./events/xpon_10c"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5436" lon="10.0341">
-    <ele>0</ele>
-    <name>ZOLLO 7</name>
-    <desc>Regelwidrige Körper II&lt;/br&gt;&lt;a href="./events/zollo_7"&gt;Details...&lt;/a&gt;</desc>
+    <desc>Probe # 9/Präsentation „Heft # 6“/multiphonics trifft  BARNER 16!&lt;/br&gt;&lt;a href="/events/xpon_10a"&gt;Details...&lt;/a&gt;</desc>
   </wpt>
   <wpt lat="53.5539" lon="10.0181">
     <ele>0</ele>
     <name>After the Flood</name>
-    <desc>&lt;a href="./events/n23_02d"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.555011" lon="10.015565">
-    <ele>0</ele>
-    <name>Art &amp; Crime</name>
-    <desc>&lt;a href="./events/noroo_04a"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5442" lon="10.0401">
-    <ele>0</ele>
-    <name>Viel</name>
-    <desc>Workshop&lt;/br&gt;&lt;a href="./events/proje_08b"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5442" lon="10.0401">
-    <ele>0</ele>
-    <name>Infinite Jest</name>
-    <desc>Ausstellung&lt;/br&gt;&lt;a href="./events/proje_13a"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5493" lon="10.0143">
-    <ele>0</ele>
-    <name>„WERKHAUS MÜNZVIERTEL zur Verschränkung von Pädagogik, Kunst und Quartiersarbeit“</name>
-    <desc> „offene Tür“&lt;/br&gt;&lt;a href="./events/xpon_10b"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5539" lon="10.0181">
-    <ele>0</ele>
-    <name>After the Flood</name>
-    <desc>&lt;a href="./events/n23_02h"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5475" lon="10.0275">
-    <ele>0</ele>
-    <name>FORMAT – Changing Grounds</name>
-    <desc>&lt;a href="./events/wende_04"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5371" lon="10.0345">
-    <ele>0</ele>
-    <name>Spekulationsobjekte Rothenburgsort</name>
-    <desc>&lt;a href="./events/mikro_04a"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5435" lon="10.0366">
-    <ele>0</ele>
-    <name>Kooperation Klub.K</name>
-    <desc>&lt;a href="./events/xpon_06a"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5442" lon="10.0401">
-    <ele>0</ele>
-    <name>Zaungespräche</name>
-    <desc>&lt;a href="./events/proje_07"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5548" lon="10.0149">
-    <ele>0</ele>
-    <name>Steindamm Atlas, Eröffnung</name>
-    <desc>Fotografie Ausstellung in Läden und Fenstern des Steindamms&lt;/br&gt;&lt;a href="./events/g21vs_18a"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5436" lon="10.0341">
-    <ele>0</ele>
-    <name>ZOLLO 4</name>
-    <desc>&lt;a href="./events/zollo_4"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5436" lon="10.0341">
-    <ele>0</ele>
-    <name>ZOLLO 6 </name>
-    <desc>Regelwidrige Körper I&lt;/br&gt;&lt;a href="./events/zollo_6"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5442" lon="10.0401">
-    <ele>0</ele>
-    <name>Infinite Jest</name>
-    <desc>Poetry-Sound-Performance&lt;/br&gt;&lt;a href="./events/proje_13b"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5539" lon="10.01805">
-    <ele>0</ele>
-    <name>Jetzt:</name>
-    <desc>&lt;a href="./events/n23_04a"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5442" lon="10.0401">
-    <ele>0</ele>
-    <name>Remont Talk</name>
-    <desc>&lt;a href="./events/proje_03"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5493" lon="10.0143">
-    <ele>0</ele>
-    <name>Domum - nach Hause</name>
-    <desc>&lt;a href="./events/xpon_09"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5475" lon="10.0275">
-    <ele>0</ele>
-    <name>Tapemosphere #27</name>
-    <desc>&lt;a href="./events/wende_02b"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5456" lon="10.0327">
-    <ele>0</ele>
-    <name>flap</name>
-    <desc>&lt;a href="./events/n23_01"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5436" lon="10.0341">
-    <ele>0</ele>
-    <name>ZOLLO 1</name>
-    <desc> Bau der Tafel&lt;/br&gt;&lt;a href="./events/zollo_o1"&gt;Details...&lt;/a&gt;</desc>
+    <desc>&lt;a href="/events/n23_02f"&gt;Details...&lt;/a&gt;</desc>
   </wpt>
   <wpt lat="53.5476" lon="10.0191">
     <ele>0</ele>
     <name>Grenzflächen</name>
-    <desc>&lt;a href="./events/xpon_08"&gt;Details...&lt;/a&gt;</desc>
+    <desc>&lt;a href="/events/xpon_08"&gt;Details...&lt;/a&gt;</desc>
   </wpt>
   <wpt lat="53.5475" lon="10.0275">
     <ele>0</ele>
     <name>Tapemosphere #27</name>
-    <desc>&lt;a href="./events/wende_02a"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5442" lon="10.0401">
-    <ele>0</ele>
-    <name>Remont</name>
-    <desc>&lt;a href="./events/proje_01a"&gt;Details...&lt;/a&gt;</desc>
+    <desc>&lt;a href="/events/wende_02c"&gt;Details...&lt;/a&gt;</desc>
   </wpt>
   <wpt lat="53.5539" lon="10.0181">
     <ele>0</ele>
     <name>After the Flood</name>
-    <desc>&lt;a href="./events/n23_02a"&gt;Details...&lt;/a&gt;</desc>
+    <desc>&lt;a href="/events/n23_02e"&gt;Details...&lt;/a&gt;</desc>
   </wpt>
-  <wpt lat="53.5512" lon="10.0202">
+  <wpt lat="53.5539" lon="10.0181">
     <ele>0</ele>
-    <name>liminal//animal</name>
-    <desc>&lt;a href="./events/xpon_05a"&gt;Details...&lt;/a&gt;</desc>
+    <name>After the Flood</name>
+    <desc>&lt;a href="/events/n23_02g"&gt;Details...&lt;/a&gt;</desc>
   </wpt>
-  <wpt lat="53.5442" lon="10.0401">
+  <wpt lat="53.5539" lon="10.0181">
     <ele>0</ele>
-    <name>Data Morgana</name>
-    <desc>&lt;a href="./events/proje_06a"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5442" lon="10.0401">
-    <ele>0</ele>
-    <name>Viel</name>
-    <desc>Ausstellung&lt;/br&gt;&lt;a href="./events/proje_08a"&gt;Details...&lt;/a&gt;</desc>
+    <name>After the Flood</name>
+    <desc>&lt;a href="/events/n23_02h"&gt;Details...&lt;/a&gt;</desc>
   </wpt>
   <wpt lat="53.5493" lon="10.0143">
     <ele>0</ele>
-    <name>„WERKHAUS MÜNZVIERTEL zur Verschränkung von Pädagogik, Kunst und Quartiersarbeit“</name>
-    <desc>Probe # 9/Präsentation „Heft # 6“/multiphonics trifft  BARNER 16!&lt;/br&gt;&lt;a href="./events/xpon_10a"&gt;Details...&lt;/a&gt;</desc>
+    <name>Domum - nach Hause</name>
+    <desc>&lt;a href="/events/xpon_09"&gt;Details...&lt;/a&gt;</desc>
   </wpt>
-  <wpt lat="53.5436" lon="10.0341">
+  <wpt lat="53.5475" lon="10.0275">
     <ele>0</ele>
-    <name>ZOLLO 3</name>
-    <desc> Host an der Tafel&lt;/br&gt;&lt;a href="./events/zollo_3"&gt;Details...&lt;/a&gt;</desc>
+    <name>If you love for…</name>
+    <desc>&lt;a href="/events/wende_05"&gt;Details...&lt;/a&gt;</desc>
   </wpt>
-  <wpt lat="53.5492" lon="10.0131">
+  <wpt lat="53.5475" lon="10.0275">
     <ele>0</ele>
-    <name>Hong Kong Installation</name>
-    <desc>&lt;a href="./events/xpon_03a"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5539" lon="10.0181">
-    <ele>0</ele>
-    <name>After the Flood</name>
-    <desc>&lt;a href="./events/n23_02g"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5442" lon="10.0401">
-    <ele>0</ele>
-    <name>Living Graffiti</name>
-    <desc>&lt;a href="./events/proje_04a"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5548" lon="10.0149">
-    <ele>0</ele>
-    <name>Steindamm Atlas</name>
-    <desc>Fotografie Ausstellung in Läden und Fenstern des Steindamms&lt;/br&gt;&lt;a href="./events/g21vs_18b"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5436" lon="10.0341">
-    <ele>0</ele>
-    <name>ZOLLO 5</name>
-    <desc>&lt;a href="./events/zollo_5"&gt;Details...&lt;/a&gt;</desc>
+    <name>Motivprobleme on water</name>
+    <desc>&lt;a href="/events/wende_01a"&gt;Details...&lt;/a&gt;</desc>
   </wpt>
   <wpt lat="53.5442" lon="10.0401">
     <ele>0</ele>
     <name>Transitions</name>
-    <desc>&lt;a href="./events/proje_10"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5442" lon="10.0401">
-    <ele>0</ele>
-    <name>Tulipanosolo</name>
-    <desc>&lt;a href="./events/proje_14"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5334" lon="10.03554">
-    <ele>0</ele>
-    <name>Litfaßsäule </name>
-    <desc>&lt;a href="./events/mikro_2a"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5492" lon="10.0131">
-    <ele>0</ele>
-    <name>wir.hier.</name>
-    <desc>vergessene Realitäten&lt;/br&gt;&lt;a href="./events/xpon_02a"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5371" lon="10.0345">
-    <ele>0</ele>
-    <name>Urban Senses </name>
-    <desc>&lt;a href="./events/mikro_1a"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5475" lon="10.0275">
-    <ele>0</ele>
-    <name>Tapemosphere #27</name>
-    <desc>&lt;a href="./events/wende_02c"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5334" lon="10.03554">
-    <ele>0</ele>
-    <name>Litfaßsäule </name>
-    <desc>&lt;a href="./events/mikro_2c"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5442" lon="10.0401">
-    <ele>0</ele>
-    <name>Neuspréch</name>
-    <desc>&lt;a href="./events/proje_12"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5475" lon="10.0275">
-    <ele>0</ele>
-    <name>Hinterhofgesänge</name>
-    <desc>&lt;a href="./events/wende_08"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5492" lon="10.0131">
-    <ele>0</ele>
-    <name>Kunstaufstellungen</name>
-    <desc>&lt;a href="./events/xpon_01a"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5574" lon="09.9706">
-    <ele>0</ele>
-    <name>Aktion Schutzraum</name>
-    <desc>&lt;a href="./events/proje_02"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5371" lon="10.0345">
-    <ele>0</ele>
-    <name>Die Sprache der Spekulation + 1km2 Berlin/Rothenburgsort</name>
-    <desc>Filmscreening im Mikropol&lt;/br&gt;&lt;a href="./events/mikro_03a"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5442" lon="10.0401">
-    <ele>0</ele>
-    <name>On Site</name>
-    <desc>&lt;a href="./events/proje_15"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5442" lon="10.0401">
-    <ele>0</ele>
-    <name>Guided Tours</name>
-    <desc>&lt;a href="./events/proje_16a"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5475" lon="10.0275">
-    <ele>0</ele>
-    <name>Veränderung der Dinge</name>
-    <desc>&lt;a href="./events/wende_06a"&gt;Details...&lt;/a&gt;</desc>
+    <desc>&lt;a href="/events/proje_10"&gt;Details...&lt;/a&gt;</desc>
   </wpt>
   <wpt lat="53.5539" lon="10.0181">
     <ele>0</ele>
     <name>After the Flood</name>
-    <desc>&lt;a href="./events/n23_02f"&gt;Details...&lt;/a&gt;</desc>
+    <desc>&lt;a href="/events/n23_02c"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5475" lon="10.0275">
+    <ele>0</ele>
+    <name>FORMAT – Changing Grounds</name>
+    <desc>&lt;a href="/events/wende_04"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5442" lon="10.0401">
+    <ele>0</ele>
+    <name>Remont Talk</name>
+    <desc>&lt;a href="/events/proje_03"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5436" lon="10.0341">
+    <ele>0</ele>
+    <name>ZOLLO 1</name>
+    <desc> Bau der Tafel&lt;/br&gt;&lt;a href="/events/zollo_o1"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5442" lon="10.0401">
+    <ele>0</ele>
+    <name>Remont</name>
+    <desc>&lt;a href="/events/proje_01a"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5442" lon="10.0401">
+    <ele>0</ele>
+    <name>Jump</name>
+    <desc>&lt;a href="/events/proje_05"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5512" lon="10.0202">
+    <ele>0</ele>
+    <name>liminal//animal</name>
+    <desc>&lt;a href="/events/xpon_05a"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5334" lon="10.03554">
+    <ele>0</ele>
+    <name>Litfaßsäule </name>
+    <desc>&lt;a href="/events/mikro_2a"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5436" lon="10.0341">
+    <ele>0</ele>
+    <name>ZOLLO 5</name>
+    <desc>&lt;a href="/events/zollo_5"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5493" lon="10.0143">
+    <ele>0</ele>
+    <name>„WERKHAUS MÜNZVIERTEL zur Verschränkung von Pädagogik, Kunst und Quartiersarbeit“</name>
+    <desc> „offene Tür“&lt;/br&gt;&lt;a href="/events/xpon_10c"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5442" lon="10.0401">
+    <ele>0</ele>
+    <name>Ort des Gegen</name>
+    <desc>&lt;a href="/events/proje_11"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5371" lon="10.0345">
+    <ele>0</ele>
+    <name>Die Sprache der Spekulation + 1km2 Berlin/Rothenburgsort</name>
+    <desc>Filmscreening im Mikropol&lt;/br&gt;&lt;a href="/events/mikro_03a"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5500" lon="10.0151">
+    <ele>0</ele>
+    <name>ONE - WHO - T(HERE) oder Individuum - Gesellschaft - Planet</name>
+    <desc>&lt;a href="/events/n23_03a"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5475" lon="10.0275">
+    <ele>0</ele>
+    <name>Tapemosphere #27</name>
+    <desc>&lt;a href="/events/wende_02b"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5371" lon="10.0345">
+    <ele>0</ele>
+    <name>Spekulationsobjekte Rothenburgsort</name>
+    <desc>&lt;a href="/events/mikro_04a"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5442" lon="10.0401">
+    <ele>0</ele>
+    <name>
+#PROFAN 1</name>
+    <desc>Die Betrachtung betrachten&lt;/br&gt;&lt;a href="/events/imbis_01b"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5492" lon="10.0131">
+    <ele>0</ele>
+    <name>Hong Kong Installation</name>
+    <desc>&lt;a href="/events/xpon_03a"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5442" lon="10.0401">
+    <ele>0</ele>
+    <name>Living Graffiti</name>
+    <desc>&lt;a href="/events/proje_04a"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5493" lon="10.0143">
+    <ele>0</ele>
+    <name>„WERKHAUS MÜNZVIERTEL zur Verschränkung von Pädagogik, Kunst und Quartiersarbeit“</name>
+    <desc> „offene Tür“&lt;/br&gt;&lt;a href="/events/xpon_10b"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5442" lon="10.0401">
+    <ele>0</ele>
+    <name>On Site</name>
+    <desc>&lt;a href="/events/proje_15"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5442" lon="10.0401">
+    <ele>0</ele>
+    <name>Infinite Jest</name>
+    <desc>Poetry-Sound-Performance&lt;/br&gt;&lt;a href="/events/proje_13b"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5436" lon="10.0341">
+    <ele>0</ele>
+    <name>ZOLLO 4</name>
+    <desc>&lt;a href="/events/zollo_4"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5486" lon="10.0065">
+    <ele>0</ele>
+    <name>20 Jahre Einstellungsraum e.V.</name>
+    <desc>Ausstellung mit Objekten, Malerei und Film&lt;/br&gt;&lt;a href="/events/einst_01a"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5548" lon="10.0149">
+    <ele>0</ele>
+    <name>Steindamm Atlas, Eröffnung</name>
+    <desc>Fotografie Ausstellung in Läden und Fenstern des Steindamms&lt;/br&gt;&lt;a href="/events/g21vs_18a"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5436" lon="10.0341">
+    <ele>0</ele>
+    <name>ZOLLO 7</name>
+    <desc>Regelwidrige Körper II&lt;/br&gt;&lt;a href="/events/zollo_7"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5442" lon="10.0401">
+    <ele>0</ele>
+    <name>Data Morgana</name>
+    <desc>&lt;a href="/events/proje_06a"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5436" lon="10.0341">
+    <ele>0</ele>
+    <name>ZOLLO 2</name>
+    <desc>  Walk der Tafel&lt;/br&gt;&lt;a href="/events/zollo_2"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.57394" lon="10.07295">
+    <ele>0</ele>
+    <name>Wand und Tür im digitalen Globalismus - 02</name>
+    <desc> Affekt, Effekt, Infekt, Konfekt.&lt;/br&gt;&lt;a href="/events/einst_03a"&gt;Details...&lt;/a&gt;</desc>
   </wpt>
   <wpt lat="53.5533" lon="10.0193">
     <ele>0</ele>
     <name>
 #PROFAN 1</name>
-    <desc>Die Betrachtung betrachten&lt;/br&gt;&lt;a href="./events/imbis_01a"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5442" lon="10.0401">
-    <ele>0</ele>
-    <name>Jump</name>
-    <desc>&lt;a href="./events/proje_05"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5442" lon="10.0401">
-    <ele>0</ele>
-    <name>
-#PROFAN 1</name>
-    <desc>Die Betrachtung betrachten&lt;/br&gt;&lt;a href="./events/imbis_01b"&gt;Details...&lt;/a&gt;</desc>
+    <desc>Die Betrachtung betrachten&lt;/br&gt;&lt;a href="/events/imbis_01a"&gt;Details...&lt;/a&gt;</desc>
   </wpt>
   <wpt lat="53.5539" lon="10.0181">
     <ele>0</ele>
     <name>After the Flood</name>
-    <desc>&lt;a href="./events/n23_02e"&gt;Details...&lt;/a&gt;</desc>
+    <desc>&lt;a href="/events/n23_02b"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5442" lon="10.0401">
+    <ele>0</ele>
+    <name>Tulipanosolo</name>
+    <desc>&lt;a href="/events/proje_14"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5508" lon="09.9931">
+    <ele>0</ele>
+    <name>Weiße Pracht / Der leere Himmel</name>
+    <desc>&lt;a href="/events/xpon_04"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5442" lon="10.0401">
+    <ele>0</ele>
+    <name>Infinite Jest</name>
+    <desc>Ausstellung&lt;/br&gt;&lt;a href="/events/proje_13a"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5475" lon="10.0275">
+    <ele>0</ele>
+    <name>Veränderung der Dinge</name>
+    <desc>&lt;a href="/events/wende_06a"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5442" lon="10.0401">
+    <ele>0</ele>
+    <name>Zaungespräche</name>
+    <desc>&lt;a href="/events/proje_07"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5574" lon="09.9706">
+    <ele>0</ele>
+    <name>Aktion Schutzraum</name>
+    <desc>&lt;a href="/events/proje_02"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5539" lon="10.0181">
+    <ele>0</ele>
+    <name>After the Flood</name>
+    <desc>&lt;a href="/events/n23_02a"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5371" lon="10.0345">
+    <ele>0</ele>
+    <name>Urban Senses </name>
+    <desc>&lt;a href="/events/mikro_1a"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5548" lon="10.0149">
+    <ele>0</ele>
+    <name>Steindamm Atlas</name>
+    <desc>Fotografie Ausstellung in Läden und Fenstern des Steindamms&lt;/br&gt;&lt;a href="/events/g21vs_18b"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5436" lon="10.0341">
+    <ele>0</ele>
+    <name>ZOLLO 3</name>
+    <desc> Host an der Tafel&lt;/br&gt;&lt;a href="/events/zollo_3"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5539" lon="10.0181">
+    <ele>0</ele>
+    <name>After the Flood</name>
+    <desc>&lt;a href="/events/n23_02d"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5436" lon="10.0341">
+    <ele>0</ele>
+    <name>ZOLLO 6 </name>
+    <desc>Regelwidrige Körper I&lt;/br&gt;&lt;a href="/events/zollo_6"&gt;Details...&lt;/a&gt;</desc>
   </wpt>
   <wpt lat="53.5334" lon="10.03554">
     <ele>0</ele>
     <name>Litfaßsäule </name>
-    <desc>Filmscreening&lt;/br&gt;&lt;a href="./events/mikro_2b"&gt;Details...&lt;/a&gt;</desc>
+    <desc>Filmscreening&lt;/br&gt;&lt;a href="/events/mikro_2b"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5435" lon="10.0366">
+    <ele>0</ele>
+    <name>Kooperation Klub.K</name>
+    <desc>&lt;a href="/events/xpon_06a"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5442" lon="10.0401">
+    <ele>0</ele>
+    <name>Viel</name>
+    <desc>Ausstellung&lt;/br&gt;&lt;a href="/events/proje_08a"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5649" lon="10.0354">
+    <ele>0</ele>
+    <name>Wand und Tür im digitalen Globalismus - 01</name>
+    <desc> Affekt, Effekt, Infekt, Konfekt.&lt;/br&gt;&lt;a href="/events/einst_02a"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5492" lon="10.0131">
+    <ele>0</ele>
+    <name>Kunstaufstellungen</name>
+    <desc>&lt;a href="/events/xpon_01a"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5456" lon="10.0327">
+    <ele>0</ele>
+    <name>flap</name>
+    <desc>&lt;a href="/events/n23_01"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5492" lon="10.0131">
+    <ele>0</ele>
+    <name>wir.hier.</name>
+    <desc>vergessene Realitäten&lt;/br&gt;&lt;a href="/events/xpon_02a"&gt;Details...&lt;/a&gt;</desc>
   </wpt>
   <wpt lat="53.5442" lon="10.0401">
     <ele>0</ele>
     <name>Hamburger Promenadologie</name>
-    <desc>&lt;a href="./events/proje_09"&gt;Details...&lt;/a&gt;</desc>
+    <desc>&lt;a href="/events/proje_09"&gt;Details...&lt;/a&gt;</desc>
   </wpt>
-  <wpt lat="53.5539" lon="10.0181">
+  <wpt lat="53.555011" lon="10.015565">
     <ele>0</ele>
-    <name>After the Flood</name>
-    <desc>&lt;a href="./events/n23_02b"&gt;Details...&lt;/a&gt;</desc>
+    <name>Art &amp; Crime</name>
+    <desc>&lt;a href="/events/noroo_04a"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5475" lon="10.0275">
+    <ele>0</ele>
+    <name>Blockperformance</name>
+    <desc>&lt;a href="/events/wende_03"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5452" lon="10.0069">
+    <ele>0</ele>
+    <name>Spurensicherung</name>
+    <desc>Textile Installation von Anja Matzke&lt;/br&gt;&lt;a href="/events/xpon_07a"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5475" lon="10.0275">
+    <ele>0</ele>
+    <name>Tapemosphere #27</name>
+    <desc>&lt;a href="/events/wende_02a"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5539" lon="10.01805">
+    <ele>0</ele>
+    <name>Jetzt:</name>
+    <desc>&lt;a href="/events/n23_04a"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5334" lon="10.03554">
+    <ele>0</ele>
+    <name>Litfaßsäule </name>
+    <desc>&lt;a href="/events/mikro_2c"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5442" lon="10.0401">
+    <ele>0</ele>
+    <name>Viel</name>
+    <desc>Workshop&lt;/br&gt;&lt;a href="/events/proje_08b"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5475" lon="10.0275">
+    <ele>0</ele>
+    <name>Hinterhofgesänge</name>
+    <desc>&lt;a href="/events/wende_08"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5442" lon="10.0401">
+    <ele>0</ele>
+    <name>Neuspréch</name>
+    <desc>&lt;a href="/events/proje_12"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5442" lon="10.0401">
+    <ele>0</ele>
+    <name>Guided Tours</name>
+    <desc>&lt;a href="/events/proje_16a"&gt;Details...&lt;/a&gt;</desc>
   </wpt>
   <trk>
     <trkseg>
