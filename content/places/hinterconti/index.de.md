@@ -10,4 +10,6 @@ tel: "040 123456"
 images: ["images/hinterconti.jpg"]
 ---
 
-Hinterconti ist ein Kunstort
+Das hinterconti organisiert seit 1999 wechselnde Ausstellungen Hamburger und internationaler Künstler. Der Schwerpunkt liegt darauf,
+Produktionsprozessen und künstlerischer Praxis ein Forum zu bieten. Das hinterconti ist seit vielen Jahren ein gesuchter Ort des Gesprächs, wo
+Fragestellungen skizziert und Arbeiten gezeigt werden können, die sich noch im Prozess befinden. Im Sommer haben Gäste die Möglichkeit, am Ausstellungsort zu wohnen.
