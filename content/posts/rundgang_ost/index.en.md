@@ -11,7 +11,7 @@ spaces participating in the programme, and en route between them. The tours pass
 
 <!--more-->
 
-This Art Walk joins up the following art spaces and initiatives: *Einstellungsraum*, *Billekraftwerk/Hallo e.V.*, *Kunst-Imbiss*, *Künstlerhaus Wendenstraße/Studio 45*, *Mikropol*, 
+This Art Walk joins up the following art spaces and initiatives: *Ateliers Kraftwerk Bille*, *Einstellungsraum*, *Billekraftwerk/Hallo e.V.*, *Kunst-Imbiss*, *Künstlerhaus Wendenstraße/Studio 45*, *Mikropol*, 
 *nachtspeicher23*, *noroomgallery*, *Oel-Früh*, *Projektgruppe*, *xpon-art gallery* und *Zollo*. In addition, we are glad to welcome on board the *Fabrik der Künste*, offering a glimpse of the 
-“Positions” of the BBK, the professional association of visual artists.
+“Positions” of the *BBK*, the professional association of visual artists.
 
