@@ -4,10 +4,13 @@ date: 2021-06-25T20:18:28+02:00
 weight: 17
 draft: false
 featuredImage: "images/galerie_genscher.jpg"
-street: "Straße 123"
-city: "12345 Hamburg"
-tel: "040 123456"
+street: "Marktstrasse 138, Hinterhof,"
+city: "20357 Hamburg"
+tel: "www.galerie-genscher.com"
 images: ["images/galerie_genscher.jpg"]
 ---
 
-Galerie Genscher ist ein Kunstort
+Das Ausstellungsprogramm umfasst seit 2007 Präsentationen von Gegenwartskunst junger Künstler*innen und in diesem Kontext Lesungen,
+Filmvorführungen, Vorträge und Symposien. Nachdem das Atelierhaus und die Räumlichkeiten der Galerie durch die Stadt Hamburg saniert
+wurden, konnte das Programm erfolgreich auf andere Orte übertragen werden – wie etwa bei der temporären „Container- Galerie“ am Millerntor. 
+Die Galerie Genscher ist seit 2016 wieder in ihre Räume zurückgekehrt.
