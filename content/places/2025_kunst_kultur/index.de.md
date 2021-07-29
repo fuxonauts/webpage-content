@@ -10,4 +10,7 @@ tel: "040 123456"
 images: ["images/2025_kunst_kultur.jpg"]
 ---
 
-2025 Kunst & Kultur ist ein Kunstort
+Die Ausstellungstätigkeit im Projektraum von 2025 beginnt im Jahr 2009, von 2014-2018 wurde die Ausstellungsreihe „AKTION“ beherbergt. AKTION
+steht jeden Freitag des Jahres von 20.00–23.00 Uhr für eine künstlerische Position offen. Es sind ausdrücklich alle künstlerischen Ausdrucksformen
+erlaubt. Darüber hinaus auch Positionen, die sich an den Rändern etablierter Kunstrichtungen befinden. Die Aktionen werden zeitnah und fortlaufend
+auf der eigens eingerichteten Website dokumentiert.
