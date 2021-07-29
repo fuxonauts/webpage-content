@@ -4,10 +4,13 @@ date: 2021-06-25T20:18:28+02:00
 weight: 24
 draft: false
 featuredImage: "images/k_nstlerhaus_frise.jpg"
-street: "Straße 123"
-city: "12345 Hamburg"
+street: "Arnoldstrasse 26"
+city: "22765 Hamburg"
 tel: "040 123456"
 images: ["images/k_nstlerhaus_frise.jpg"]
 ---
 
-Künstlerhaus Frise is an art place
+Frise, Hamburg‘s first artists’ cooperative, was founded by the artists’
+associations Künstlerhaus Weidenallee (since 1977) and ABZ (since 1994)
+in a former hairdressing institute. “Production, exchange, exhibition” is
+the motto of this artists’ house covering 2.400 sq. m.
