@@ -4,10 +4,15 @@ date: 2021-06-25T20:18:28+02:00
 weight: 4
 draft: false
 featuredImage: "images/k_nstlerhaus_wendenstra_e.jpg"
-street: "Straße 123"
-city: "12345 Hamburg"
-tel: "040 123456"
+street: "Wendenstrasse 45 B-C"
+city: "20097 Hamburg"
+tel: "www.wendenstrasse.org"
 images: ["images/k_nstlerhaus_wendenstra_e.jpg"]
 ---
 
-Künstlerhaus Wendenstraße ist ein Kunstort
+Das Künstlerhaus Wendenstraße ist eine Ateliergemeinschaft in Hamburg-
+Hammerbrook. Umringt von Bürobauten, die dieses Quartier dominieren,
+arbeiten hier um die 70 Künstlerinnen und Künstler. Im Studio 45
+finden regelmäßig Ausstellungen, Konzerte und interdisziplinäre Projekte
+statt. Der Raum dient als Experimentierlabor für Kunst am lebenden
+Geiste. Alle sind willkommen.
