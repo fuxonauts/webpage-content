@@ -69,4 +69,4 @@ concept and begin purchase negotiations
 _ Frappant is a tenant of fux eg and continues to operate
 the gallery and the tile room
 
-Translated with www.DeepL.com/Translator (free version)
+
