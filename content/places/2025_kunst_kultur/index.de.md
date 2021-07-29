@@ -4,9 +4,9 @@ date: 2021-06-25T20:18:28+02:00
 weight: 11
 draft: false
 featuredImage: "images/2025_kunst_kultur.jpg"
-street: "Straße 123"
-city: "12345 Hamburg"
-tel: "040 123456"
+street: "Ruhrstraße 88"
+city: "22761 Hamburg"
+tel: "www.2025ev.de"
 images: ["images/2025_kunst_kultur.jpg"]
 ---
 
