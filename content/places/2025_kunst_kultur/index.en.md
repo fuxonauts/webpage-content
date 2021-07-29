@@ -6,8 +6,10 @@ draft: false
 featuredImage: "images/2025_kunst_kultur.jpg"
 street: "Straße 123"
 city: "12345 Hamburg"
-tel: "040 123456"
+tel: "www.2025ev.de"
 images: ["images/2025_kunst_kultur.jpg"]
 ---
 
-2025 Kunst & Kultur is an art place
+The exhibition activity in the project space starts in 2009, from 2014-2018 the exhibition series „AKTION“ was accommodated. ACTION opens every
+Friday evening of the year from 8 to 11 p.m. to present an artistic position. All artistic expressions are encouraged, as well as positions located on the periphery of established art forms. The exhibitions are documented soon after taking place and uploaded continuously on the specially created 2025
+website.
