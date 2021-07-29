@@ -6,7 +6,7 @@ draft: false
 featuredImage: "images/frappant.jpg"
 street: "Zeiseweg 9"
 city: "22765 Hamburg"
-tel: "ausstellung@frappant.org"
+tel: "ausstellung@frappant.org, www.frappant.org"
 images: ["images/beispiel.jpg", "images/beispiel2.jpg", "images/beispiel3.jpg", "images/beispiel4.jpg"]
 ---
 
