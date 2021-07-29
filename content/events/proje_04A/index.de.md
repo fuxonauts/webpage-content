@@ -9,6 +9,7 @@ street: "Bullerdeich 12-14"
 address: "20537 Hamburg"
 organizers: ["Projektgruppe"]
 artists: "Inge Förtsch aka Amber Jam"
+walks: ["Ost"]
 genres: ['Performance']
 kids: []
 featuredImage: ""

@@ -9,6 +9,7 @@ street: "Wandsbeker Marktstraße"
 address: "22041 Hamburg"
 organizers: ["Einstellungsraum e.V."]
 artists: "Heiko Wommelsdorf"
+walks: ["Ost"]
 genres: ['Musik']
 kids: []
 featuredImage: ""

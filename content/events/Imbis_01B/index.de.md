@@ -10,6 +10,7 @@ street: "Bullerdeich 12-14"
 address: "20537 Hamburg"
 organizers: ["Kunst-Imbiss"]
 artists: "90 versch. KünstlerInnen"
+walks: ["Ost"]
 genres: ['Performance', 'Malerei', 'Fotografie', 'Skulptur', 'Literatur']
 kids: []
 featuredImage: ""

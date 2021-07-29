@@ -9,6 +9,7 @@ street: "Start: Hochbunker Feldstraße, Haupttor"
 address: "20359 Hamburg"
 organizers: ["Projektgruppe"]
 artists: "Aktionsgruppe GREEN"
+walks: ["Ost"]
 genres: ['Land Art']
 kids: []
 featuredImage: ""

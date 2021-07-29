@@ -15,3 +15,4 @@ This Art Walk joins up the following art spaces and initiatives: *Ateliers Kraft
 *nachtspeicher23*, *noroomgallery*, *Oel-Früh*, *Projektgruppe*, *xpon-art gallery* und *Zollo*. In addition, we are glad to welcome on board the *Fabrik der Künste*, offering a glimpse of the 
 “Positions” of the *BBK*, the professional association of visual artists.
 
+[List of all events of this walk](/walks/ost/)

@@ -9,6 +9,7 @@ street: "Billhorner Mühlenweg geg. Nr. 14"
 address: "20539 Hamburg"
 organizers: ["Mikropol"]
 artists: "Guerillia Architects"
+walks: ["Ost"]
 genres: ['Performance']
 kids: []
 featuredImage: ""

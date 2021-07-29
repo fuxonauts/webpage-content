@@ -9,6 +9,7 @@ street: "Rosenallee 11"
 address: "20097 Hamburg"
 organizers: ["Xpon-Art Gallery"]
 artists: "Florian Huber"
+walks: ["Ost"]
 genres: []
 kids: []
 featuredImage: ""

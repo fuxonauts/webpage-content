@@ -9,6 +9,7 @@ street: "Wendenstraße 45"
 address: "20097 Hamburg"
 organizers: ["Wendenstrasse 45"]
 artists: "Raphaela Andrade, Alice Barkhausen"
+walks: ["Ost"]
 genres: ['Performance', 'Skulptur']
 kids: []
 featuredImage: ""

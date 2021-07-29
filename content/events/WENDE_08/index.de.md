@@ -9,6 +9,7 @@ street: "Wendenstraße 45"
 address: "20097 Hamburg"
 organizers: ["Wendenstrasse 45"]
 artists: "Florian Bräunlich, Felix Kubin"
+walks: ["Ost"]
 genres: ['Musik', 'Performance', 'Skulptur']
 kids: []
 featuredImage: ""

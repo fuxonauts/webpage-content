@@ -9,6 +9,7 @@ street: "     Startpunkt in St. Georg nach persönlicher Anmeldung"
 address: "Hamburg"
 organizers: ["noroomgallery"]
 artists: "Mariola Brillowska"
+walks: ["Ost"]
 genres: []
 kids: []
 featuredImage: ""

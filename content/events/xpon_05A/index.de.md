@@ -9,6 +9,7 @@ street: "Norderstraße"
 address: "20097 Hamburg"
 organizers: ["Xpon-Art Gallery"]
 artists: "The Current Dance Collective"
+walks: ["Ost"]
 genres: ['Performance']
 kids: []
 featuredImage: ""

@@ -9,6 +9,7 @@ street: "Klosterwall 23"
 address: "20095 Hamburg"
 organizers: ["Einstellungsraum e.V."]
 artists: "Utz Biesemann, Rahel Bruhns, Rasmus Gerlach, Dorothea Goldschmidt, Waltraut Kiessner, Yukari Kosakai, Sabine Mohr, Adriane Steckhan, Llaura I. Suenner, Elke Suhr"
+walks: ["Ost"]
 genres: ['Malerei', 'Fotografie', 'Skulptur', 'Literatur']
 kids: []
 featuredImage: ""

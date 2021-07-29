@@ -9,6 +9,7 @@ street: "Wendenstraße 45"
 address: "20097 Hamburg"
 organizers: ["Wendenstrasse 45"]
 artists: "Robin Hinsch, Janusz Beck, Tomas Sussex"
+walks: ["Ost"]
 genres: ['Fotografie', 'Skulptur']
 kids: []
 featuredImage: ""

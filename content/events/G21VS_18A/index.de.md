@@ -9,6 +9,7 @@ street: "Steindamm ( vor dem Kiosk 25)"
 address: "20099 Hamburg"
 organizers: ["Galerie21/Vorwerkstift"]
 artists: "Alexandra Polina"
+walks: ["Ost"]
 genres: []
 kids: []
 featuredImage: ""

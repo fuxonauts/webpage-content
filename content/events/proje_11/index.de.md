@@ -9,6 +9,7 @@ street: "Bullerdeich 12-14"
 address: "20537 Hamburg"
 organizers: ["Projektgruppe"]
 artists: "Ort des Gegen e.V."
+walks: ["Ost"]
 genres: ['Literatur']
 kids: []
 featuredImage: ""

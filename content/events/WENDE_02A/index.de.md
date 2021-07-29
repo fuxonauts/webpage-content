@@ -9,6 +9,7 @@ street: "Wendenstraße 45"
 address: "20097 Hamburg"
 organizers: ["Künstlerhaus wendenstraße 45"]
 artists: "Block Barley, Balz Isler, Bela Pablo Jansen"
+walks: ["Ost"]
 genres: ['Musik', 'Skulptur']
 kids: []
 featuredImage: ""

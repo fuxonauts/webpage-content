@@ -15,3 +15,4 @@ Beteiligt sind die Kunstorte und Initiativen *Ateliers Kraftwerk Bille*, *Einste
 *nachtspeicher23*, *noroomgallery*, *Oel-Früh*, *Projektgruppe*, *xpon-art gallery* und *Zollo*. Als Gast begrüßen wir die Fabrik der Künste mit den „Positionen“ des *Berufsverbandes Bildender 
 Künstler\*innen*.
 
+[Liste aller Events dieses Rundgangs](/walks/ost/)

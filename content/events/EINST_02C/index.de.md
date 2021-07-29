@@ -9,6 +9,7 @@ street: "Wandsbeker Chaussee 11"
 address: "22089 Hamburg"
 organizers: ["Einstellungsraum e.V."]
 artists: "Rasmus Gerlach, Yukari Kosakai, Llaura I. Sünner"
+walks: ["Ost"]
 genres: ['Fotografie', 'Skulptur']
 kids: []
 featuredImage: ""

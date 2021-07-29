@@ -9,6 +9,7 @@ street: "Süderstraße 112"
 address: "20537 Hamburg "
 organizers: ["Nachtspeicher23"]
 artists: "Elisa Manig"
+walks: ["Ost"]
 genres: ['Skulptur']
 kids: []
 featuredImage: ""

@@ -10,6 +10,7 @@ street: "Lindenplatz"
 address: "20099 Hamburg"
 organizers: ["Kunst-Imbiss"]
 artists: "90 versch. KünstlerInnen"
+walks: ["Ost"]
 genres: ['Performance', 'Malerei', 'Fotografie', 'Skulptur', 'Literatur']
 kids: []
 featuredImage: ""

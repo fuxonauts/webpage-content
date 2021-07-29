@@ -9,6 +9,7 @@ street: "Wendenstraße 45"
 address: "20097 Hamburg"
 organizers: ["Wendenstrasse 45"]
 artists: "Hye-Eun Kim, Hyo Jin Shin, Otto Oscar Hernandez Ruiz, Lukas Grubba"
+walks: ["Ost"]
 genres: ['Musik', 'darstellende Kunst', 'Performance']
 kids: []
 featuredImage: ""

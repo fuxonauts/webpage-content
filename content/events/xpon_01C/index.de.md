@@ -9,6 +9,7 @@ street: "Repsoldstraße 45"
 address: " 20097 Hamburg"
 organizers: ["Xpon-Art Gallery"]
 artists: "Mariola Brillowska, Carla Riveros Eissmann"
+walks: ["Ost"]
 genres: ['Performance']
 kids: []
 featuredImage: ""

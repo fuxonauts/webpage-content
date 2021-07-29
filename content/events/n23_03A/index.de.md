@@ -9,6 +9,7 @@ street: "zwischen Baustelle Anfang Norderstraße und Fußgängertunnel"
 address: "20099 Hamburg"
 organizers: ["Nachtspeicher23"]
 artists: "R&STkollektiv, QeerQeenArtEnsemble "
+walks: ["Ost"]
 genres: ['Performance', 'Literatur']
 kids: []
 featuredImage: ""

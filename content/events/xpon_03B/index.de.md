@@ -9,6 +9,7 @@ street: "Repsoldstraße 45"
 address: "20097 Hamburg"
 organizers: ["Xpon-Art Gallery"]
 artists: "Pia Kintrup"
+walks: ["Ost"]
 genres: []
 kids: []
 featuredImage: ""

@@ -9,6 +9,7 @@ street: "Bullerdeich 12-14"
 address: "20537 Hamburg"
 organizers: ["Projektgruppe"]
 artists: "Tulipanosolo"
+walks: ["Ost"]
 genres: ['Musik']
 kids: []
 featuredImage: ""

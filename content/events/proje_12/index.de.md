@@ -9,6 +9,7 @@ street: "Bullerdeich 12-14"
 address: "20537 Hamburg"
 organizers: ["Projektgruppe"]
 artists: "Simon Starke, Oliver Ross"
+walks: ["Ost"]
 genres: []
 kids: []
 featuredImage: ""

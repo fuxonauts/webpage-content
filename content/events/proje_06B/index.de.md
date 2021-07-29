@@ -9,6 +9,7 @@ street: "Bullerdeich 12-14"
 address: "20537 Hamburg"
 organizers: ["Projektgruppe"]
 artists: "Well Wired Team, Maukel, Jarmatz"
+walks: ["Ost"]
 genres: ['Performance']
 kids: []
 featuredImage: ""

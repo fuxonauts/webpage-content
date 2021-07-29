@@ -9,6 +9,7 @@ street: "Bullerdeich 12-14"
 address: "20537 Hamburg"
 organizers: ["Projektgruppe"]
 artists: "Nabila Attar, Melissa E. Logan, Laura Ziegler"
+walks: ["Ost"]
 genres: ['Musik', 'Performance', 'Skulptur', 'Literatur']
 kids: []
 featuredImage: ""
