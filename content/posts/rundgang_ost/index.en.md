@@ -2,8 +2,8 @@
 title: "Art Walk East: 30 July to 1 August"
 date: 2021-06-17T18:58:41+02:00
 draft: false
-#gpx: "example_pm.gpx"
-featuredImage: "images/art_off_Hamburg_Postkarte_Rundgang_Ost.jpg"
+gpx: "Ost.de.gpx"
+featuredImage: ""
 ---
 
 The ART OFF Kultursommer kicks off with a series of Art Walks exploring the east end of Hamburg. Each tour links up numerous events due to be held outdoors in the neighbourhoods of those art 
