@@ -6,7 +6,7 @@ draft: false
 featuredImage: "images/galerie_speckstra_e.jpg"
 street: "Speckstrasse 83-85"
 city: "20355 Hamburg"
-url: "www.das-gaengeviertel.info/
+contactUrl: "www.das-gaengeviertel.info/
 gaengeviertel/portraets-haeuser/speckstrasse.html"
 images: ["images/galerie_speckstra_e.jpg"]
 ---

@@ -6,7 +6,7 @@ draft: false
 featuredImage: "images/k_nstler_innenhaus_bergedorf.jpg"
 street: "Möörkenweg 18 b–g"
 city: "21029 Hamburg"
-url: "www.kuenstlerhaus-bergedorf.de"
+contactUrl: "www.kuenstlerhaus-bergedorf.de"
 images: ["images/k_nstler_innenhaus_bergedorf.jpg"]
 ---
 

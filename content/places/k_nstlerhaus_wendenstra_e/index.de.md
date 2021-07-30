@@ -6,7 +6,7 @@ draft: false
 featuredImage: "images/k_nstlerhaus_wendenstra_e.jpg"
 street: "Wendenstrasse 45 B-C"
 city: "20097 Hamburg"
-url: "www.wendenstrasse.org"
+contactUrl: "www.wendenstrasse.org"
 images: ["images/k_nstlerhaus_wendenstra_e.jpg"]
 ---
 

@@ -6,7 +6,7 @@ draft: false
 featuredImage: "images/projektgruppe.jpg"
 street: "Straße 123"
 city: "12345 Hamburg"
-url: "040 123456"
+contactUrl: "040 123456"
 images: ["images/projektgruppe.jpg"]
 ---
 

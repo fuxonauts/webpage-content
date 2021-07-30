@@ -6,7 +6,7 @@ draft: false
 featuredImage: "images/frappant.jpg"
 street: "Zeiseweg 9"
 city: "22765 Hamburg"
-url: "www.frappant.org"
+contactUrl: "www.frappant.org"
 images: ["images/neues_Frappant-kl.png",]
 ---
 

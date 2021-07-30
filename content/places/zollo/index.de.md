@@ -6,7 +6,7 @@ draft: false
 featuredImage: "images/zollo.jpg"
 street: "Bullerdeich 6"
 city: "0537 Hamburg"
-url: ""
+contactUrl: ""
 images: ["images/zollo.jpg"]
 ---
 

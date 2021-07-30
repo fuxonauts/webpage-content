@@ -5,7 +5,7 @@ weight: 21
 draft: false
 featuredImage: "images/noroom_gallery.jpg"
 city: "mobile location"
-url: "www.noroomgallery.com"
+contactUrl: "www.noroomgallery.com"
 images: ["images/noroom_gallery.jpg"]
 ---
 

@@ -6,7 +6,7 @@ draft: false
 featuredImage: "images/galerie_genscher.jpg"
 street: "Marktstrasse 138, Hinterhof,"
 city: "20357 Hamburg"
-url: "www.galerie-genscher.com"
+contactUrl: "www.galerie-genscher.com"
 images: ["images/galerie_genscher.jpg"]
 ---
 

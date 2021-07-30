@@ -6,7 +6,7 @@ draft: false
 featuredImage: "images/2025_kunst_kultur.jpg"
 street: "Ruhrstraße 88"
 city: "22761 Hamburg"
-url: "www.2025ev.de"
+contactUrl: "www.2025ev.de"
 images: ["images/2025_kunst_kultur.jpg"]
 ---
 

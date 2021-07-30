@@ -6,7 +6,7 @@ draft: false
 featuredImage: "images/fabrik_der_k_nste.jpg"
 street: "Straße 123"
 city: "12345 Hamburg"
-url: "040 123456"
+contactUrl: "040 123456"
 images: ["images/fabrik_der_k_nste.jpg"]
 ---
 

@@ -6,7 +6,7 @@ draft: false
 featuredImage: "images/einstellungsraum.jpg"
 street: "Wandsbeker Chaussee 11"
 city: "22089 Hamburg"
-url: "www.einstellungsraum.de"
+contactUrl: "www.einstellungsraum.de"
 images: ["images/einstellungsraum.jpg"]
 ---
 

@@ -6,7 +6,7 @@ draft: false
 featuredImage: "images/hallo_.jpg"
 street: "Bullerdeich 14b"
 city: "20537 Hamburg"
-url: "hallohallohallo.org/de"
+contactUrl: "hallohallohallo.org/de"
 images: ["images/hallo_.jpg"]
 ---
 
