@@ -6,7 +6,7 @@ draft: false
 featuredImage: "images/ateliers_kraftwerk_bille.jpg"
 street: "Bullerdeich 12-14"
 city: "20537 Hamburg"
-contactUrl: "https://ateliers-kraftwerk-bille.de/"
+contactUrl: "ateliers-kraftwerk-bille.de"
 images: ["images/ateliers_kraftwerk_bille.jpg"]
 ---
 
