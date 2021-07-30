@@ -7,7 +7,7 @@ featuredImage: "images/nachtspeicher23.jpg"
 street: "Lindenstrasse 23"
 city: "20099 Hamburg"
 contactUrl: "www.nachtspeicher23.de"
-images: ["images/n23-2019-01-LOVEANTIC01.jpg"]
+images: ["images/nachtspeicher23.jpg", "images/n23-2019-01-LOVEANTIC01.jpg"]
 ---
 
 The nachtspeicher23 gallery, founded in 2008, is an alternative art space
