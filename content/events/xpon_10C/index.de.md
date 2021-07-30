@@ -13,8 +13,8 @@ walks: ["Ost"]
 genres: []
 kids: []
 featuredImage: ""
-repeats: []
-repeat_times: []
+repeats: ['xpon_10A', 'xpon_10B']
+repeat_times: ['2021-07-30T14:00:00', '2021-07-31T14:00:00']
 sequels: []
 sequel_times: []
 ---

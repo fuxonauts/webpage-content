@@ -1,6 +1,6 @@
 ---
 title: "„WERKHAUS MÜNZVIERTEL zur Verschränkung von Pädagogik, Kunst und Quartiersarbeit“"
-subtitle: "Probe # 9/Präsentation „Heft # 6“/multiphonics trifft  BARNER 16!"
+subtitle: "Probe # 9/Präsentation „Heft # 6“/multiphonics trifft BARNER 16!"
 date: 2021-07-30T14:00:00
 publishDate: 2021-06-25T19:40:36+02:00
 end: 2021-07-30T20:00:00
@@ -13,8 +13,8 @@ walks: ["Ost"]
 genres: []
 kids: []
 featuredImage: ""
-repeats: []
-repeat_times: []
+repeats: ['xpon_10B', 'xpon_10C']
+repeat_times: ['2021-07-31T14:00:00', '2021-08-01T14:00:00']
 sequels: []
 sequel_times: []
 ---
