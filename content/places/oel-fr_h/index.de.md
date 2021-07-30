@@ -13,6 +13,6 @@ images: ["images/oel-fr_h.jpg"]
 Die Galerie Oel-Früh verdankt ihren Namen den gleichnamigen Räumen
 am Brandshofer Deich in Hamburg, die sie bis 2012 nutzte. Ab Mai 2019
 bespielt sie einen temporären Ort mit Einzelausstellungen überregionaler
-Künstler*innen. Die Galerie Oel-Früh steht für zeitgenössische und unabhängige
-Kunst, die in Hamburg einen festen Platz für Künstler*innen und
+Künstler\*innen. Die Galerie Oel-Früh steht für zeitgenössische und unabhängige
+Kunst, die in Hamburg einen festen Platz für Künstler\*innen und
 Kulturschaffende gefunden hat.
