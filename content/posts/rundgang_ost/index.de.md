@@ -11,8 +11,9 @@ Sie führen durch Wandsbek, St. Georg, Rothenburgsort und Hammerbrook.
 
 <!--more-->
 
-Beteiligt sind die Kunstorte und Initiativen *Ateliers Kraftwerk Bille*, *Einstellungsraum*, *Billekraftwerk/Hallo e.V.*, *Kunst-Imbiss*, *Künstlerhaus Wendenstraße/Studio 45*, *Mikropol*, 
-*nachtspeicher23*, *noroomgallery*, *Oel-Früh*, *Projektgruppe*, *xpon-art gallery* und *Zollo*. Als Gast begrüßen wir die Fabrik der Künste mit den „Positionen“ des *Berufsverbandes Bildender 
-Künstler\*innen*.
+Beteiligt sind die Kunstorte und Initiativen *Ateliers Kraftwerk Bille*, [Einstellungsraum](/places/einstellungsraum/), [Billekraftwerk/Hallo e.V.](/places/hallo_/), [Kunst-Imbiss](/places/kunst-imbiss/), 
+[Künstlerhaus Wendenstraße/Studio 45](/places/k_nstlerhaus_wendenstra_e/), [Mikropol](/places/mikropol/), [nachtspeicher23](/places/nachtspeicher23/), [noroomgallery](/places/noroom_gallery/), 
+[Oel-Früh](/places/oel-fr_h/), [Projektgruppe](/places/projektgruppe/), [xpon-art gallery](/places/xpon-art/) und [Zollo](/places/zollo/). Als Gast begrüßen wir die Fabrik der Künste mit den „Positionen“ 
+des *Berufsverbandes Bildender Künstler\*innen*.
 
 [Liste aller Events dieses Rundgangs](/walks/ost/)
