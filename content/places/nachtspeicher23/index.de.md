@@ -7,7 +7,7 @@ featuredImage: "images/nachtspeicher23.jpg"
 street: "Lindenstrasse 23"
 city: "20099 Hamburg"
 contactUrl: "www.nachtspeicher23.de"
-images: ["images/nachtspeicher23.jpg"]
+images: ["images/n23-2019-01-LOVEANTIC01.jpg"]
 ---
 
 Die Galerie nachtspeicher23 ist ein seit 2008 bestehender Off-Space im
