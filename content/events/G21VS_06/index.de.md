@@ -8,7 +8,7 @@ draft: false
 street: "Vorwerkstraße 21 / Marktstraße 107"
 address: "20357 Hamburg"
 organizers: ["Galerie21/Vorwerkstift"]
-artists: "['Nader Hamzeh', ' Torres']"
+artists: ['Nader Hamzeh', ' Torres']
 walks: ['Mitte']
 genres: ['Musik', 'Malerei']
 kids: []

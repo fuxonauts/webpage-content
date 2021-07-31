@@ -8,7 +8,7 @@ draft: false
 street: "Sootbörn 22"
 address: "22453 Hamburg"
 organizers: ["Künstlerhaus Sootbörn"]
-artists: "['Peter Nikolaus Heikenwälder']"
+artists: ['Peter Nikolaus Heikenwälder']
 walks: ['Niendorf']
 genres: ['Performance', 'Skulptur']
 kids: []

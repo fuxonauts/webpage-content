@@ -8,7 +8,7 @@ draft: false
 street: "Marktstraße 138 – 141"
 address: "20357 Hamburg"
 organizers: ["Galerie Genscher"]
-artists: "['Franzeska Leoni']"
+artists: ['Franzeska Leoni']
 walks: ['Mitte']
 genres: ['Fotografie', 'Literatur']
 kids: ['Kinderprogramm']

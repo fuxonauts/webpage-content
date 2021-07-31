@@ -8,7 +8,7 @@ draft: false
 street: "Valentinskamp 34a"
 address: "20355 Hamburg"
 organizers: ["Gängeviertel"]
-artists: "['Sophie Domenz', ' Hendrike Ernst', ' Max und Anton', ' Eva und Hanna']"
+artists: ['Sophie Domenz', ' Hendrike Ernst', ' Max und Anton', ' Eva und Hanna']
 walks: ['Mitte']
 genres: ['Musik', 'Performance']
 kids: ['Kinderprogramm']

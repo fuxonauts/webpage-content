@@ -8,7 +8,7 @@ draft: false
 street: "Valentinskamp 34a"
 address: "20355 Hamburg"
 organizers: ["Gängeviertel"]
-artists: "['Mark Lyrer', ' Patricia Wedler', ' Joachim', ' Till', ' Pio Mazur Jessica', ' Christine Ebeling']"
+artists: ['Mark Lyrer', ' Patricia Wedler', ' Joachim', ' Till', ' Pio Mazur Jessica', ' Christine Ebeling']
 walks: ['Mitte']
 genres: ['Musik', 'Performance']
 kids: []

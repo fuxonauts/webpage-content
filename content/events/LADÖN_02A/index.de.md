@@ -8,7 +8,7 @@ draft: false
 street: "Gängeviertel, draußen"
 address: "Hamburg"
 organizers: ["Galerie LADØNS"]
-artists: "['Kuno Seltmann', ' Amir Hossein Abootalebi']"
+artists: ['Kuno Seltmann', ' Amir Hossein Abootalebi']
 walks: ['Mitte']
 genres: ['darstellende Kunst', 'Performance']
 kids: []

@@ -8,7 +8,7 @@ draft: false
 street: "Tibarg"
 address: "22459 Hamburg"
 organizers: ["Kunst-Imbiss"]
-artists: "['']"
+artists: []
 walks: ['Niendorf']
 genres: ['Performance', 'Malerei', 'Fotografie', 'Skulptur', 'Literatur']
 kids: []

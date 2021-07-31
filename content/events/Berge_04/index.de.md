@@ -8,7 +8,7 @@ draft: false
 street: "Möörkenweg 18 b-g"
 address: "21029 Hamburg"
 organizers: ["Künstler*innenhaus Bergedorf"]
-artists: "['Eun jung Sim', ' Seok Lee']"
+artists: ['Eun jung Sim', ' Seok Lee']
 walks: ['Bergedorf']
 genres: []
 kids: []

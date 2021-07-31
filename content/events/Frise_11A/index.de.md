@@ -8,7 +8,7 @@ draft: false
 street: "Winterstraße 2"
 address: "22765 Hamburg"
 organizers: ["Künstlerhaus Frise"]
-artists: "['Uli M. Fischer']"
+artists: ['Uli M. Fischer']
 walks: ['West']
 genres: ['Land Art']
 kids: []

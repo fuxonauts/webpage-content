@@ -8,7 +8,7 @@ draft: false
 street: "Möörkenweg 18 b-g"
 address: "21029 Hamburg"
 organizers: ["Künstler*innenhaus Bergedorf"]
-artists: "['Jutta Konjer']"
+artists: ['Jutta Konjer']
 walks: ['Bergedorf']
 genres: ['Fotografie', 'Skulptur']
 kids: []

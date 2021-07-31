@@ -8,7 +8,7 @@ draft: false
 street: "Ruhrstraße 88"
 address: "22761 Hamburg"
 organizers: ["2025 Kunst & Kultur"]
-artists: "['Sophia Lund und Freunde']"
+artists: ['Sophia Lund und Freunde']
 walks: ['West']
 genres: ['Musik', 'Performance']
 kids: []

@@ -8,7 +8,7 @@ draft: false
 street: "Plakatwände in Karoviertel, Sternschanze und St. Pauli"
 address: "Hamburg"
 organizers: ["Galerie21/Vorwerkstift"]
-artists: "['Julen Iztueta']"
+artists: ['Julen Iztueta']
 walks: ['Mitte']
 genres: ['Fotografie']
 kids: []

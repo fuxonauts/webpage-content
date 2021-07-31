@@ -8,7 +8,7 @@ draft: false
 street: "Valentinskamp 34a"
 address: "20355 Hamburg"
 organizers: ["Gängeviertel"]
-artists: "['Mark Matthes', ' Lutz Nikolaus Kratzer', ' Katharina Duve', ' Christine Ebeling']"
+artists: ['Mark Matthes', ' Lutz Nikolaus Kratzer', ' Katharina Duve', ' Christine Ebeling']
 walks: ['Mitte']
 genres: ['Musik', 'Performance']
 kids: []

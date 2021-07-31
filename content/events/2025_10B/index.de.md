@@ -8,7 +8,7 @@ draft: false
 street: "Ruhrstraße 88 (Startpunkt)"
 address: "22761 Hamburg"
 organizers: ["2025 Kunst & Kultur"]
-artists: "['Gloria Brillowska', ' Iris Minich', ' Oskar Minich']"
+artists: ['Gloria Brillowska', ' Iris Minich', ' Oskar Minich']
 walks: ['West']
 genres: ['Musik', 'darstellende Kunst', 'Performance']
 kids: []

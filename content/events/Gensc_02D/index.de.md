@@ -8,7 +8,7 @@ draft: false
 street: "Marktstraße 138 – 141"
 address: "20357 Hamburg"
 organizers: ["Galerie Genscher"]
-artists: "['Julia Nordholz']"
+artists: ['Julia Nordholz']
 walks: ['Mitte']
 genres: ['Musik', 'Performance']
 kids: []

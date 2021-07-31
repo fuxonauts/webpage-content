@@ -8,7 +8,7 @@ draft: false
 street: "Arnoldstraße 26-30"
 address: "22765 Hamburg"
 organizers: ["Künstlerhaus Frise"]
-artists: "['Franziska Opel']"
+artists: ['Franziska Opel']
 walks: ['West']
 genres: ['Skulptur']
 kids: []

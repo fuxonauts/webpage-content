@@ -8,7 +8,7 @@ draft: false
 street: "Valentinskamp 34a"
 address: "20355 Hamburg"
 organizers: ["Gängeviertel"]
-artists: "['Andrew KrellundPartner', ' Christoph Twickel', ' Carla Riveiros Eißmann', ' Ulli Bomans', ' Björn']"
+artists: ['Andrew KrellundPartner', ' Christoph Twickel', ' Carla Riveiros Eißmann', ' Ulli Bomans', ' Björn']
 walks: ['Mitte']
 genres: ['Musik', 'Performance']
 kids: []

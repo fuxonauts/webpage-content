@@ -8,7 +8,7 @@ draft: false
 street: "Arnoldstraße 26-30"
 address: "22765 Hamburg"
 organizers: ["Künstlerhaus Frise"]
-artists: "['Doro Carl', ' Uli M. Fischer', ' Hans-Jörg Kapp', ' Jörn Staeger', ' Andreas Theurer  ']"
+artists: ['Doro Carl', ' Uli M. Fischer', ' Hans-Jörg Kapp', ' Jörn Staeger', ' Andreas Theurer  ']
 walks: ['West']
 genres: ['darstellende Kunst']
 kids: []

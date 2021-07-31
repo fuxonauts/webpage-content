@@ -8,7 +8,7 @@ draft: false
 street: "Norderreihe 2"
 address: "22765 Hamburg"
 organizers: ["Galerie21/Vorwerkstift"]
-artists: "['Maite Oritz']"
+artists: ['Maite Oritz']
 walks: ['West']
 genres: ['Performance', 'Land Art']
 kids: ['Kinderprogramm']

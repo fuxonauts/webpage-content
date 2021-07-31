@@ -8,7 +8,7 @@ draft: false
 street: "Admiralitätstraße 74"
 address: "20459 Hamburg"
 organizers: ["Westwerk"]
-artists: "['René Huthwelker', ' Felix Kubin', ' Death Metal Performance', ' Mark Wehrmann', ' Mariola Brillowska', ' The Heffels', ' Passierzettel', ' Ernst Bechert', ' dura lux', ' Franziska Paula Wolber', ' Olivia von Pock']"
+artists: ['René Huthwelker', ' Felix Kubin', ' Death Metal Performance', ' Mark Wehrmann', ' Mariola Brillowska', ' The Heffels', ' Passierzettel', ' Ernst Bechert', ' dura lux', ' Franziska Paula Wolber', ' Olivia von Pock']
 walks: ['Mitte']
 genres: ['Musik', 'Performance', 'Skulptur']
 kids: []

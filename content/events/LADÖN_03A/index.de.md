@@ -8,7 +8,7 @@ draft: false
 street: "Gängeviertel, draußen"
 address: "Hamburg"
 organizers: ["Galerie LADØNS"]
-artists: "['Sam Gora']"
+artists: ['Sam Gora']
 walks: ['Mitte']
 genres: ['darstellende Kunst', 'Performance']
 kids: []

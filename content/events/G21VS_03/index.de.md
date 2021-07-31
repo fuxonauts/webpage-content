@@ -8,7 +8,7 @@ draft: false
 street: "Marktstraße 25"
 address: "20357 Hamburg"
 organizers: ["Galerie21/Vorwerkstift"]
-artists: "['Maschin Kaput', ' Magnolie', ' Wotwot', ' Yves Cruchot', ' David Huss']"
+artists: ['Maschin Kaput', ' Magnolie', ' Wotwot', ' Yves Cruchot', ' David Huss']
 walks: ['Mitte']
 genres: ['Musik', 'Performance']
 kids: []

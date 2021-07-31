@@ -8,7 +8,7 @@ draft: false
 street: "Sootbörn 22"
 address: "22453 Hamburg"
 organizers: ["Künstlerhaus Sootbörn"]
-artists: "['Jan Dietrich', ' Jenny Feldmann', ' Marcel Große', ' Simon und Hannes Hehemann', ' Peter Nikolaus Heikenwälder', ' Maria Hobbing', ' Kathrin Horsch', ' Joachim Jacob', ' Zacharias Lojenburg und Christian Nykolyszyn', ' Daniela Wesenberg', ' Katja Windau', ' Barbara Zenner']"
+artists: ['Jan Dietrich', ' Jenny Feldmann', ' Marcel Große', ' Simon und Hannes Hehemann', ' Peter Nikolaus Heikenwälder', ' Maria Hobbing', ' Kathrin Horsch', ' Joachim Jacob', ' Zacharias Lojenburg und Christian Nykolyszyn', ' Daniela Wesenberg', ' Katja Windau', ' Barbara Zenner']
 walks: ['Niendorf']
 genres: ['Performance', 'Skulptur']
 kids: []

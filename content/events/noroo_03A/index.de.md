@@ -8,7 +8,7 @@ draft: false
 street: "Unverortet – das Magazin wird auf dem ART OFF Kultursommer vertrieben / verteilt"
 address: "Hamburg"
 organizers: ["Noroom Gallery"]
-artists: "['Ansgar Hilbig']"
+artists: ['Ansgar Hilbig']
 walks: ['Ost', ' Mitte', ' West']
 genres: ['Literatur']
 kids: []

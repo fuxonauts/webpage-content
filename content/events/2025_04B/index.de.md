@@ -8,7 +8,7 @@ draft: false
 street: "Tunnel Harkortstraße"
 address: "22765 Hamburg"
 organizers: ["2025 Kunst & Kultur"]
-artists: "['Lukasz Chrobok', ' Leonid Kharlamov']"
+artists: ['Lukasz Chrobok', ' Leonid Kharlamov']
 walks: ['West']
 genres: ['Musik', 'Performance']
 kids: []

@@ -8,7 +8,7 @@ draft: false
 street: "Internet DOWNLOAD auf der Webseite"
 address: ""
 organizers: ["Noroom Gallery"]
-artists: "['J.Holtmann', ' Armin Chodzinski', ' BFS_Besonderer-Fußstreifendienst', ' Bogomir Ecker', ' Ole Frahm ', ' Michael Hueners', ' Stefan Kaegie', ' Susanne König', ' Peter Piller', ' Knarf Rellöm', ' Martin Schmitz', ' Katrin Wildner']"
+artists: ['J.Holtmann', ' Armin Chodzinski', ' BFS_Besonderer-Fußstreifendienst', ' Bogomir Ecker', ' Ole Frahm ', ' Michael Hueners', ' Stefan Kaegie', ' Susanne König', ' Peter Piller', ' Knarf Rellöm', ' Martin Schmitz', ' Katrin Wildner']
 walks: ['']
 genres: ['darstellende Kunst', 'Literatur']
 kids: []

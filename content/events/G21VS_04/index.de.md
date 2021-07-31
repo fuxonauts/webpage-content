@@ -8,7 +8,7 @@ draft: false
 street: "Plakatwände in Karoviertel, Sternschanze und St. Pauli"
 address: ""
 organizers: ["Galerie21/Vorwerkstift"]
-artists: "['Jenny Bewer']"
+artists: ['Jenny Bewer']
 walks: ['Mitte']
 genres: ['Fotografie']
 kids: []

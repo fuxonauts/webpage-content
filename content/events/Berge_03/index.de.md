@@ -8,7 +8,7 @@ draft: false
 street: "Möörkenweg 18 b-g"
 address: "21029 Hamburg"
 organizers: ["Künstler*innenhaus Bergedorf"]
-artists: "['Franz Kraft']"
+artists: ['Franz Kraft']
 walks: ['Bergedorf']
 genres: ['Fotografie', 'Skulptur']
 kids: []

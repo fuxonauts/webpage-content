@@ -8,7 +8,7 @@ draft: false
 street: "Ruhrstraße 88"
 address: "22761 Hamburg"
 organizers: ["2025 Kunst & Kultur"]
-artists: "['Alexander Raymond']"
+artists: ['Alexander Raymond']
 walks: ['West']
 genres: ['Musik', 'Malerei', 'Fotografie']
 kids: []

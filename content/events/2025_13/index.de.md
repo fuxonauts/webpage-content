@@ -8,7 +8,7 @@ draft: false
 street: "Ruhrstraße 88"
 address: "22761 Hamburg"
 organizers: ["2025 Kunst & Kultur"]
-artists: "['Jim Avignon']"
+artists: ['Jim Avignon']
 walks: ['West']
 genres: ['Musik', 'Malerei']
 kids: []

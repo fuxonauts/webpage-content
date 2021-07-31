@@ -8,7 +8,7 @@ draft: false
 street: "Balduinstraße 24"
 address: "20359 Hamburg"
 organizers: ["Hinterconti"]
-artists: "['Alexandra Hojenski', ' Dörte Habighorst']"
+artists: ['Alexandra Hojenski', ' Dörte Habighorst']
 walks: ['Mitte']
 genres: ['darstellende Kunst']
 kids: ['Kinderprogramm']

@@ -8,7 +8,7 @@ draft: false
 street: "Ruhrstraße 88"
 address: "22761 Hamburg"
 organizers: ["2025 Kunst & Kultur"]
-artists: "['Lukasz Chrobok', ' Leonid Kharlamov']"
+artists: ['Lukasz Chrobok', ' Leonid Kharlamov']
 walks: ['West']
 genres: ['Musik', 'Performance', 'Malerei']
 kids: []

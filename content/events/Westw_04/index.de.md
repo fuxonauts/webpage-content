@@ -8,7 +8,7 @@ draft: false
 street: "Admiralitätstraße 74"
 address: "20459 Hamburg"
 organizers: ["Westwerk"]
-artists: "['A Wall is a Screen']"
+artists: ['A Wall is a Screen']
 walks: ['']
 genres: ['Performance']
 kids: []

@@ -8,7 +8,7 @@ draft: false
 street: "Sootbörn 22"
 address: "22453 Hamburg"
 organizers: ["Künstlerhaus Sootbörn"]
-artists: "['Maria Hobbing', ' Krischa Weber']"
+artists: ['Maria Hobbing', ' Krischa Weber']
 walks: ['Niendorf']
 genres: ['Musik', 'Performance']
 kids: []

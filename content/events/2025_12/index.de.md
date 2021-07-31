@@ -8,7 +8,7 @@ draft: false
 street: "Ruhrstraße 88"
 address: "22761 Hamburg"
 organizers: ["2025 Kunst & Kultur"]
-artists: "['Günter Reznicek']"
+artists: ['Günter Reznicek']
 walks: ['West']
 genres: ['Musik', 'darstellende Kunst', 'Performance', 'Literatur']
 kids: []

@@ -8,7 +8,7 @@ draft: false
 street: "Ruhrstraße 88"
 address: "22761 Hamburg"
 organizers: ["2025 Kunst & Kultur"]
-artists: "['Anne-Kathrin Bohn und Ina Friedrich', ' Alexa Rasch', ' Caroline Bartels und Philippa Jasper']"
+artists: ['Anne-Kathrin Bohn und Ina Friedrich', ' Alexa Rasch', ' Caroline Bartels und Philippa Jasper']
 walks: ['West']
 genres: ['Performance', 'Malerei']
 kids: []

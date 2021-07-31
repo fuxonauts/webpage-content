@@ -8,7 +8,7 @@ draft: false
 street: "Sootbörn 22"
 address: "22453 Hamburg"
 organizers: ["Künstlerhaus Sootbörn"]
-artists: "['Kathrin Horsch']"
+artists: ['Kathrin Horsch']
 walks: ['Niendorf']
 genres: ['Performance']
 kids: []

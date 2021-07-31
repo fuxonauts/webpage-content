@@ -8,7 +8,7 @@ draft: false
 street: "Arnoldstraße 26-30"
 address: "22765 Hamburg"
 organizers: ["Künstlerhaus Frise"]
-artists: "['Sylvia Schultes']"
+artists: ['Sylvia Schultes']
 walks: ['West']
 genres: ['darstellende Kunst', 'Malerei']
 kids: []

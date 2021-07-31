@@ -8,7 +8,7 @@ draft: false
 street: "Valentinskamp 39"
 address: "20354 Hamburg"
 organizers: ["Galerie LADØNS"]
-artists: "['Claudia Holzinger', ' Lilly Urbat', ' Janina Zais']"
+artists: ['Claudia Holzinger', ' Lilly Urbat', ' Janina Zais']
 walks: ['Mitte']
 genres: ['darstellende Kunst']
 kids: []

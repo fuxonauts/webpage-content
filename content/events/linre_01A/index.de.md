@@ -8,7 +8,7 @@ draft: false
 street: "Raum linksrechts, Valentinskamp 37"
 address: "20355 Hamburg"
 organizers: ["Raum Links-Rechts"]
-artists: "['Eva Egalitaria']"
+artists: ['Eva Egalitaria']
 walks: ['Mitte']
 genres: ['darstellende Kunst', 'Performance', 'Land Art']
 kids: []

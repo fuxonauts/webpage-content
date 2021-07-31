@@ -8,7 +8,7 @@ draft: false
 street: "Platz der Genossenschaft, Marktstr. 112"
 address: "20357 Hamburg"
 organizers: ["Galerie Genscher"]
-artists: "['Christoph Rauch']"
+artists: ['Christoph Rauch']
 walks: ['Mitte']
 genres: ['Performance']
 kids: []

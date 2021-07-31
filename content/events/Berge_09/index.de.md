@@ -8,7 +8,7 @@ draft: false
 street: "Möörkenweg 18 b-g"
 address: "21029 Hamburg"
 organizers: ["Künstler*innenhaus Bergedorf"]
-artists: "['Balldur Burwitz']"
+artists: ['Balldur Burwitz']
 walks: ['Bergedorf']
 genres: []
 kids: []

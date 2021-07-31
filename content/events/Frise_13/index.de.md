@@ -8,7 +8,7 @@ draft: false
 street: "an verschiedenen Orten zu verschiedenen Uhrzeiten"
 address: ""
 organizers: ["Künstlerhaus Frise"]
-artists: "['Thomas Rieck']"
+artists: ['Thomas Rieck']
 walks: ['West']
 genres: ['Performance']
 kids: []

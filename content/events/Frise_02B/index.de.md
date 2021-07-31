@@ -8,7 +8,7 @@ draft: false
 street: "an vielen verschiedenen Orten"
 address: "Hamburg"
 organizers: ["Künstlerhaus Frise"]
-artists: "['Eva Riekehof']"
+artists: ['Eva Riekehof']
 walks: ['West']
 genres: ['Performance', 'Literatur']
 kids: []

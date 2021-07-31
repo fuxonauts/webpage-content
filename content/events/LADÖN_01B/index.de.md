@@ -8,7 +8,7 @@ draft: false
 street: "Gängeviertel, draußen"
 address: "Hamburg"
 organizers: ["Galerie LADØNS"]
-artists: "[' Lucas Lacerda', ' Daniel Weyand']"
+artists: [' Lucas Lacerda', ' Daniel Weyand']
 walks: ['Mitte']
 genres: ['Performance']
 kids: []

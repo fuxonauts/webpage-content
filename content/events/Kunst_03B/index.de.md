@@ -8,7 +8,7 @@ draft: false
 street: "Bergedorfer Markt oder Johann-Adolf-Hasse-Platz"
 address: "21029 Hamburg"
 organizers: ["Kunst-Imbiss"]
-artists: "['']"
+artists: []
 walks: ['Bergedorf']
 genres: ['Performance', 'Malerei', 'Fotografie', 'Skulptur', 'Literatur']
 kids: []

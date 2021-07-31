@@ -8,7 +8,7 @@ draft: false
 street: "Balduinstraße 24"
 address: "20359 Hamburg"
 organizers: ["Hinterconti"]
-artists: "['Elena Friedrich', ' Pachet Fulmen', ' Jan Gazarra', ' Judith Rau', ' Dörte Habighorst', ' Philomena Lauprecht', ' Felix Mayer', ' TinTin Patrone', ' Alice Peragine', ' Katja Lell', ' Felix Raithel ']"
+artists: ['Elena Friedrich', ' Pachet Fulmen', ' Jan Gazarra', ' Judith Rau', ' Dörte Habighorst', ' Philomena Lauprecht', ' Felix Mayer', ' TinTin Patrone', ' Alice Peragine', ' Katja Lell', ' Felix Raithel ']
 walks: ['Mitte']
 genres: ['Musik', 'darstellende Kunst']
 kids: []

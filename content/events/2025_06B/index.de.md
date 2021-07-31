@@ -8,7 +8,7 @@ draft: false
 street: "Ruhrstraße 88 und div. Orte"
 address: "22761 Hamburg"
 organizers: ["2025 Kunst & Kultur"]
-artists: "['David Fletcher']"
+artists: ['David Fletcher']
 walks: ['West']
 genres: ['Malerei', 'Fotografie', 'Skulptur']
 kids: []

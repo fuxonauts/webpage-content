@@ -8,7 +8,7 @@ draft: false
 street: "Arnoldstraße 26-30"
 address: "22765 Hamburg"
 organizers: ["Künstlerhaus Frise"]
-artists: "['Sylvie Réno', ' Frédéric Clavère', ' Blandine Herrmann']"
+artists: ['Sylvie Réno', ' Frédéric Clavère', ' Blandine Herrmann']
 walks: ['West']
 genres: ['Land Art']
 kids: []

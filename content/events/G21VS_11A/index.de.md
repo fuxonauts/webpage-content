@@ -8,7 +8,7 @@ draft: false
 street: " Marktstraße 93"
 address: "20357 Hamburg"
 organizers: ["Galerie21/Vorwerkstift"]
-artists: "['TinTin']"
+artists: ['TinTin']
 walks: ['Mitte']
 genres: ['Performance']
 kids: []

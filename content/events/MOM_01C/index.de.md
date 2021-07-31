@@ -8,7 +8,7 @@ draft: false
 street: "Neustadt- Ein Ort in Planten und Blomen"
 address: "Hamburg"
 organizers: ["Mom Art Space"]
-artists: "[' Andrea Fischer', ' Irem Göcan', ' Sharon  Engelhardt', ' Priska Engelhardt', ' Ute Rauwald', ' Dagmar Rauwald', ' Harald Kainer', ' Clara Bauer', ' Berna Celebi', ' Levin Hoffmann', ' Marlene Kreidt', ' Josefine Kreidt']"
+artists: [' Andrea Fischer', ' Irem Göcan', ' Sharon  Engelhardt', ' Priska Engelhardt', ' Ute Rauwald', ' Dagmar Rauwald', ' Harald Kainer', ' Clara Bauer', ' Berna Celebi', ' Levin Hoffmann', ' Marlene Kreidt', ' Josefine Kreidt']
 walks: ['Mitte']
 genres: ['Performance', 'Skulptur', 'Land Art']
 kids: []

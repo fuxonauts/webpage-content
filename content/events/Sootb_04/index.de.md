@@ -8,7 +8,7 @@ draft: false
 street: "Sootbörn 22"
 address: "22453 Hamburg"
 organizers: ["Künstlerhaus Sootbörn"]
-artists: "['Simon und Hannes Hehemann']"
+artists: ['Simon und Hannes Hehemann']
 walks: ['Niendorf']
 genres: ['Skulptur']
 kids: []

@@ -8,7 +8,7 @@ draft: false
 street: "Gustav-Mahler-Platz (Colonnaden)"
 address: "20354 Hamburg"
 organizers: ["Kunst-Imbiss"]
-artists: "['']"
+artists: []
 walks: ['Mitte']
 genres: ['Performance', 'Malerei', 'Fotografie', 'Skulptur', 'Literatur']
 kids: []

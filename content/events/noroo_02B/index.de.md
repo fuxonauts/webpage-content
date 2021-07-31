@@ -8,7 +8,7 @@ draft: false
 street: "Unverortet – die Mode wird „on the Road“ und auf den Routen präsentiert"
 address: "Hamburg"
 organizers: ["Noroom Gallery"]
-artists: "['Gloria Brillowska', ' Jan Holtmann']"
+artists: ['Gloria Brillowska', ' Jan Holtmann']
 walks: ['Ost', ' Mitte', ' West']
 genres: ['Performance']
 kids: []

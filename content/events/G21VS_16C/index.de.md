@@ -8,7 +8,7 @@ draft: false
 street: "Vorwerkstraße 21 / Marktstraße 107"
 address: "20357 Hamburg"
 organizers: ["Galerie21/Vorwerkstift"]
-artists: "['Simone Kessler', ' Gabi Blum', ' Cale Garrido', ' Philipp Meuser', ' Kolja Warnecke']"
+artists: ['Simone Kessler', ' Gabi Blum', ' Cale Garrido', ' Philipp Meuser', ' Kolja Warnecke']
 walks: ['Mitte']
 genres: ['darstellende Kunst', 'Fotografie']
 kids: []

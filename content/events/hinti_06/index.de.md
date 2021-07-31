@@ -8,7 +8,7 @@ draft: false
 street: " Planten un Blomen gegenüber Minigolf, Nähe Ausgang Millerntor/St.Pauli"
 address: "Hamburg"
 organizers: ["Hinterconti"]
-artists: "['Bianca\nMüllner', ' The_Current_Dance_Collecitve']"
+artists: ['Bianca\nMüllner', ' The_Current_Dance_Collecitve']
 walks: ['Mitte']
 genres: ['darstellende Kunst', 'Performance', 'Fotografie']
 kids: []

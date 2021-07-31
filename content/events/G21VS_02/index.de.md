@@ -8,7 +8,7 @@ draft: false
 street: "Vorwerkstraße 21 / Marktstraße 107"
 address: "20357 Hamburg"
 organizers: ["Galerie21/Vorwerkstift"]
-artists: "['Elisa Juri', 'Catalina Gonzalez']"
+artists: ['Elisa Juri', 'Catalina Gonzalez']
 walks: ['Mitte']
 genres: ['Literatur']
 kids: []

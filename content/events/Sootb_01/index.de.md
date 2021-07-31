@@ -8,7 +8,7 @@ draft: false
 street: "Sootbörn 22"
 address: "22453 Hamburg"
 organizers: ["Künstlerhaus Sootbörn"]
-artists: "['Jan Dietrich']"
+artists: ['Jan Dietrich']
 walks: ['Niendorf']
 genres: ['Musik', 'Skulptur']
 kids: []

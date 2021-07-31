@@ -8,7 +8,7 @@ draft: false
 street: "Ruhrstraße 88"
 address: "22761 Hamburg"
 organizers: ["2025 Kunst & Kultur"]
-artists: "['CAS', ' Philippa Jasper', ' David Fletcher', ' Gloria Brillowska', ' Roland Doil']"
+artists: ['CAS', ' Philippa Jasper', ' David Fletcher', ' Gloria Brillowska', ' Roland Doil']
 walks: ['West']
 genres: ['Malerei', 'Fotografie', 'Skulptur']
 kids: []

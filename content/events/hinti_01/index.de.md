@@ -8,7 +8,7 @@ draft: false
 street: "Eifflerstraße 35"
 address: "22769 Hamburg"
 organizers: ["Hinterconti"]
-artists: "['Louise Vind Nielsen', ' Jana de Jonge', ' Hye-Eun Kim', ' Kimberly Clark']"
+artists: ['Louise Vind Nielsen', ' Jana de Jonge', ' Hye-Eun Kim', ' Kimberly Clark']
 walks: ['Mitte']
 genres: ['Musik']
 kids: []

@@ -8,7 +8,7 @@ draft: false
 street: " Planten un Blomen gegenüber Minigolf, Nähe Ausgang Millerntor/St.Pauli"
 address: "Hamburg"
 organizers: ["Hinterconti"]
-artists: "['Florian Huber', ' Penny Monogiou']"
+artists: ['Florian Huber', ' Penny Monogiou']
 walks: ['Mitte']
 genres: ['darstellende Kunst']
 kids: []

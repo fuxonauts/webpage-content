@@ -8,7 +8,7 @@ draft: false
 street: "Arnoldstraße 26-30"
 address: "22765 Hamburg"
 organizers: ["Künstlerhaus Frise"]
-artists: "['Rahel Bruns']"
+artists: ['Rahel Bruns']
 walks: ['West']
 genres: ['Skulptur']
 kids: []

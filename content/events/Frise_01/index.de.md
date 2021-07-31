@@ -8,7 +8,7 @@ draft: false
 street: "Arnoldstraße 26-30"
 address: " 22765 Hamburg"
 organizers: ["Künstlerhaus Frise"]
-artists: "['Christian F. Kintz']"
+artists: ['Christian F. Kintz']
 walks: ['West']
 genres: ['Malerei', 'Skulptur']
 kids: []

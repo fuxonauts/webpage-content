@@ -8,7 +8,7 @@ draft: false
 street: "Balduinstraße 24"
 address: "20359 Hamburg"
 organizers: ["Hinterconti"]
-artists: "['Charlotte Arnhold', ' Stefan Mildenberger', ' Anna Tautfest']"
+artists: ['Charlotte Arnhold', ' Stefan Mildenberger', ' Anna Tautfest']
 walks: ['West']
 genres: ['Musik', 'darstellende Kunst']
 kids: []

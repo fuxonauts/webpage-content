@@ -8,7 +8,7 @@ draft: false
 street: "Umgebung Ruhrstraße"
 address: "Hamburg"
 organizers: ["2025 Kunst & Kultur"]
-artists: "['Quirin Nebas']"
+artists: ['Quirin Nebas']
 walks: ['West']
 genres: ['Musik', 'Performance']
 kids: []

@@ -8,7 +8,7 @@ draft: false
 street: "Admiralitätstraße 74"
 address: "20459 Hamburg"
 organizers: ["Westwerk"]
-artists: "['Sabine Siegfried']"
+artists: ['Sabine Siegfried']
 walks: ['']
 genres: ['Performance']
 kids: []

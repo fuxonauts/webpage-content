@@ -8,7 +8,7 @@ draft: false
 street: "Caffamacherreihe 45"
 address: "20355 Hamburg"
 organizers: ["Mom Art Space"]
-artists: "['Veronika Froch', ' Marcia Breuer', ' Jenny Schäfer', ' Natalia Sidor', ' Miquel Martinez', ' Maik Gräf', ' Carsten Rabe']"
+artists: ['Veronika Froch', ' Marcia Breuer', ' Jenny Schäfer', ' Natalia Sidor', ' Miquel Martinez', ' Maik Gräf', ' Carsten Rabe']
 walks: ['Mitte']
 genres: ['Fotografie']
 kids: []

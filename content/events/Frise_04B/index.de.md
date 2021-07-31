@@ -8,7 +8,7 @@ draft: false
 street: "Eulenstraße 31-35"
 address: "22765 Hamburg"
 organizers: ["Künstlerhaus Frise"]
-artists: "['Hinrich Gross']"
+artists: ['Hinrich Gross']
 walks: ['West']
 genres: ['Land Art']
 kids: []

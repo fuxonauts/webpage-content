@@ -8,7 +8,7 @@ draft: false
 street: "Plakatwände in Karoviertel, Sternschanze und St. Pauli"
 address: "Hamburg"
 organizers: ["Galerie21/Vorwerkstift"]
-artists: "['Jewgeni Roppel']"
+artists: ['Jewgeni Roppel']
 walks: ['Mitte']
 genres: ['Fotografie']
 kids: []

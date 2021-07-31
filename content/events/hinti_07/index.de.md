@@ -8,7 +8,7 @@ draft: false
 street: " Planten un Blomen gegenüber Minigolf, Nähe Ausgang Millerntor/St.Pauli"
 address: "Hamburg"
 organizers: ["Hinterconti"]
-artists: "['Dos Pfeil']"
+artists: ['Dos Pfeil']
 walks: ['Mitte']
 genres: ['darstellende Kunst', 'Performance', 'Malerei', 'Literatur']
 kids: []

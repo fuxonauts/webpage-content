@@ -8,7 +8,7 @@ draft: false
 street: "Marktstraße 138 – 141"
 address: "20357 Hamburg"
 organizers: ["Galerie Genscher"]
-artists: "['Michael Kellner']"
+artists: ['Michael Kellner']
 walks: ['Mitte']
 genres: ['Performance', 'Literatur']
 kids: []

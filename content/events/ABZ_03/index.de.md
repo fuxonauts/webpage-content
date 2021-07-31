@@ -8,7 +8,7 @@ draft: false
 street: "Arnoldstraße 26-30"
 address: "22765 Hamburg"
 organizers: ["Künstlerhaus Frise"]
-artists: "['Doro Carl', ' Uli M. Fischer', ' Karin Haenlein', ' Andreas Lang', ' Gabriele Schwark', '  Jörn Staeger', '\n']"
+artists: ['Doro Carl', ' Uli M. Fischer', ' Karin Haenlein', ' Andreas Lang', ' Gabriele Schwark', '  Jörn Staeger', '\n']
 walks: ['West']
 genres: ['darstellende Kunst']
 kids: []

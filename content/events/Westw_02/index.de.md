@@ -8,7 +8,7 @@ draft: false
 street: "Admiralitätstraße 74"
 address: "20459 Hamburg"
 organizers: ["Westwerk"]
-artists: "['Mark Matthes', ' Frauke Aulbert', ' Schlonz Maggo', ' Olga Gregorjewa', ' Nelly Boyd', ' Carnage 7', ' Halma', ' Georg Lisek', ' Reproducts', ' Franziska Paula Wolber', ' Olivia von Pock']"
+artists: ['Mark Matthes', ' Frauke Aulbert', ' Schlonz Maggo', ' Olga Gregorjewa', ' Nelly Boyd', ' Carnage 7', ' Halma', ' Georg Lisek', ' Reproducts', ' Franziska Paula Wolber', ' Olivia von Pock']
 walks: ['Mitte']
 genres: ['Musik', 'Performance', 'Skulptur']
 kids: []

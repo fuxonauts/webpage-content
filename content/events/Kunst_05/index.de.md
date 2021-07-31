@@ -8,7 +8,7 @@ draft: false
 street: "Neue Große Bergstraße 7-9"
 address: "22767 Hamburg"
 organizers: ["Kunst-Imbiss"]
-artists: "['']"
+artists: []
 walks: ['West']
 genres: ['Performance', 'Malerei', 'Fotografie', 'Skulptur', 'Literatur']
 kids: []

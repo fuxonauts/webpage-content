@@ -8,7 +8,7 @@ draft: false
 street: "     Startpunkt in Bahrenfeld nach persönlicher Anmeldung"
 address: "Hamburg"
 organizers: ["Noroom Gallery"]
-artists: "[' Einsiedel_und_Jung']"
+artists: [' Einsiedel_und_Jung']
 walks: ['West']
 genres: ['Performance']
 kids: []

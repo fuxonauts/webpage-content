@@ -8,7 +8,7 @@ draft: false
 street: "Vorwerkstraße 21 / Marktstraße 107"
 address: "20357 Hamburg"
 organizers: ["Galerie21/Vorwerkstift"]
-artists: "['Birgit Weyhe', ' Christina Gransow', ' Lilli Gärtner', ' Jul Gordon', 'Till D. Thomas']"
+artists: ['Birgit Weyhe', ' Christina Gransow', ' Lilli Gärtner', ' Jul Gordon', 'Till D. Thomas']
 walks: ['Mitte']
 genres: ['Skulptur', 'Literatur']
 kids: []

@@ -8,7 +8,7 @@ draft: false
 street: "Arnoldstraße 26-30"
 address: "22765 Hamburg"
 organizers: ["Künstlerhaus Frise"]
-artists: "[' Bertram Rotermund', ' Rudolf Simon', ' Regine Steenbock', ' ']"
+artists: [' Bertram Rotermund', ' Rudolf Simon', ' Regine Steenbock', ' ']
 walks: ['West']
 genres: ['darstellende Kunst']
 kids: []

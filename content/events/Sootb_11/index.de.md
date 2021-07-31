@@ -8,7 +8,7 @@ draft: false
 street: "Sootbörn 22"
 address: "22453 Hamburg"
 organizers: ["Künstlerhaus Sootbörn"]
-artists: "['Katja Windau']"
+artists: ['Katja Windau']
 walks: ['Niendorf']
 genres: ['Skulptur']
 kids: []

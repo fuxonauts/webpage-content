@@ -8,7 +8,7 @@ draft: false
 street: "Neumühlen 9-11"
 address: "22763 Hamburg"
 organizers: ["Künstlerhaus Frise"]
-artists: "['Sabine Mohr', ' Cecile Noldus']"
+artists: ['Sabine Mohr', ' Cecile Noldus']
 walks: ['West']
 genres: ['Land Art']
 kids: []

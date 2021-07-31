@@ -8,7 +8,7 @@ draft: false
 street: "Admiralitätstraße 74"
 address: "20459 Hamburg"
 organizers: ["Westwerk"]
-artists: "['Katrin Achinger & The Flight Crew', ' Theo Huber', ' Sinustonorchester', ' plastiq', ' Elisabeth Rosenthal', ' Ansu und Cato', ' John Eckhardt und Katrin Bethge', ' Kerstin Behrendt mit Hartmut Gerbsch', ' JaJaJa', ' Franziska Paula Wolber', ' Olivia von Pock']"
+artists: ['Katrin Achinger & The Flight Crew', ' Theo Huber', ' Sinustonorchester', ' plastiq', ' Elisabeth Rosenthal', ' Ansu und Cato', ' John Eckhardt und Katrin Bethge', ' Kerstin Behrendt mit Hartmut Gerbsch', ' JaJaJa', ' Franziska Paula Wolber', ' Olivia von Pock']
 walks: ['Mitte']
 genres: ['Musik', 'Performance', 'Skulptur']
 kids: []
