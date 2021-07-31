@@ -8,8 +8,8 @@ draft: false
 street: "Nagelsweg"
 address: "20097 Hamburg"
 organizers: ["Xpon-Art Gallery"]
-artists: "Birgit Feike"
-walks: ["Ost"]
+artists: ['Birgit Feike']
+walks: ['Ost']
 genres: []
 kids: []
 featuredImage: ""

@@ -8,8 +8,8 @@ draft: false
 street: "Billhorner Mühlenweg geg. Nr. 14"
 address: "20539 Hamburg"
 organizers: ["Mikropol"]
-artists: "Matthew Rogers,  Jan Dubsky"
-walks: ["Ost"]
+artists: ['Matthew Rogers', '  Jan Dubsky']
+walks: ['Ost']
 genres: ['Performance']
 kids: []
 featuredImage: ""

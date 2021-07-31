@@ -8,8 +8,8 @@ draft: false
 street: "Bullerdeich 12-14"
 address: "20537 Hamburg"
 organizers: ["Projektgruppe"]
-artists: "Maude Andrey, Philipp Adämmer"
-walks: ["Ost"]
+artists: ['Maude Andrey', ' Philipp Adämmer']
+walks: ['Ost']
 genres: ['Performance']
 kids: []
 featuredImage: ""

@@ -8,8 +8,8 @@ draft: false
 street: "Lindenstraße 23"
 address: "20099 Hamburg"
 organizers: ["Nachtspeicher23"]
-artists: "Lars-Ole Bastar, Martin Wellermann"
-walks: ["Ost"]
+artists: ['Lars-Ole Bastar', ' Martin Wellermann']
+walks: ['Ost']
 genres: ['Fotografie']
 kids: []
 featuredImage: ""

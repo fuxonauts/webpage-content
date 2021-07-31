@@ -8,8 +8,8 @@ draft: false
 street: "Wendenstraße 45"
 address: "20097 Hamburg"
 organizers: ["Künstlerhaus wendenstraße 45"]
-artists: "Robert Pawlicek, Björn Westphal"
-walks: ["Ost"]
+artists: ['Robert Pawlicek', ' Björn Westphal']
+walks: ['Ost']
 genres: ['Musik', 'Performance', 'Malerei', 'Skulptur']
 kids: []
 featuredImage: ""

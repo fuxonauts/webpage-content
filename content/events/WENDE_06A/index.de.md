@@ -8,8 +8,8 @@ draft: false
 street: "Wendenstraße 45"
 address: "20097 Hamburg"
 organizers: ["Wendenstrasse 45"]
-artists: "Patrick Sellmann"
-walks: ["Ost"]
+artists: ['Patrick Sellmann']
+walks: ['Ost']
 genres: ['Malerei', 'Skulptur']
 kids: []
 featuredImage: ""

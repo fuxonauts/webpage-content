@@ -8,8 +8,8 @@ draft: false
 street: "Repsoldstraße 45"
 address: " 20097 Hamburg"
 organizers: ["Xpon-Art Gallery"]
-artists: "Jared Bartz"
-walks: ["Ost"]
+artists: ['Jared Bartz']
+walks: ['Ost']
 genres: []
 kids: []
 featuredImage: ""

@@ -8,8 +8,8 @@ draft: false
 street: "Anton-Ree-Weg 50"
 address: "20537 Hamburg"
 organizers: ["Xpon-Art Gallery"]
-artists: "Kooperation Klub.K"
-walks: ["Ost"]
+artists: ['Kooperation Klub.K']
+walks: ['Ost']
 genres: ['Musik']
 kids: []
 featuredImage: ""

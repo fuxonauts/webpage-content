@@ -8,8 +8,8 @@ draft: false
 street: "Bullerdeich 12-14"
 address: "20537 Hamburg"
 organizers: ["Projektgruppe"]
-artists: "Gotlind Birkle"
-walks: ["Ost"]
+artists: ['Gotlind Birkle']
+walks: ['Ost']
 genres: []
 kids: []
 featuredImage: ""

@@ -8,8 +8,8 @@ draft: false
 street: "Unter dem Rathausmarkt"
 address: "20095 Hamburg"
 organizers: ["Xpon-Art Gallery"]
-artists: "Valérie Wagner"
-walks: ["Ost"]
+artists: ['Valérie Wagner']
+walks: ['Ost']
 genres: ['Fotografie']
 kids: []
 featuredImage: ""

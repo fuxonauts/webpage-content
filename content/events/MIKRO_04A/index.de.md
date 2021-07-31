@@ -8,8 +8,8 @@ draft: false
 street: "Billhorner Mühlenweg geg. Nr. 14"
 address: "20539 Hamburg"
 organizers: ["Mikropol"]
-artists: "Lisa Marie Zander, Marius Töpfer, Ingo Böttcher"
-walks: ["Ost"]
+artists: ['Lisa Marie Zander', ' Marius Töpfer', ' Ingo Böttcher']
+walks: ['Ost']
 genres: ['Performance']
 kids: []
 featuredImage: ""

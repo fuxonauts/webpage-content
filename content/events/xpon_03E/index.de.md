@@ -8,8 +8,8 @@ draft: false
 street: "Repsoldstraße 45"
 address: "20097 Hamburg"
 organizers: ["Xpon-Art Gallery"]
-artists: ""
-walks: [""]
+artists: ['Pia Kintrup']
+walks: ['']
 genres: []
 kids: []
 featuredImage: ""

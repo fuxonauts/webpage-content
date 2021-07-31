@@ -8,8 +8,8 @@ draft: false
 street: "Oberhafenbrücke"
 address: "20097 Hamburg"
 organizers: ["Xpon-Art Gallery"]
-artists: "Anja Matzke"
-walks: ["Ost"]
+artists: ['Anja Matzke']
+walks: ['Ost']
 genres: []
 kids: []
 featuredImage: ""

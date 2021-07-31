@@ -8,8 +8,8 @@ draft: false
 street: "Bullerdeich 6"
 address: "20537 Hamburg"
 organizers: ["Zollo"]
-artists: "Nuriye Tohermes, Lila Zoe Krauss, Almuth Anders, Luka Lenzin, Jan Rasehorn, Leon Lechner. Daniel Möring"
-walks: ["Ost"]
+artists: ['Nuriye Tohermes', ' Lila Zoe Krauss', ' Almuth Anders', ' Luka Lenzin', ' Jan Rasehorn', ' Leon Lechner. Daniel Möring']
+walks: ['Ost']
 genres: ['Performance']
 kids: []
 featuredImage: ""

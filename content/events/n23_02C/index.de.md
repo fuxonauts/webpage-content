@@ -8,8 +8,8 @@ draft: false
 street: "Lindenstraße 23"
 address: "20099 Hamburg"
 organizers: ["Nachtspeicher23"]
-artists: "R&STkollektiv"
-walks: ["Ost"]
+artists: ['R&STkollektiv']
+walks: ['Ost']
 genres: []
 kids: []
 featuredImage: ""
