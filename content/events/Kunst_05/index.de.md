@@ -19,4 +19,4 @@ sequels: []
 sequel_times: []
 ---
 
-Die Klappe ist geöffnet. Vorstellung der ausgewählten Künstler\\*innen. Autor\\*innen kommen vorbei. Die Besucher\\*innen sind eingeladen ihre „Betrachtung zu betrachten“: Was sehe ich, was höre ich, was fühle ich, was denke ich wenn ich ein Werk betrachte. / Im Lauf der Woche gibt es Aktionen mit Schüler\\*innen (in Kooperation mit Schulen aus der Umgebung)  Verschiedene Lesungen am Wochenende. Täglich von 13-18Uhr.
+Die Klappe ist geöffnet. Vorstellung der ausgewählten Künstler\*innen. Autor\*innen kommen vorbei. Die Besucher\*innen sind eingeladen ihre „Betrachtung zu betrachten“: Was sehe ich, was höre ich, was fühle ich, was denke ich wenn ich ein Werk betrachte. / Im Lauf der Woche gibt es Aktionen mit Schüler\\*innen (in Kooperation mit Schulen aus der Umgebung)  Verschiedene Lesungen am Wochenende. Täglich von 13-18Uhr.

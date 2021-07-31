@@ -19,4 +19,4 @@ sequels: []
 sequel_times: []
 ---
 
-Die Klappe ist geöffnet. Vorstellung der ausgewählten Künstler\\*innen. Autor\\*innen kommen vorbei. Die Besucher\\*innen sind eingeladen ihre „Betrachtung zu betrachten“: Was sehe ich, was höre ich, was fühle ich, was denke ich wenn ich ein Werk betrachte. Jeweils zur vollen Stunde findet eine Lesung statt.
+Die Klappe ist geöffnet. Vorstellung der ausgewählten Künstler\*innen. Autor\*innen kommen vorbei. Die Besucher\*innen sind eingeladen ihre „Betrachtung zu betrachten“: Was sehe ich, was höre ich, was fühle ich, was denke ich wenn ich ein Werk betrachte. Jeweils zur vollen Stunde findet eine Lesung statt.
