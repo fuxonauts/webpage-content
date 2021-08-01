@@ -1,94 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
-  <wpt lat="53.5669" lon="9.9266">
-    <ele>0</ele>
-    <name>Daddy in the Great War</name>
-    <desc>Route Installation&lt;/br&gt;&lt;a href="/events/2025_06a"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
   <wpt lat="53.5496" lon="9.9282">
     <ele>0</ele>
-    <name>„Passagen“</name>
-    <desc>eine Hommage an Walter Benjamin&lt;/br&gt;&lt;a href="/events/frise_07"&gt;Details...&lt;/a&gt;</desc>
+    <name>„The Story of“</name>
+    <desc>ein lebendiges Zeichen&lt;/br&gt;&lt;a href="/events/frise_03"&gt;Details...&lt;/a&gt;</desc>
   </wpt>
   <wpt lat="53.5669" lon="9.9266">
     <ele>0</ele>
-    <name>Fablicius und Freunde</name>
-    <desc>multimediale Bühnenperformance&lt;/br&gt;&lt;a href="/events/2025_17"&gt;Details...&lt;/a&gt;</desc>
+    <name>Gloria Brillowska x Jajaja: Cos-Walk</name>
+    <desc>Ein Audio Walk durch Hamburg Bahrenfeld.&lt;/br&gt;&lt;a href="/events/2025_10a"&gt;Details...&lt;/a&gt;</desc>
   </wpt>
   <wpt lat="53.5669" lon="9.9266">
-    <ele>0</ele>
-    <name>Late Night YouTube Session</name>
-    <desc>Audiovisuelle DJ Performance&lt;/br&gt;&lt;a href="/events/2025_14"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5496" lon="9.9281">
-    <ele>0</ele>
-    <name>Weg-Weiser</name>
-    <desc>Eine Bodenintervention&lt;/br&gt;&lt;a href="/events/frise_01"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5669" lon="9.9266">
-    <ele>0</ele>
-    <name>Caserie</name>
-    <desc>Speed Gallery&lt;/br&gt;&lt;a href="/events/2025_01a"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5669" lon="9.9266">
-    <ele>0</ele>
-    <name>Tränen auf Vinyl</name>
-    <desc>Lecture Performance&lt;/br&gt;&lt;a href="/events/2025_15"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5496" lon="9.9282">
-    <ele>0</ele>
-    <name>ABZ - OPEN AIR FILMABEND</name>
-    <desc>&lt;a href="/events/abz_01"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5496" lon="9.9282">
-    <ele>0</ele>
-    <name>Dreh den Bierfilz</name>
-    <desc>&lt;a href="/events/frise_02a"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5589" lon="9.9437">
-    <ele>0</ele>
-    <name>Dreh den Bierfilz</name>
-    <desc>&lt;a href="/events/frise_02b"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5669" lon="9.9266">
-    <ele>0</ele>
-    <name>Das System</name>
-    <desc>Musikautomat&lt;/br&gt;&lt;a href="/events/2025_11"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5576" lon="9.9530">
-    <ele>0</ele>
-    <name>Pflanzen in der Stadt</name>
-    <desc>Theater im Wohlers Park&lt;/br&gt;&lt;a href="/events/g21vs_14"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5444" lon="9.9233">
-    <ele>0</ele>
-    <name>„Re- Nature, By the Way“ </name>
-    <desc>Inszenierung einer kleinen Quelle am Elbhang&lt;/br&gt;&lt;a href="/events/frise_08a"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5527" lon="9.9274">
     <ele>0</ele>
     <name>Der akustische Flaneur</name>
-    <desc>Musikalische Intervention um 17, 18, 19 und 20 Uhr je 30 Min.&lt;/br&gt;&lt;a href="/events/2025_04a"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5496" lon="9.9282">
-    <ele>0</ele>
-    <name>ABZ - OPEN AIR FILMABEND</name>
-    <desc>&lt;a href="/events/abz_03"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5518" lon="9.9383">
-    <ele>0</ele>
-    <name>#PROFAN 5, Walk West,  Die Betrachtung betrachten</name>
-    <desc>&lt;a href="/events/kunst_05"&gt;Details...&lt;/a&gt;</desc>
+    <desc>Musikalische Intervention um 15, 16 und 17 Uhr je 30 Min.&lt;/br&gt;&lt;a href="/events/2025_04b"&gt;Details...&lt;/a&gt;</desc>
   </wpt>
   <wpt lat="53.5669" lon="9.9266">
     <ele>0</ele>
-    <name>Pinazola</name>
-    <desc>Kollektive Komposition und Performance&lt;/br&gt;&lt;a href="/events/2025_08a"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5496" lon="9.9282">
-    <ele>0</ele>
-    <name>AUSSCHLAG</name>
-    <desc>&lt;a href="/events/frise_10"&gt;Details...&lt;/a&gt;</desc>
+    <name>Neoangin</name>
+    <desc>Konzert Performance&lt;/br&gt;&lt;a href="/events/2025_13"&gt;Details...&lt;/a&gt;</desc>
   </wpt>
   <wpt lat="53.5496" lon="9.9282">
     <ele>0</ele>
@@ -97,8 +27,8 @@
   </wpt>
   <wpt lat="53.5669" lon="9.9266">
     <ele>0</ele>
-    <name>Scyla et Charyptis</name>
-    <desc>Foto/Audio Installation&lt;/br&gt;&lt;a href="/events/2025_02a"&gt;Details...&lt;/a&gt;</desc>
+    <name>Der akustische Flaneur</name>
+    <desc>Konzert&lt;/br&gt;&lt;a href="/events/2025_16"&gt;Details...&lt;/a&gt;</desc>
   </wpt>
   <wpt lat="53.5669" lon="9.9266">
     <ele>0</ele>
@@ -107,23 +37,123 @@
   </wpt>
   <wpt lat="53.5496" lon="9.9282">
     <ele>0</ele>
-    <name>„The Story of“</name>
-    <desc>ein lebendiges Zeichen&lt;/br&gt;&lt;a href="/events/frise_03"&gt;Details...&lt;/a&gt;</desc>
+    <name>ABZ - OPEN AIR FILMABEND</name>
+    <desc>&lt;a href="/events/abz_03"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5669" lon="9.9266">
+    <ele>0</ele>
+    <name>Caserie</name>
+    <desc>Speed Gallery&lt;/br&gt;&lt;a href="/events/2025_01a"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5508" lon="9.9337">
+    <ele>0</ele>
+    <name>Von den Wassern</name>
+    <desc>&lt;a href="/events/frise_11a"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5518" lon="9.9383">
+    <ele>0</ele>
+    <name>#PROFAN 5, Walk West,  Die Betrachtung betrachten</name>
+    <desc>&lt;a href="/events/kunst_05"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5496" lon="9.9282">
+    <ele>0</ele>
+    <name>„Passagen“</name>
+    <desc>eine Hommage an Walter Benjamin&lt;/br&gt;&lt;a href="/events/frise_07"&gt;Details...&lt;/a&gt;</desc>
   </wpt>
   <wpt lat="53.5669" lon="9.9266">
     <ele>0</ele>
     <name>Im Wind geweht</name>
     <desc>Druckgrafische Installation und Mitmachdrucken&lt;/br&gt;&lt;a href="/events/2025_03a"&gt;Details...&lt;/a&gt;</desc>
   </wpt>
+  <wpt lat="53.5497" lon="9.9280">
+    <ele>0</ele>
+    <name>„festes Versprechen“</name>
+    <desc>eingebrannte Sprache&lt;/br&gt;&lt;a href="/events/frise_06"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5669" lon="9.9266">
+    <ele>0</ele>
+    <name>Fablicius und Freunde</name>
+    <desc>multimediale Bühnenperformance&lt;/br&gt;&lt;a href="/events/2025_17"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5576" lon="9.9530">
+    <ele>0</ele>
+    <name>Pflanzen in der Stadt</name>
+    <desc>Theater im Wohlers Park&lt;/br&gt;&lt;a href="/events/g21vs_14"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5496" lon="9.9282">
+    <ele>0</ele>
+    <name>„Agharta # 2“</name>
+    <desc>eine Wegstrecken-Serie&lt;/br&gt;&lt;a href="/events/frise_09"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5496" lon="9.9281">
+    <ele>0</ele>
+    <name>Weg-Weiser</name>
+    <desc>Eine Bodenintervention&lt;/br&gt;&lt;a href="/events/frise_01"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5589" lon="9.9437">
+    <ele>0</ele>
+    <name>Dreh den Bierfilz</name>
+    <desc>&lt;a href="/events/frise_02b"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5669" lon="9.9266">
+    <ele>0</ele>
+    <name>Scyla et Charyptis</name>
+    <desc>Foto/Audio Installation&lt;/br&gt;&lt;a href="/events/2025_02a"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5527" lon="9.9274">
+    <ele>0</ele>
+    <name>Der akustische Flaneur</name>
+    <desc>Musikalische Intervention um 17, 18, 19 und 20 Uhr je 30 Min.&lt;/br&gt;&lt;a href="/events/2025_04a"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5669" lon="9.9266">
+    <ele>0</ele>
+    <name>Tränen auf Vinyl</name>
+    <desc>Lecture Performance&lt;/br&gt;&lt;a href="/events/2025_15"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
   <wpt lat="53.5496" lon="9.9282">
     <ele>0</ele>
     <name>WALKING IN CIRCLES</name>
     <desc>Unterwegs mit der Polaroïd-Kamera&lt;/br&gt;&lt;a href="/events/frise_12"&gt;Details...&lt;/a&gt;</desc>
   </wpt>
+  <wpt lat="53.5496" lon="9.9282">
+    <ele>0</ele>
+    <name>AUSSCHLAG</name>
+    <desc>&lt;a href="/events/frise_10"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5496" lon="9.9282">
+    <ele>0</ele>
+    <name>Dreh den Bierfilz</name>
+    <desc>&lt;a href="/events/frise_02a"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
   <wpt lat="53.5669" lon="9.9266">
     <ele>0</ele>
-    <name>Neoangin</name>
-    <desc>Konzert Performance&lt;/br&gt;&lt;a href="/events/2025_13"&gt;Details...&lt;/a&gt;</desc>
+    <name>The return of the Hackfressen</name>
+    <desc>Installation und szenische audivisuelle Perfomance (20 Uhr)&lt;/br&gt;&lt;a href="/events/2025_07a"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5669" lon="9.9266">
+    <ele>0</ele>
+    <name>Pinazola</name>
+    <desc>Kollektive Komposition und Performance&lt;/br&gt;&lt;a href="/events/2025_08a"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5444" lon="9.9233">
+    <ele>0</ele>
+    <name>„Re- Nature, By the Way“ </name>
+    <desc>Inszenierung einer kleinen Quelle am Elbhang&lt;/br&gt;&lt;a href="/events/frise_08a"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5669" lon="9.9266">
+    <ele>0</ele>
+    <name>Daddy in the Great War</name>
+    <desc>Route Installation&lt;/br&gt;&lt;a href="/events/2025_06a"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5501" lon="9.9286">
+    <ele>0</ele>
+    <name>„SAND IN LICHT“</name>
+    <desc>eine Bodenprojektion&lt;/br&gt;&lt;a href="/events/frise_04a"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5496" lon="9.9282">
+    <ele>0</ele>
+    <name>„Odas Blume“</name>
+    <desc>&lt;a href="/events/frise_05"&gt;Details...&lt;/a&gt;</desc>
   </wpt>
   <wpt lat="53.5479" lon="9.9598">
     <ele>0</ele>
@@ -132,53 +162,23 @@
   </wpt>
   <wpt lat="53.5669" lon="9.9266">
     <ele>0</ele>
+    <name>Late Night YouTube Session</name>
+    <desc>Audiovisuelle DJ Performance&lt;/br&gt;&lt;a href="/events/2025_14"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5496" lon="9.9282">
+    <ele>0</ele>
+    <name>ABZ - OPEN AIR FILMABEND</name>
+    <desc>&lt;a href="/events/abz_01"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.5669" lon="9.9266">
+    <ele>0</ele>
     <name>#niewiederkippenschnippen</name>
     <desc>Bewusstseinskampagne&lt;/br&gt;&lt;a href="/events/2025_05a"&gt;Details...&lt;/a&gt;</desc>
   </wpt>
   <wpt lat="53.5669" lon="9.9266">
     <ele>0</ele>
-    <name>Gloria Brillowska x Jajaja: Cos-Walk</name>
-    <desc>Ein Audio Walk durch Hamburg Bahrenfeld.&lt;/br&gt;&lt;a href="/events/2025_10a"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5508" lon="9.9337">
-    <ele>0</ele>
-    <name>Von den Wassern</name>
-    <desc>&lt;a href="/events/frise_11a"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5497" lon="9.9280">
-    <ele>0</ele>
-    <name>„festes Versprechen“</name>
-    <desc>eingebrannte Sprache&lt;/br&gt;&lt;a href="/events/frise_06"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5501" lon="9.9286">
-    <ele>0</ele>
-    <name>„SAND IN LICHT“</name>
-    <desc>eine Bodenprojektion&lt;/br&gt;&lt;a href="/events/frise_04a"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5669" lon="9.9266">
-    <ele>0</ele>
-    <name>Der akustische Flaneur</name>
-    <desc>Konzert&lt;/br&gt;&lt;a href="/events/2025_16"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5669" lon="9.9266">
-    <ele>0</ele>
-    <name>Der akustische Flaneur</name>
-    <desc>Musikalische Intervention um 15, 16 und 17 Uhr je 30 Min.&lt;/br&gt;&lt;a href="/events/2025_04b"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5496" lon="9.9282">
-    <ele>0</ele>
-    <name>„Odas Blume“</name>
-    <desc>&lt;a href="/events/frise_05"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5669" lon="9.9266">
-    <ele>0</ele>
-    <name>The return of the Hackfressen</name>
-    <desc>Installation und szenische audivisuelle Perfomance (20 Uhr)&lt;/br&gt;&lt;a href="/events/2025_07a"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.5496" lon="9.9282">
-    <ele>0</ele>
-    <name>„Agharta # 2“</name>
-    <desc>eine Wegstrecken-Serie&lt;/br&gt;&lt;a href="/events/frise_09"&gt;Details...&lt;/a&gt;</desc>
+    <name>Das System</name>
+    <desc>Musikautomat&lt;/br&gt;&lt;a href="/events/2025_11"&gt;Details...&lt;/a&gt;</desc>
   </wpt>
   <trk>
     <trkseg>

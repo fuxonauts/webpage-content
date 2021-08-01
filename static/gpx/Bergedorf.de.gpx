@@ -2,6 +2,31 @@
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
   <wpt lat="53.4952" lon="10.2260">
     <ele>0</ele>
+    <name>ohne Titel (Step forward)</name>
+    <desc>&lt;a href="/events/berge_09"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.4881" lon="10.2126">
+    <ele>0</ele>
+    <name>#PROFAN 3,  Ausflug Bergedorf,  Die Betrachtung betrachten</name>
+    <desc>&lt;a href="/events/kunst_03a"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.4952" lon="10.2260">
+    <ele>0</ele>
+    <name>Report</name>
+    <desc>&lt;a href="/events/berge_04"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.4952" lon="10.2260">
+    <ele>0</ele>
+    <name>Trip</name>
+    <desc>&lt;a href="/events/berge_10"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.4952" lon="10.2260">
+    <ele>0</ele>
+    <name>Haus der Bilder</name>
+    <desc>&lt;a href="/events/berge_01"&gt;Details...&lt;/a&gt;</desc>
+  </wpt>
+  <wpt lat="53.4952" lon="10.2260">
+    <ele>0</ele>
     <name>Tanz-Marie (C-scheuche), Waldgeister</name>
     <desc>&lt;a href="/events/berge_02"&gt;Details...&lt;/a&gt;</desc>
   </wpt>
@@ -17,8 +42,8 @@
   </wpt>
   <wpt lat="53.4952" lon="10.2260">
     <ele>0</ele>
-    <name>Haus der Bilder</name>
-    <desc>&lt;a href="/events/berge_01"&gt;Details...&lt;/a&gt;</desc>
+    <name>Fragments</name>
+    <desc>&lt;a href="/events/berge_07"&gt;Details...&lt;/a&gt;</desc>
   </wpt>
   <wpt lat="53.4952" lon="10.2260">
     <ele>0</ele>
@@ -27,33 +52,8 @@
   </wpt>
   <wpt lat="53.4952" lon="10.2260">
     <ele>0</ele>
-    <name>Fragments</name>
-    <desc>&lt;a href="/events/berge_07"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.4952" lon="10.2260">
-    <ele>0</ele>
-    <name>Report</name>
-    <desc>&lt;a href="/events/berge_04"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.4881" lon="10.2126">
-    <ele>0</ele>
-    <name>#PROFAN 3,  Ausflug Bergedorf,  Die Betrachtung betrachten</name>
-    <desc>&lt;a href="/events/kunst_03a"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.4952" lon="10.2260">
-    <ele>0</ele>
-    <name>ohne Titel (Step forward)</name>
-    <desc>&lt;a href="/events/berge_09"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.4952" lon="10.2260">
-    <ele>0</ele>
     <name>mobile beach</name>
     <desc>&lt;a href="/events/berge_06"&gt;Details...&lt;/a&gt;</desc>
-  </wpt>
-  <wpt lat="53.4952" lon="10.2260">
-    <ele>0</ele>
-    <name>Trip</name>
-    <desc>&lt;a href="/events/berge_10"&gt;Details...&lt;/a&gt;</desc>
   </wpt>
   <trk>
     <trkseg>
