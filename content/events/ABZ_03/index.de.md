@@ -19,20 +19,14 @@ sequels: []
 sequel_times: []
 ---
 
-Das Abbildungszentrum zeigt an 3 Abenden Filme aus eigener Produktion und Filme befreundeter Filmemacher\*innen. Zu sehen und zu hören sind kurze und mittellange Filme, Dok- und Spielfilme, Premieren, Wiederaufführungen, eine Filmbuchvorstellung mit Beispielfilmen, Lehrfilme, Filme fürs Netz, Reisefilme und Filme, die noch in der Entstehung sind. Ein Blick hinter die Kulissen.                                                                   Ich sehe was, was Du nicht siehst
+Das Abbildungszentrum zeigt an 3 Abenden Filme aus eigener Produktion und Filme befreundeter Filmemacher\*innen. Zu sehen und zu hören sind kurze und mittellange Filme, Dok- und Spielfilme, Premieren, Wiederaufführungen, eine Filmbuchvorstellung mit Beispielfilmen, Lehrfilme, Filme fürs Netz, Reisefilme und Filme, die noch in der Entstehung sind. Ein Blick hinter die Kulissen.
 
-Uli M. Fischer, 30 min 
+Ich sehe was, was Du nicht siehst, Uli M. Fischer, 30 min 
 
-Kino und Bewegung – ein Dialog
+Kino und Bewegung – ein Dialog, Filmbuchvorstellung Motion Picture Design, Hans-Jörg Kapp 
 
-Filmbuchvorstellung Motion Picture Design, Hans-Jörg Kapp 
+Velo Mysterium, Jörn Staeger, 2013, 6 min,
 
-Velo Mysterium, Jörn Staeger, 2013, 6 min, insges. 45 min
+Transit Exil Immigration, Doro Carl, 30 min
 
-Transit Exil Immigration 
-
-Doro Carl, 30 min
-
-Zwischensprachen - Videodolmetschen + Statements
-
-Andreas Theurer, 15 min
+Zwischensprachen - Videodolmetschen + Statements, Andreas Theurer, 15 min

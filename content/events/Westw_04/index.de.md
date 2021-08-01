@@ -9,7 +9,7 @@ street: "Admiralitätstraße 74"
 address: "20459 Hamburg"
 organizers: ["Westwerk"]
 artists: ['A Wall is a Screen']
-walks: ['']
+walks: ['Mitte']
 genres: ['Performance']
 kids: []
 featuredImage: ""

@@ -9,7 +9,7 @@ street: "Admiralitätstraße 74"
 address: "20459 Hamburg"
 organizers: ["Westwerk"]
 artists: ['Sabine Siegfried']
-walks: ['']
+walks: ['Mitte']
 genres: ['Performance']
 kids: []
 featuredImage: ""
