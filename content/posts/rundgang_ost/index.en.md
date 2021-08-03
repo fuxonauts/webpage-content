@@ -1,6 +1,6 @@
 ---
 title: "Art Walk East: 30 July to 1 August"
-date: 2021-06-17T18:58:41+02:00
+date: 2021-06-22T18:58:41+02:00
 draft: false
 gpx: "Ost.de.gpx"
 featuredImage: ""
