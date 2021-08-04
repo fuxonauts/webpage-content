@@ -1,7 +1,7 @@
 ---
 title: "Rundgang West vom 4. - 5. September"
 date: 2021-06-21T18:58:41+02:00
-end: 2021-08-29T23:59:59+02:00
+end: "1630879199"
 draft: false
 gpx: "West.de.gpx"
 ---
