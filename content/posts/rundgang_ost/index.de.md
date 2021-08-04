@@ -1,6 +1,7 @@
 ---
 title: "Rundgang Ost vom 30. Juli - 1. August"
 date: 2021-06-22T18:58:41+02:00
+end: 2021-08-29T23:59:59+02:00
 draft: false
 gpx: "Ost.de.gpx"
 featuredImage: ""

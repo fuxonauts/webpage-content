@@ -1,6 +1,7 @@
 ---
 title: "Ausflug 2: Niendorf"
 date: 2021-06-20T18:58:41+02:00
+end: 2021-08-29T23:59:59+02:00
 draft: false
 gpx: "Niendorf.de.gpx"
 ---

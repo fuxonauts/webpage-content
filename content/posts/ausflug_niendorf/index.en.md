@@ -1,6 +1,7 @@
 ---
 title: "Excursion 2 - Niendorf: 28 and 29 August"
 date: 2021-06-20T18:58:41+02:00
+end: 2021-08-29T23:59:59+02:00
 draft: false
 gpx: "Niendorf.de.gpx"
 ---
