@@ -1,5 +1,5 @@
 ---
-title: "Raum Links-Rechts"
+title: "Raum linksrechts"
 date: 2021-06-25T20:18:28+02:00
 weight: 19
 draft: false
