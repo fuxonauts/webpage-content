@@ -19,6 +19,6 @@ sequels: []
 sequel_times: []
 ---
 
-Farbig gefassten Holzskulpturen der Bildhauerin Britta Wiesenthal werden zum ersten Mal unter freiem Himmel an verschiedenen Orten im Garten installiert. Sitzmöglichkeiten zum Vereilen werden vorhanden sein. Wer Lust zum Zeichnen hat bringt sich was mit - Motive vorhanden. 
+Farbig gefassten Holzskulpturen der Bildhauerin Britta Wiesenthal werden zum ersten Mal unter freiem Himmel an verschiedenen Orten im Garten installiert. Sitzmöglichkeiten zum Verweilen werden vorhanden sein. Wer Lust zum Zeichnen hat bringt sich was mit - Motive vorhanden. 
 
 Öffnungszeiten: Sa 11-20 h, So 14-20 h, Mo-Fr 15-20 h

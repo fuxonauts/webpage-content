@@ -19,4 +19,4 @@ sequels: []
 sequel_times: []
 ---
 
-Musikalische Interventionen. Mit autarken stromstarken Sounddevices unterwegs zur Interpretation der Umgebung. Mit Gästen und Bgegnungen (Leonid Kharlamov, Quirin Nebil)
+Musikalische Interventionen. Mit autarken stromstarken Sounddevices unterwegs zur Interpretation der Umgebung. Mit Gästen und Begegnungen (Leonid Kharlamov, Quirin Nebil)

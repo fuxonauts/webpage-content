@@ -19,4 +19,4 @@ sequels: []
 sequel_times: []
 ---
 
-Aus einem sich selbst verspeisenden halb autonom, halb auomatischen Jukebox System werden per Fremdbestimmung Musiktitel ausgewählt und dem Besucher im Schallwellenbad kredenzt.
+Aus einem sich selbst verspeisenden halb autonom, halb automatischen Jukebox System werden per Fremdbestimmung Musiktitel ausgewählt und dem Besucher im Schallwellenbad kredenzt.

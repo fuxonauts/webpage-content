@@ -1,5 +1,5 @@
 ---
-title: "ABZ - OPEN AIR FILMABEND"
+title: "ABZ - Open Air Filmabend 03"
 subtitle: ""
 date: 2021-09-04T20:00:00
 publishDate: 2021-06-25T19:40:36+02:00
@@ -21,12 +21,15 @@ sequel_times: []
 
 Das Abbildungszentrum zeigt an 3 Abenden Filme aus eigener Produktion und Filme befreundeter Filmemacher\*innen. Zu sehen und zu hören sind kurze und mittellange Filme, Dok- und Spielfilme, Premieren, Wiederaufführungen, eine Filmbuchvorstellung mit Beispielfilmen, Lehrfilme, Filme fürs Netz, Reisefilme und Filme, die noch in der Entstehung sind. Ein Blick hinter die Kulissen.
 
-Ich sehe was, was Du nicht siehst, Uli M. Fischer, 30 min 
+Das Bild, eine Annäherung in fünf Kapiteln, Karin Haenlein + Gabriele Schwark, 6 min
 
-Kino und Bewegung – ein Dialog, Filmbuchvorstellung Motion Picture Design, Hans-Jörg Kapp 
+Die Diebin (Wiederaufführung) 1992, Uli M. Fischer, 24 min
 
-Velo Mysterium, Jörn Staeger, 2013, 6 min,
+Memory Berliner Zimmer (Premiere), Jörn Staeger, 9 min
 
-Transit Exil Immigration, Doro Carl, 30 min
+Vom Wind, (Premiere), Jörn Staeger, 7 min
 
-Zwischensprachen - Videodolmetschen + Statements, Andreas Theurer, 15 min
+Saisonale Gäste, Doro Carl, 14 min
+
+Bom Dia Corvo (Premiere), Andreas Lang, 51 min
+

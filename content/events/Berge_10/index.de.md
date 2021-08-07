@@ -19,6 +19,6 @@ sequels: []
 sequel_times: []
 ---
 
-Die Fotoinstallation von Max Czycholl zeigt unterschiedliche sozio-architektonische Situationen im urbanen Umfeld aus verschiedenen Kulturkreisen. Der fomale Bildaufbau der gezeigten Fotos spiegelt die Funktionsästhetik des Bildmotivs in den jeweiligen Agglomerationsräumen wider. 
+Die Fotoinstallation von Max Czycholl zeigt unterschiedliche sozio-architektonische Situationen im urbanen Umfeld aus verschiedenen Kulturkreisen. Der formale Bildaufbau der gezeigten Fotos spiegelt die Funktionsästhetik des Bildmotivs in den jeweiligen Agglomerationsräumen wider. 
 
 Öffnungszeiten: Sa 11-20 h, So 14-20 h, Mo-Fr 15-20 h

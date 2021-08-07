@@ -1,5 +1,5 @@
 ---
-title: "ABZ - OPEN AIR FILMABEND"
+title: "ABZ - Open Air Filmabend 02"
 subtitle: ""
 date: 2021-09-03T20:00:00
 publishDate: 2021-06-25T19:40:36+02:00
@@ -21,12 +21,7 @@ sequel_times: []
 
 Das Abbildungszentrum zeigt an 3 Abenden Filme aus eigener Produktion und Filme befreundeter Filmemacher\*innen. Zu sehen und zu hören sind kurze und mittellange Filme, Dok- und Spielfilme, Premieren, Wiederaufführungen, eine Filmbuchvorstellung mit Beispielfilmen, Lehrfilme, Filme fürs Netz, Reisefilme und Filme, die noch in der Entstehung sind. Ein Blick hinter die Kulissen.
 
-Ich sehe was, was Du nicht siehst, Uli M. Fischer, 30 min 
+ Bis die Gestapo kam - das Chinesenviertel, Bertram Rotermund und Rudolf Simon, 60 min
 
-Kino und Bewegung – ein Dialog, Filmbuchvorstellung Motion Picture Design, Hans-Jörg Kapp 
+You Know some Birds, Regine Steenbock, 45 min
 
-Velo Mysterium, Jörn Staeger, 2013, 6 min,
-
-Transit Exil Immigration, Doro Carl, 30 min
-
-Zwischensprachen - Videodolmetschen + Statements, Andreas Theurer, 15 min

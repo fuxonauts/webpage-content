@@ -1,5 +1,5 @@
 ---
-title: "ABZ - OPEN AIR FILMABEND"
+title: "ABZ - Open Air Filmabend 01"
 subtitle: ""
 date: 2021-09-02T20:00:00
 publishDate: 2021-06-25T19:40:36+02:00

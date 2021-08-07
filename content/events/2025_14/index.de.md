@@ -19,4 +19,4 @@ sequels: []
 sequel_times: []
 ---
 
-Auf der Hofbühne stattfindende udiovisuelle Bühnenperformance, in der zwei Performer eine eklektische Collage aus YouTube-Videos live mit YouTube erstellen.
+Auf der Hofbühne stattfindende audiovisuelle Bühnenperformance, in der zwei Performer eine eklektische Collage aus YouTube-Videos live mit YouTube erstellen.

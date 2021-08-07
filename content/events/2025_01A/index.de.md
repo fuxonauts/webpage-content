@@ -19,4 +19,4 @@ sequels: []
 sequel_times: []
 ---
 
-Vor dem 2025 Gebäude entsteht eine Ein-Bild-Galerie, die nur von je einem Besucher betreten werden kann und jeweils ein Bild zeigt. JederBesucher hat 3 Minuten Besuchszeit und jedes Bild wird nach 30 Minuten ausgetauscht.
+Vor dem 2025 Gebäude entsteht eine Ein-Bild-Galerie, die nur von je einem Besucher betreten werden kann und jeweils ein Bild zeigt. Jeder Besucher hat 3 Minuten Besuchszeit und jedes Bild wird nach 30 Minuten ausgetauscht.

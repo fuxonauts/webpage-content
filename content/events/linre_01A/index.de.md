@@ -1,13 +1,13 @@
 ---
-title: "Der Kapitalismus ist..."
+title: "Wenn´s nach dir ging"
 subtitle: ""
 date: 2021-08-14T19:45:00
 publishDate: 2021-06-25T19:40:36+02:00
 end: 2021-08-14T20:05:00
 draft: false
-street: "Raum linksrechts, Valentinskamp 37"
+street: "Valentinskamp 37"
 address: "20355 Hamburg"
-organizers: ["Raum Links-Rechts"]
+organizers: ["Raum linksrechts"]
 artists: ['Eva Egalitaria']
 walks: ['Mitte']
 genres: ['darstellende Kunst', 'Performance', 'Land Art']

@@ -1,20 +1,20 @@
 ---
 title: "IN HER* WORDS"
-subtitle: ""
-date: 2021-08-15T18:00:00
+subtitle: "Aufführung"
+date: 2021-08-15T07:00:00
 publishDate: 2021-06-25T19:40:36+02:00
-end: 2021-08-15T19:00:00
+end: 2021-08-15T18:00:00
 draft: false
-street: "Neustadt- Ein Ort in Planten und Blomen"
-address: "Hamburg"
+street: "Planten un Blomen, Kleine Wallanlagen (unterhalb des Untersuchungsgefängnisses)"
+address: "20359 Hamburg"
 organizers: ["Mom Art Space"]
-artists: [' Andrea Fischer', ' Irem Göcan', ' Sharon  Engelhardt', ' Priska Engelhardt', ' Ute Rauwald', ' Dagmar Rauwald', ' Harald Kainer', ' Clara Bauer', ' Berna Celebi', ' Levin Hoffmann', ' Marlene Kreidt', ' Josefine Kreidt']
+artists: ['Dagmar Rauwald', ' Ute Rauwald', ' Vivian Mahler', ' Harald Kainer', ' Priska Engelhardt', ' Sharon Engelhardt', ' Patrick Will', ' Angelika Kobl', ' Clara Bauer', ' Levin Hofmann']
 walks: ['Mitte']
 genres: ['Performance', 'Skulptur', 'Land Art']
 kids: []
 featuredImage: ""
-repeats: ['MOM_01A', 'MOM_01B']
-repeat_times: ['2021-08-13T18:00:00', '2021-08-14T18:00:00']
+repeats: ['MOM_01A', 'MOM_01D', 'MOM_01B']
+repeat_times: ['2021-08-13T18:00:00', '2021-08-14T16:00:00', '2021-08-14T18:00:00']
 sequels: []
 sequel_times: []
 ---

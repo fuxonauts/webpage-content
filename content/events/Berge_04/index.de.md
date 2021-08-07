@@ -19,6 +19,6 @@ sequels: []
 sequel_times: []
 ---
 
-Es wird ein fiktives, inszeniertes Interview mit DarstellerInnen als Video gezeigt, in dem eine spekulative Zukuntsanalyse über die Lage der KünstlerInnen / Kulturschaffenden aus unterschiedlichen Perspektiven zusammengefasst wird.
+Es wird ein fiktives, inszeniertes Interview mit DarstellerInnen als Video gezeigt, in dem eine spekulative Zukunftsanalyse über die Lage der KünstlerInnen / Kulturschaffenden aus unterschiedlichen Perspektiven zusammengefasst wird.
 
 Öffnungszeiten: Sa 11-20 h, So 14-20 h, Mo-Fr 15-20 h

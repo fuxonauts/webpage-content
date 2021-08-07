@@ -13,7 +13,7 @@ walks: ['Mitte']
 genres: ['Musik', 'Performance']
 kids: []
 featuredImage: ""
-repeats: ['Gensc_02B', 'Gensc_02C']
+repeats: ['Gensc_02C', 'Gensc_02B']
 repeat_times: ['2021-08-13T15:00:00', '2021-08-13T15:00:00']
 sequels: []
 sequel_times: []

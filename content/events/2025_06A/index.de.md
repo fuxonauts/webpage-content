@@ -19,4 +19,4 @@ sequels: []
 sequel_times: []
 ---
 
-Daddy, what did YOU do in the Great War was a propaganda poster frst used to recruit British soldiers during World War One. For the ART OFF project, I have printed a thousand stickers showing the face of ‘Daddy’. I intend to place some of these along the routes between the artists houses. At 2025 I will display the poster in its original form, except for a cut out circle which removes the face of ‘Daddy’ from his original habitat.
+Daddy, what did YOU do in the Great War was a propaganda poster first used to recruit British soldiers during World War One. For the ART OFF project, I have printed a thousand stickers showing the face of ‘Daddy’. I intend to place some of these along the routes between the artists houses. At 2025 I will display the poster in its original form, except for a cut out circle which removes the face of ‘Daddy’ from his original habitat.
