@@ -21,4 +21,4 @@ sequel_times: []
 
 Barbara Zenner zeigt eine ghanaische Flagge, die sie aus afrikanischem Stoff handgenäht hat. Die wehende Skulptur schafft eine Verbindung 
 
-zum nachbarschaftlichen ghanaischen Gemeindezentrum und steht symbolisch als Zeichen der Zusammenführung der Kulturen. Geöffnet: sa+so von 15 - 18 Uhr, am 28.und 29.8. von 14 - 18 Uhr
+zum nachbarschaftlichen ghanaischen Gemeindezentrum und steht symbolisch als Zeichen der Zusammenführung der Kulturen. 

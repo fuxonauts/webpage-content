@@ -19,4 +19,4 @@ sequels: []
 sequel_times: []
 ---
 
-Die Betonskulpturen, die Simon Hehemann zusammen mit seinem Bruder Hannes Hehemann gefertigt hat, erinnern einerseits an Steinmännchen, denen man auf Wanderschaften begegnet, andrerseits auch an Pestsäulen. Als Wegmarkierung erleichtern Steinmännchen insbesondere in unwegsamem und unübersichtlichem Gelände die Orientierung. In verschiedenen Kulturen sind mit ihnen weitere, oft religiöse Bräuche verbunden. Pestsäulen sind Denkmäler, die an die Zeit der Pest erinnern bzw. als Dank für deren Erlöschen gestiftet wurden. Geöffnet: sa+so von 15 - 18 Uhr, am 28.und 29.8. von 14 - 18 Uhr
+Die Betonskulpturen, die Simon Hehemann zusammen mit seinem Bruder Hannes Hehemann gefertigt hat, erinnern einerseits an Steinmännchen, denen man auf Wanderschaften begegnet, andrerseits auch an Pestsäulen. Als Wegmarkierung erleichtern Steinmännchen insbesondere in unwegsamem und unübersichtlichem Gelände die Orientierung. In verschiedenen Kulturen sind mit ihnen weitere, oft religiöse Bräuche verbunden. Pestsäulen sind Denkmäler, die an die Zeit der Pest erinnern bzw. als Dank für deren Erlöschen gestiftet wurden. 

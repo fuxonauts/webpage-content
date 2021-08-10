@@ -19,4 +19,4 @@ sequels: []
 sequel_times: []
 ---
 
-Farbiges Absperrband, an Metallstangen befestigt und verspannt, erschafft spielerisch und leicht eine offene Struktur aus Linien, Räumen, Flächen und Zwischenräumen. Daniela Wesenberg lässt so eine Zeichnung im Raum entstehen, die man, je nach Blickpunkt, zwei- oder dreidimensional sehen kann. Geöffnet: sa+so von 15 - 18 Uhr, am 28.und 29.8. von 14 - 18 Uhr
+Farbiges Absperrband, an Metallstangen befestigt und verspannt, erschafft spielerisch und leicht eine offene Struktur aus Linien, Räumen, Flächen und Zwischenräumen. Daniela Wesenberg lässt so eine Zeichnung im Raum entstehen, die man, je nach Blickpunkt, zwei- oder dreidimensional sehen kann. 

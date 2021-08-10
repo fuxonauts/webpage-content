@@ -19,4 +19,4 @@ sequels: []
 sequel_times: []
 ---
 
-Joachim Jacob installiert aus Dachlatten und gehängten Stoffbahnen eine Paraphrase über den traurigen Zustand eines eigentlichen Baudenkmals von hoher Qualität, einem modernistischen Schulbau von 1927-29, als das das jetzige Künstlerhaus Sootbörn errichtet wurde. Die Bewegungen der BesucherInnen durch die Installation und die Wind-bewegten Stoffbahnen erinnern spielerisch an die raffinierte, aber zerstörte Raumidee. Geöffnet: sa+so von 15 - 18 Uhr, am 28.und 29.8. von 14 - 18 Uhr
+Joachim Jacob installiert aus Dachlatten und gehängten Stoffbahnen eine Paraphrase über den traurigen Zustand eines eigentlichen Baudenkmals von hoher Qualität, einem modernistischen Schulbau von 1927-29, als das das jetzige Künstlerhaus Sootbörn errichtet wurde. Die Bewegungen der BesucherInnen durch die Installation und die Wind-bewegten Stoffbahnen erinnern spielerisch an die raffinierte, aber zerstörte Raumidee. 

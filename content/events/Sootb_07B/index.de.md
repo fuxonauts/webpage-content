@@ -13,8 +13,8 @@ walks: ['Niendorf']
 genres: ['Performance']
 kids: []
 featuredImage: ""
-repeats: []
-repeat_times: []
+repeats: ['Sootb_07A']
+repeat_times: ['2021-08-13T17:00:00']
 sequels: []
 sequel_times: []
 ---

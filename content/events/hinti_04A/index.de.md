@@ -1,5 +1,5 @@
 ---
-title: "Infostand vor der Stadtteilschule St. Pauli"
+title: "Infostand"
 subtitle: ""
 date: 2021-08-14T13:00:00
 publishDate: 2021-06-25T19:40:36+02:00

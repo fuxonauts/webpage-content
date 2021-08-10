@@ -1,6 +1,6 @@
 ---
 title: "„Passagen“"
-subtitle: "eine Hommage an Walter Benjamin"
+subtitle: "deutsch- französische Playlist, Lieblingstitel Hamburg - Marseille u.a."
 date: 2021-08-24T00:00:00
 publishDate: 2021-06-25T19:40:36+02:00
 end: 2021-09-05T23:59:00

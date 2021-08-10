@@ -1,6 +1,6 @@
 ---
 title: "Ein prekäres Leben"
-subtitle: "Installation und Performance im Zelt"
+subtitle: "Installation und Performance im Zelt (Performance 16 Uhr)"
 date: 2021-08-15T14:00:00
 publishDate: 2021-06-25T19:40:36+02:00
 end: 2021-08-15T20:00:00
