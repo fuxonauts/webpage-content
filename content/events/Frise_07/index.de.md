@@ -5,7 +5,7 @@ date: 2021-08-24T00:00:00
 publishDate: 2021-06-25T19:40:36+02:00
 end: 2021-09-05T23:59:00
 draft: false
-street: "Arnoldstraße 26-30"
+street: "zwischen Elbtreppe und Hafenbahnhof, Neumühlen"
 address: "22765 Hamburg"
 organizers: ["Künstlerhaus Frise"]
 artists: ['Sylvie Réno', ' Frédéric Clavère', ' Blandine Herrmann']

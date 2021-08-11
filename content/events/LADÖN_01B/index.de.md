@@ -19,4 +19,4 @@ sequels: []
 sequel_times: []
 ---
 
-Immersive Performance / Audio Walk by Lucas Lacerda & Daniel Weyand; https://drive.google.com/file/d/1Xc9biIz3MCDB1TII91zkzYdSX48vZmWw/view?usp=sharing
+Immersive Performance / Audio Walk by Lucas Lacerda & Daniel Weyand. MOQUECA is a transdisciplinary project by the international artistic duo Poeira. The performers host an immersive audio experience and performative dinner, reflecting the multiple layers of the tastes and stories we incorporate into our bodies and minds.

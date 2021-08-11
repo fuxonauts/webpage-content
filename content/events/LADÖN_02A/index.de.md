@@ -13,10 +13,10 @@ walks: ['Mitte']
 genres: ['darstellende Kunst', 'Performance']
 kids: []
 featuredImage: ""
-repeats: ['LADÖN_02B']
-repeat_times: ['2021-08-14T22:00:00']
+repeats: []
+repeat_times: []
 sequels: []
 sequel_times: []
 ---
 
-Live Lichtshow mit Soundinstallation; Kuno Seltmann & Amir Hossein Abootalebi & Frieda Rosa Rahne
+Al Kombi; ein audio-visueller Versuch, das heutige Gesicht des Orientalismus und des Eurozentrismus besser zu sehen

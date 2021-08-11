@@ -19,4 +19,5 @@ sequels: []
 sequel_times: []
 ---
 
-Feministische Tee-Installation, bei der die BesucherInnen sich einen 'Frauentee' machen dürfen; (Tee-Tresen, Tische, Stühle, Tee) ein Ort zum Verweilen und Austauschen
+Feministische Tee-Installation von Sam Gora: “Frauentee“ als Möglichkeit, gesellschaftliche Zusammenhänge anders zu betrachten und sich darüber auszutauschen. Schierspassage Gängeviertel 
+
