@@ -2,11 +2,12 @@ baseURL = "https://art-off-hamburg.de/"
 
 defaultContentLanguage = "de"
 
-theme = "LoveIt"
+theme = [ "LoveIt", "hugo-shortcode-gallery" ]
 
 [params]
   # LoveIt theme version
   version = "0.2.X"
+  galleryLoadJQuery = true
   [params.header]
     [params.header.title]
       logo = "/lib/img/ART-OFF-Logo_1200.png"
