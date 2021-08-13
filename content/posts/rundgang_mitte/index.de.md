@@ -39,7 +39,7 @@ Konzerte und Performances im Grünen zu sehen sind, um schließlich ins Gängevi
     {{< leaflet-marker markerLat="53.5554" markerLon="9.9833" markerContent="<b>ART OFF BÜHNE IM GÄNGEVIERTEL 14.08.</b><br><a href=\"/events/gvbüh_03c\">Details...</a>" >}}
     {{< leaflet-marker markerLat="53.5554" markerLon="9.9833" markerContent="<b>ART OFF BÜHNE IM GÄNGEVIERTEL 15.08.</b><br>Kinderprogramm</br><a href=\"/events/gvbüh_04a\">Details...</a>" >}}
     {{< leaflet-marker markerLat="53.5554" markerLon="9.9833" markerContent="<b>ART OFF BÜHNE IM GÄNGEVIERTEL 15.08.</b><br><a href=\"/events/gvbüh_04b\">Details...</a>" >}}
-    {{< leaflet-marker markerLat="53.5585" markerLon="9.9719" markerContent="<b>SIT-IN</b><br><a href=\"/events/gensc_01\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.5585" markerLon="9.9719" markerContent="<b>SIT-IN</b><br>Platz der Genossenschaft</br><a href=\"/events/gensc_01\">Details...</a>" >}}
     {{< leaflet-marker markerLat="53.5590" markerLon="9.9736" markerContent="<b>1 Ginkgo Biloba</b><br>Performance</br><a href=\"/events/gensc_02a\">Details...</a>" >}}
     {{< leaflet-marker markerLat="53.5590" markerLon="9.9736" markerContent="<b>1 Ginkgo Biloba</b><br>Sound Installation</br><a href=\"/events/gensc_02b\">Details...</a>" >}}
     {{< leaflet-marker markerLat="53.5590" markerLon="9.9736" markerContent="<b>Lückenlos</b><br>Filmpräsentation</br><a href=\"/events/gensc_03\">Details...</a>" >}}

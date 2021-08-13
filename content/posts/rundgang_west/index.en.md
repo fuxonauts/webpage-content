@@ -36,7 +36,7 @@ The third series of ART OFF HAMBURG Art Walks will take place in Hamburg’s wes
     {{< leaflet-marker markerLat="53.5501" markerLon="9.9286" markerContent="<b>„SAND IN LICHT“</b><br>eine Bodenprojektion</br><a href=\"/events/frise_04a\">Details...</a>" >}}
     {{< leaflet-marker markerLat="53.5496" markerLon="9.9282" markerContent="<b>„Odas Blume“</b><br><a href=\"/events/frise_05\">Details...</a>" >}}
     {{< leaflet-marker markerLat="53.5497" markerLon="9.9280" markerContent="<b>„festes Versprechen“</b><br>eingebrannte Sprache</br><a href=\"/events/frise_06\">Details...</a>" >}}
-    {{< leaflet-marker markerLat="53.5496" markerLon="9.9282" markerContent="<b>„Passagen“</b><br>deutsch- französische Playlist, Lieblingstitel Hamburg - Marseille u.a.</br><a href=\"/events/frise_07\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.5444" markerLon="9.9233" markerContent="<b>„Passagen“</b><br>deutsch- französische Playlist, Lieblingstitel Hamburg - Marseille u.a.</br><a href=\"/events/frise_07\">Details...</a>" >}}
     {{< leaflet-marker markerLat="53.5444" markerLon="9.9233" markerContent="<b>„Re- Nature, By the Way“</b><br>Inszenierung einer kleinen Quelle am Elbhang</br><a href=\"/events/frise_08a\">Details...</a>" >}}
     {{< leaflet-marker markerLat="53.5496" markerLon="9.9282" markerContent="<b>„Agharta # 2“</b><br>eine Wegstrecken-Serie</br><a href=\"/events/frise_09\">Details...</a>" >}}
     {{< leaflet-marker markerLat="53.5496" markerLon="9.9282" markerContent="<b>AUSSCHLAG</b><br><a href=\"/events/frise_10\">Details...</a>" >}}
