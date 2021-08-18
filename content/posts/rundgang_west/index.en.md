@@ -48,6 +48,37 @@ The third series of ART OFF HAMBURG Art Walks will take place in Hamburg’s wes
     {{< leaflet-marker markerLat="53.5521" markerLon="9.9400" markerContent="<b>Kunstimbiss #PROFAN 5</b><br>Das Betrachten betrachten</br><a href=\"/events/kunst_05c\">Details...</a>" >}}
     {{< leaflet-marker markerLat="53.5479" markerLon="9.9598" markerContent="<b>Infostand</b><br><a href=\"/events/hinti_04b\">Details...</a>" >}}
     {{< leaflet-marker markerLat="53.5479" markerLon="9.9598" markerContent="<b>Ain't no bedroom big enough</b><br>Soundwalk über die Reeperbahn</br><a href=\"/events/hinti_08a\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.5588" markerLon="9.9436" markerContent="<b>Manuel Muerte</b><br>Illusions Show</br><a href=\"/events/artoffbühne_01\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.5588" markerLon="9.9436" markerContent="<b>Marcella Amatamia</b><br>Clownin Marshmella</br><a href=\"/events/artoffbühne_02\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.5588" markerLon="9.9436" markerContent="<b>U-Boot-Orchester – FX, Richard von der Schulenburg, Kushan Glückmann, Wolfgang Schubert, Nils Kässens, Andreas Wolf + Joker</b><br><a href=\"/events/artoffbühne_03\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.5588" markerLon="9.9436" markerContent="<b>Melle de Boer, Janneke Nijhuijs</b><br><a href=\"/events/artoffbühne_04\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.5588" markerLon="9.9436" markerContent="<b>The Emily Brothers</b><br><a href=\"/events/artoffbühne_05\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.5588" markerLon="9.9436" markerContent="<b>THE FLIGHT CREW</b><br><a href=\"/events/artoffbühne_06\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.5588" markerLon="9.9436" markerContent="<b>Frau Kraushaar & Band</b><br><a href=\"/events/artoffbühne_07\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.5588" markerLon="9.9436" markerContent="<b>Estrellas de Carla</b><br><a href=\"/events/artoffbühne_08\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.5561" markerLon="9.9366" markerContent="<b>The ART OFF Cube</b><br><a href=\"/events/art_off_ausstellungscube\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.5582" markerLon="9.9439" markerContent="<b>Elazer</b><br><a href=\"/events/art_off_dj_01\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.5582" markerLon="9.9439" markerContent="<b>Acid Pablo und Jacob Knob</b><br><a href=\"/events/art_off_dj_02\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.5582" markerLon="9.9439" markerContent="<b>Zoran Zupanic</b><br><a href=\"/events/art_off_dj_03\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.5582" markerLon="9.9439" markerContent="<b>Flora</b><br><a href=\"/events/art_off_dj_04\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.5518" markerLon="9.9383" markerContent="<b>Ulrich Kodjo Wendt & Trompeterin Sabine Braun</b><br><a href=\"/events/art_off_walk_00a\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.5494" markerLon="9.9280" markerContent="<b>Pendeln 3</b><br><a href=\"/events/art_off_walk_01a\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.5495" markerLon="9.9303" markerContent="<b>Hirnverbrannt</b><br>total verrückte Feuershow und Straßenacts</br><a href=\"/events/art_off_walk_02a\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.5602" markerLon="9.9369" markerContent="<b>LISTENING</b><br>von der Kunst des Zuhörens'  Exploration und somatic Performance im urbanen Raum</br><a href=\"/events/art_off_walk_03a\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.5520" markerLon="9.9453" markerContent="<b>Ist das System relevant</b><br>Andachten zum Status der Demokratie</br><a href=\"/events/art_off_walk_04a\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.5669" markerLon="9.9388" markerContent="<b>Räume und Menschen</b><br>Künstlerische Expeditionen im urbanen Raum</br><a href=\"/events/berlin_video_arta\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.5533" markerLon="9.9280" markerContent="<b>HELLO AGAIN</b><br>Das Prinzip der Gegenseitigkeit</br><a href=\"/events/frapp_01_a\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.5588" markerLon="9.9435" markerContent="<b>Restart/Re-start</b><br>skulpturelle Neuschöpfungen industrieller Abfallprodukte</br><a href=\"/events/frapp_02a\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.5496" markerLon="9.9302" markerContent="<b>Baustellenflanöre</b><br><a href=\"/events/frapp_03a\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.5581" markerLon="9.9438" markerContent="<b>Into the public</b><br>eine Videoausstellung im öffentlichen Raum und über diesen</br><a href=\"/events/frapp_04\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.5588" markerLon="9.9436" markerContent="<b>Paint Billboard</b><br><a href=\"/events/frapp_05a\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.5566" markerLon="9.9461" markerContent="<b>Lost & Found</b><br><a href=\"/events/frapp_06\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.5541" markerLon="9.9286" markerContent="<b>urbane Antinomien</b><br>projizierte Malerei im öffentlichen Raum</br><a href=\"/events/frapp_07a\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.5591" markerLon="9.9511" markerContent="<b>Konverter</b><br><a href=\"/events/frapp_08\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.5561" markerLon="9.9366" markerContent="<b>Safer Talk</b><br>Soziale Plastik</br><a href=\"/events/frapp_09\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.5478" markerLon="9.9573" markerContent="<b>5000 Postkarten für St.Pauli</b><br>Künstler geben ihre Fotos zurück</br><a href=\"/events/frapp_10\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.5583" markerLon="9.9441" markerContent="<b>Das Reisefotostudio</b><br><a href=\"/events/frapp_11\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.5565" markerLon="9.9472" markerContent="<b>Kamishibai und Fiedel</b><br>Bilderbuchlesung im Park</br><a href=\"/events/frapp_12a\">Details...</a>" >}}
 {{< /leaflet-map >}}
 
 <!--more-->
