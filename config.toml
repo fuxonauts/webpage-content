@@ -50,13 +50,21 @@ theme = [ "LoveIt", "hugo-shortcode-gallery" ]
       title = ""
       weight = 3
     [[languages.de.menu.main]]
+      identifier = "gallery"
+      pre = ""
+      post = ""
+      name = "Fotogallerien"
+      url = "galleries/"
+      title = ""
+      weight = 4
+    [[languages.de.menu.main]]
       identifier = "demands"
       pre = ""
       post = ""
       name = "Forderungen"
       url = "demands/"
       title = ""
-      weight = 4
+      weight = 5
     [[languages.de.menu.main]]
       identifier = "imprint"
       pre = ""
@@ -64,7 +72,7 @@ theme = [ "LoveIt", "hugo-shortcode-gallery" ]
       name = "Impressum"
       url = "imprint/"
       title = "langer Name für Impressum"
-      weight = 5
+      weight = 6
 
   [languages.en]
     weight = 2
@@ -99,13 +107,21 @@ theme = [ "LoveIt", "hugo-shortcode-gallery" ]
       title = ""
       weight = 3
     [[languages.en.menu.main]]
+      identifier = "gallery"
+      pre = ""
+      post = ""
+      name = "Photo Galleries"
+      url = "galleries/"
+      title = ""
+      weight = 4
+    [[languages.en.menu.main]]
       identifier = "demands"
       pre = ""
       post = ""
       name = "Demands"
       url = "demands/"
       title = ""
-      weight = 4
+      weight = 5
     [[languages.en.menu.main]]
       identifier = "imprint"
       pre = ""
@@ -113,7 +129,7 @@ theme = [ "LoveIt", "hugo-shortcode-gallery" ]
       name = "Imprint"
       url = "imprint/"
       title = ""
-      weight = 5
+      weight = 6
 
 [taxonomies]
   genre = "genres"
