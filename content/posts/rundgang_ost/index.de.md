@@ -140,4 +140,4 @@ des *Berufsverbandes Bildender Künstler\*innen*.
 
 [Liste aller Events dieses Rundgangs](/walks/ost/)
 
-[Fotogallerie dieses Rundgangs](/galleries/rundgang_ost/)
+[Fotogalerie dieses Rundgangs](/galleries/rundgang_ost/)
