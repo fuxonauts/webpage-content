@@ -16,7 +16,7 @@ featuredImage: ""
 repeats: []
 repeat_times: []
 sequels: ['Kunst_02A', 'Kunst_02B']
-sequel_times: ['2021-08-13T16:00:00', '2021-08-14T11:00:00']
+sequel_times: ['2021-08-13T14:00:00', '2021-08-14T11:00:00']
 ---
 
 Die Klappe ist geöffnet. Vorstellung ausgewählter Künstler\*innen. Autor\*innen kommen vorbei, erste Texte werden gelesen.  Alle sind eingeladen ihre eigene Sicht auf die Werke zu beobachten und mitzuteilen: Was sehe ich, was höre ich, was fühle ich und was denke ich wenn ich ein Werk betrachte. 

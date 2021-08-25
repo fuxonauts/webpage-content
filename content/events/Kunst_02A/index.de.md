@@ -1,7 +1,7 @@
 ---
 title: "Kunstimbiss #PROFAN 2"
 subtitle: "Das Betrachten betrachten"
-date: 2021-08-13T16:00:00
+date: 2021-08-13T14:00:00
 publishDate: 2021-06-25T19:40:36+02:00
 end: 2021-08-13T19:00:00
 draft: false

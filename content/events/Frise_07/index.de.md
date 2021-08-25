@@ -19,4 +19,5 @@ sequels: []
 sequel_times: []
 ---
 
-Die drei Künstler\*innen Sylvie Réno, Blandine Herrmann und Frédéric Clavère stellen als Gäste der FRISE im August ein Passagenwerk aus Wegmarken her, die den Weg zwischen den Orten Frise  - Frappant in Altona poetisch begleiten. Dafür nutzen sie die handelsüblichen Gehwegplatten als Trägermodule für durch Schablonen hergestellte Malerein, Texte und Zeichen die mit Kreidefarben aufgetragen werden.
+Die drei Künstler\*innen Sylvie Réno, Blandine Herrmann und Frédéric Clavère stellen als Gäste der FRISE im August ein Passagenwerk aus Wegmarken her, die den Weg zwischen den Orten Frise und Frappant in 
+Altona poetisch begleiten. Dafür nutzen sie die handelsüblichen Gehwegplatten als Trägermodule für durch Schablonen hergestellte Malereien, Texte und Zeichen, die mit Kreidefarben aufgetragen werden.

@@ -46,6 +46,9 @@ Am **4. - 5. September** findet im Hamburger Westen dann ein dritter Rundgang un
     {{< leaflet-marker markerLat="53.5521" markerLon="9.9400" markerContent="<b>Kunstimbiss #PROFAN 5</b><br>Das Betrachten betrachten</br><a href=\"/events/kunst_05a\">Details...</a>" >}}
     {{< leaflet-marker markerLat="53.5521" markerLon="9.9400" markerContent="<b>Kunstimbiss #PROFAN 5</b><br>Das Betrachten betrachten</br><a href=\"/events/kunst_05b\">Details...</a>" >}}
     {{< leaflet-marker markerLat="53.5521" markerLon="9.9400" markerContent="<b>Kunstimbiss #PROFAN 5</b><br>Das Betrachten betrachten</br><a href=\"/events/kunst_05c\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.5521" markerLon="9.9400" markerContent="<b>Kunstimbiss #PROFAN 5</b><br>Das Betrachten betrachten</br><a href=\"/events/kunst_05d\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.5521" markerLon="9.9400" markerContent="<b>Kunstimbiss #PROFAN 5</b><br>Das Betrachten betrachten</br><a href=\"/events/kunst_05e\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.5521" markerLon="9.9400" markerContent="<b>Kunstimbiss #PROFAN 5</b><br>Das Betrachten betrachten</br><a href=\"/events/kunst_05f\">Details...</a>" >}}
     {{< leaflet-marker markerLat="53.5479" markerLon="9.9598" markerContent="<b>Infostand</b><br><a href=\"/events/hinti_04b\">Details...</a>" >}}
     {{< leaflet-marker markerLat="53.5479" markerLon="9.9598" markerContent="<b>Ain't no bedroom big enough</b><br>Soundwalk über die Reeperbahn</br><a href=\"/events/hinti_08a\">Details...</a>" >}}
     {{< leaflet-marker markerLat="53.5588" markerLon="9.9436" markerContent="<b>Manuel Muerte</b><br>Illusions Show</br><a href=\"/events/artoffbühne_01\">Details...</a>" >}}
