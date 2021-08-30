@@ -1,6 +1,6 @@
 ---
 title: "Von den Wassern"
-subtitle: ""
+subtitle: "Ton Installation"
 date: 2021-09-04T15:00:00
 publishDate: 2021-06-25T19:40:36+02:00
 end: 2021-09-04T20:00:00
@@ -24,3 +24,6 @@ Wasserläufe durchströmen die gesamte Erdoberfläche, manche sichtbar als Bäch
 Auch unter den stark versiegelten Flächen einer Großstadt fließen diese Wasserläufe. Die wenigen Stellen, an denen sie sichtbar werden, werden meist im Rahmen der städtischen Wohnraumverdichtung zugeschüttet und überbaut.
 
 Das Wasser bleibt jedoch, es durchströmt weiterhin den Untergrund. Es schert sich nicht um uns und die Versiegelung der Oberflächen, es sucht sich seine eigenen Wege und nagt an den Fundamenten unserer verbauten Zukunft.
+
+In Kooperation mit Parry Audio − Hamburg 
+

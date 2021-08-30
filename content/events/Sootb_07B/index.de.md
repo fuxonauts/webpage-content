@@ -19,4 +19,4 @@ sequels: []
 sequel_times: []
 ---
 
-Kathrin Horsch erkundet in ihren Projekten Zusammenhänge von Bewegung und deren Umgebung. Eine Erforschung von Bewegungsabläufen, die einerseits durch ihre jeweilige Konstruktion bestimmte Richtungen vorgeben, andererseits durch gezielte Inszenierungen, wie Abstände, Verdichtung, Auflösung, Lichtsetzung und Klang, Einfluss darauf haben, wie Räume letztendlich durchquert werden könnten. 
+Töne und Geräusche aus dem Bauch einer Stadt mischen sich mit dem Vokalumfang der menschlichen Stimme. Zwei Gullydeckel, zwei Musiker. Tiefe Bassgesänge im Zusammenspiel mit dem Sound der Kanalisation.

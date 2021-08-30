@@ -26,26 +26,31 @@ The third series of ART OFF HAMBURG Art Walks will take place in Hamburg’s wes
     {{< leaflet-marker markerLat="53.5669" markerLon="9.9266" markerContent="<b>Tränen auf Vinyl</b><br>Lecture Performance</br><a href=\"/events/2025_15\">Details...</a>" >}}
     {{< leaflet-marker markerLat="53.5669" markerLon="9.9266" markerContent="<b>Der akustische Flaneur</b><br>Konzert</br><a href=\"/events/2025_16\">Details...</a>" >}}
     {{< leaflet-marker markerLat="53.5669" markerLon="9.9266" markerContent="<b>Fablicius und Freunde</b><br>multimediale Bühnenperformance</br><a href=\"/events/2025_17\">Details...</a>" >}}
-    {{< leaflet-marker markerLat="53.5496" markerLon="9.9282" markerContent="<b>ABZ - Open Air Filmabend 01</b><br><a href=\"/events/abz_01\">Details...</a>" >}}
-    {{< leaflet-marker markerLat="53.5496" markerLon="9.9282" markerContent="<b>ABZ - Open Air Filmabend 02</b><br><a href=\"/events/abz_02\">Details...</a>" >}}
-    {{< leaflet-marker markerLat="53.5496" markerLon="9.9282" markerContent="<b>ABZ - Open Air Filmabend 03</b><br><a href=\"/events/abz_03\">Details...</a>" >}}
-    {{< leaflet-marker markerLat="53.5496" markerLon="9.9281" markerContent="<b>Weg-Weiser</b><br>Eine Bodenintervention</br><a href=\"/events/frise_01\">Details...</a>" >}}
-    {{< leaflet-marker markerLat="53.5496" markerLon="9.9282" markerContent="<b>Dreh den Bierfilz</b><br><a href=\"/events/frise_02a\">Details...</a>" >}}
-    {{< leaflet-marker markerLat="53.5589" markerLon="9.9437" markerContent="<b>Dreh den Bierfilz</b><br><a href=\"/events/frise_02b\">Details...</a>" >}}
-    {{< leaflet-marker markerLat="53.5496" markerLon="9.9282" markerContent="<b>„The Story of“</b><br>ein lebendiges Zeichen</br><a href=\"/events/frise_03\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.5477" markerLon="9.9356" markerContent="<b>the interrupted line</b><br>Installation im Offentlichen Raum</br><a href=\"/events/8salo_01\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.5496" markerLon="9.9282" markerContent="<b>ABZ − Open Air Filmabend 01</b><br>Filmabend 01</br><a href=\"/events/abz_01\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.5496" markerLon="9.9282" markerContent="<b>ABZ − Open Air Filmabend 02</b><br>Filmabend 02</br><a href=\"/events/abz_02\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.5496" markerLon="9.9282" markerContent="<b>ABZ − Open Air Filmabend 03</b><br>Filmabend 03</br><a href=\"/events/abz_03\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.5496" markerLon="9.9281" markerContent="<b>Weg-Weiser</b><br>Eine Bodenintervention</br><a href=\"/events/frise_01a\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.5496" markerLon="9.9282" markerContent="<b>Dreh den Bierfilz</b><br>zeichnerische Interaktion</br><a href=\"/events/frise_02a\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.5496" markerLon="9.9282" markerContent="<b>„The Story of“</b><br>ein lebendiges Zeichen</br><a href=\"/events/frise_03a\">Details...</a>" >}}
     {{< leaflet-marker markerLat="53.5501" markerLon="9.9286" markerContent="<b>„SAND IN LICHT“</b><br>eine Bodenprojektion</br><a href=\"/events/frise_04a\">Details...</a>" >}}
-    {{< leaflet-marker markerLat="53.5496" markerLon="9.9282" markerContent="<b>„Odas Blume“</b><br><a href=\"/events/frise_05\">Details...</a>" >}}
-    {{< leaflet-marker markerLat="53.5497" markerLon="9.9280" markerContent="<b>„festes Versprechen“</b><br>eingebrannte Sprache</br><a href=\"/events/frise_06\">Details...</a>" >}}
-    {{< leaflet-marker markerLat="53.5444" markerLon="9.9233" markerContent="<b>„Passagen“</b><br>deutsch- französische Playlist, Lieblingstitel Hamburg - Marseille u.a.</br><a href=\"/events/frise_07\">Details...</a>" >}}
-    {{< leaflet-marker markerLat="53.5444" markerLon="9.9233" markerContent="<b>„Re- Nature, By the Way“</b><br>Inszenierung einer kleinen Quelle am Elbhang</br><a href=\"/events/frise_08a\">Details...</a>" >}}
-    {{< leaflet-marker markerLat="53.5496" markerLon="9.9282" markerContent="<b>„Agharta # 2“</b><br>eine Wegstrecken-Serie</br><a href=\"/events/frise_09\">Details...</a>" >}}
-    {{< leaflet-marker markerLat="53.5496" markerLon="9.9282" markerContent="<b>AUSSCHLAG</b><br><a href=\"/events/frise_10\">Details...</a>" >}}
-    {{< leaflet-marker markerLat="53.5508" markerLon="9.9337" markerContent="<b>Von den Wassern</b><br><a href=\"/events/frise_11a\">Details...</a>" >}}
-    {{< leaflet-marker markerLat="53.5496" markerLon="9.9282" markerContent="<b>WALKING IN CIRCLES</b><br>Unterwegs mit der Polaroïd-Kamera</br><a href=\"/events/frise_12\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.5496" markerLon="9.9282" markerContent="<b>„Oda’s Blumen“</b><br>Neonskulptur</br><a href=\"/events/frise_05a\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.5497" markerLon="9.9280" markerContent="<b>„festes Versprechen“</b><br>eingebrannte Sprache</br><a href=\"/events/frise_06a\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.5444" markerLon="9.9233" markerContent="<b>„re:nature, by the way“</b><br>Inszenierung einer kleinen Quelle am Elbhang</br><a href=\"/events/frise_08a\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.5496" markerLon="9.9282" markerContent="<b>„Agharta # 2“</b><br>eine Wegstrecken-Serie</br><a href=\"/events/frise_09a\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.5496" markerLon="9.9282" markerContent="<b>AUSSCHLAG</b><br>Wandmalerei</br><a href=\"/events/frise_10a\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.5508" markerLon="9.9337" markerContent="<b>Von den Wassern</b><br>Ton Installation</br><a href=\"/events/frise_11a\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.5496" markerLon="9.9282" markerContent="<b>WALKING IN CIRCLES</b><br>Unterwegs mit der Polaroïd-Kamera</br><a href=\"/events/frise_12a\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.5496" markerLon=" 9.9282     " markerContent="<b>Lachyoga</b><br>Performance</br><a href=\"/events/frise_13a\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.5496" markerLon="9.9282" markerContent="<b>richas digest</b><br>Ausstellung</br><a href=\"/events/frise_14a\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.5444" markerLon="9.9233" markerContent="<b>„Passage“</b><br>Hamburg - Marseille</br><a href=\"/events/frise_7a\">Details...</a>" >}}
     {{< leaflet-marker markerLat="53.5576" markerLon="9.9530" markerContent="<b>Pflanzen in der Stadt</b><br>Theater im Wohlers Park</br><a href=\"/events/g21vs_14\">Details...</a>" >}}
     {{< leaflet-marker markerLat="53.5521" markerLon="9.9400" markerContent="<b>Kunstimbiss #PROFAN 5</b><br>Das Betrachten betrachten</br><a href=\"/events/kunst_05a\">Details...</a>" >}}
     {{< leaflet-marker markerLat="53.5521" markerLon="9.9400" markerContent="<b>Kunstimbiss #PROFAN 5</b><br>Das Betrachten betrachten</br><a href=\"/events/kunst_05b\">Details...</a>" >}}
     {{< leaflet-marker markerLat="53.5521" markerLon="9.9400" markerContent="<b>Kunstimbiss #PROFAN 5</b><br>Das Betrachten betrachten</br><a href=\"/events/kunst_05c\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.5521" markerLon="9.9400" markerContent="<b>Kunstimbiss #PROFAN 5</b><br>Das Betrachten betrachten</br><a href=\"/events/kunst_05d\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.5521" markerLon="9.9400" markerContent="<b>Kunstimbiss #PROFAN 5</b><br>Das Betrachten betrachten</br><a href=\"/events/kunst_05e\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.5521" markerLon="9.9400" markerContent="<b>Kunstimbiss #PROFAN 5</b><br>Das Betrachten betrachten</br><a href=\"/events/kunst_05f\">Details...</a>" >}}
     {{< leaflet-marker markerLat="53.5479" markerLon="9.9598" markerContent="<b>Infostand</b><br><a href=\"/events/hinti_04b\">Details...</a>" >}}
     {{< leaflet-marker markerLat="53.5479" markerLon="9.9598" markerContent="<b>Ain't no bedroom big enough</b><br>Soundwalk über die Reeperbahn</br><a href=\"/events/hinti_08a\">Details...</a>" >}}
     {{< leaflet-marker markerLat="53.5588" markerLon="9.9436" markerContent="<b>Manuel Muerte</b><br>Illusions Show</br><a href=\"/events/artoffbühne_01\">Details...</a>" >}}

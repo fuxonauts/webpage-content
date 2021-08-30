@@ -21,4 +21,7 @@ sequel_times: []
 
 Nach Anweisungen Sabine Siegfrieds bewegen sich die Teilnehmer durch den alten Elbtunnel und dokumentieren dies fotografisch. Aus den Ergebnissen setzt die Künstlerin eine neue Ansicht des Tunnels zusammen.
 
+
+
 Anmeldung erforderlich unter siegfried@westwerk.org, max. 12 Teilnehmer
+

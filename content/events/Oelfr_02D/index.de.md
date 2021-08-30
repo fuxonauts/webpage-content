@@ -8,7 +8,7 @@ draft: false
 street: "Kreuzung Billhorner Röhrendamm / Brandshofer Deich"
 address: "20539 Hamburg"
 organizers: ["Oel-Früh"]
-artists: ['KünstlerInnengruppe Chipsi Ebert', ' Raphaele Andrade']
+artists: ['Chipsi Ebert', ' Raphaele Andrade']
 walks: ['Ost']
 genres: ['darstellende Kunst', 'Performance']
 kids: []

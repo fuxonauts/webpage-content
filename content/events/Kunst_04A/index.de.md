@@ -8,7 +8,7 @@ draft: false
 street: "Tibarg 30"
 address: "22459 Hamburg"
 organizers: ["Kunst-Imbiss"]
-artists: ['Künstler*innen: Ida Lennartson', ' Doris Cordes-Vollert', ' Jan Meyer-Rogge', ' Tilmann Terbuyken', ' Martin Scholten', ' Katja Windau / Autor*innen: Jonis Hartmann', ' Tania Kibermanis']
+artists: ['Doris Cordes-Vollert', ' Jan Meyer-Rogge', ' Tilmann Terbuyken', ' Roland Helmus', ' Katja Windau', ' Autorin Tania Kibermanis liest den Text zu einem Werk von Ida Lennartson.']
 walks: ['Niendorf']
 genres: ['Performance', 'Malerei', 'Fotografie', 'Skulptur', 'Literatur']
 kids: []

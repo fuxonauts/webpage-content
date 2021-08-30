@@ -19,4 +19,4 @@ sequels: []
 sequel_times: []
 ---
 
-Plattenspieler, Audio Boxen, Verstärker, Display mit den Postkartencover, evt. Kopfhörer. Geplante Umsetzung: Hörstation in Form eines kleinen Souvenirshops oder Kiosk mit Postkarten. Live Audio oder Musikkonzerte
+Plattenspieler, Audio Boxen, Verstärker, Display mit den Postkartencover, evtl. Kopfhörer. Geplante Umsetzung: Hörstation in Form eines kleinen Souvenirshops oder Kiosk mit Postkarten. Live Audio oder Musikkonzerte

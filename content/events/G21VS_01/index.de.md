@@ -19,4 +19,4 @@ sequels: []
 sequel_times: []
 ---
 
-Im Dai Beit! Klup_KOKAIN treten Wettkampfdebattiererinnen und -debattierer zu sich permanent verändernden Pro- und Contra Positionen gegeneinander- wie gegen sich selbst an. Es geht ums Koks. Performerinnen und Performer sorgen für den bewegten und klanglichen Kommentar zu den rhetorischen Verrenkungen der Battles und verschmelzen in den Pausen zur Showband welche die Füße des Publikums nicht still stehen lässt.
+Im Dai Beit! Klup_KOKAIN treten Wettkampfdebattiererinnen und -debattierer zu sich permanent verändernden Pro- und Contra Positionen gegeneinander − wie gegen sich selbst an. Es geht ums Koks. Performerinnen und Performer sorgen für den bewegten und klanglichen Kommentar zu den rhetorischen Verrenkungen der Battles und verschmelzen in den Pausen zur Showband welche die Füße des Publikums nicht still stehen lässt.

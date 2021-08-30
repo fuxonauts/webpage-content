@@ -13,10 +13,10 @@ walks: ['Mitte']
 genres: ['Musik', 'Performance']
 kids: []
 featuredImage: ""
-repeats: ['Gensc_02B', 'Gensc_02C']
+repeats: ['Gensc_02C', 'Gensc_02B']
 repeat_times: ['2021-08-13T15:00:00', '2021-08-13T15:00:00']
 sequels: []
 sequel_times: []
 ---
 
-Sound Installation mit Baumpflanzung mit Baumpflanzung von Julia Nordholz, im Garten der Marktstraße 138–141.
+Sound Installation mit Baumpflanzung von Julia Nordholz, im Garten der Marktstraße 138–141.

@@ -8,7 +8,7 @@ draft: false
 street: "Kreuzung Billhorner Röhrendamm / Brandshofer Deich"
 address: "20539 Hamburg"
 organizers: ["Oel-Früh"]
-artists: ['KünstlerInnengruppe Chipsi Ebert', ' Ingo Gerken']
+artists: ['Chipsi Ebert', ' Ingo Gerken']
 walks: ['Ost']
 genres: ['darstellende Kunst', 'Performance']
 kids: []

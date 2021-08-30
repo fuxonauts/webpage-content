@@ -19,4 +19,4 @@ sequels: []
 sequel_times: []
 ---
 
-Kathrin Horsch erkundet in ihren Projekten Zusammenhänge von Bewegung und deren Umgebung. Eine Erforschung von Bewegungsabläufen, die einerseits durch ihre jeweilige Konstruktion bestimmte Richtungen vorgeben, andererseits durch gezielte Inszenierungen, wie Abstände, Verdichtung, Auflösung, Lichtsetzung und Klang, Einfluss darauf haben, wie Räume letztendlich durchquert werden könnten. 
+Ein Schauplatz, der ein zielgerichtetes Fortschreiten unmöglich macht. Bewegungsabläufe, die einerseits durch ihre jeweilige Konstruktion eine bestimmte Richtung vorzugeben scheinen, andererseits durch gezielte Inszenierungen, wie Abstände, Verdichtung, Auflösung, Lichtsetzung und Klang, Einfluss darauf haben, wie Räume letztendlich durchquert werden könnten. 

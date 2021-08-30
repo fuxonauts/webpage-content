@@ -21,4 +21,7 @@ sequel_times: []
 
 Mit mobiler Kinoausrüstung und Publikum wandert A Wall is a Screen durch die abendliche Stadt. Während des Rundgangs werden Kurzfilme auf unterschiedlichste Wände projiziert. A Wall is a Screen nutzt und definiert den öffentlichen Raum um: Architektur wird zur Projektionsfläche und die Symbiose von Film und Umgebung lässt überraschend neue Eindrücke entstehen.
 
+
+
 Anmeldung ab 30.7. erforderlich unter www.awallisascreen.com
+

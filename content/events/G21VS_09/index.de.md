@@ -19,4 +19,4 @@ sequels: []
 sequel_times: []
 ---
 
-In der Fotografie Ausstellung „Trees“ werden im Aussenraum auf Plakatwänden Bäume aus aller Welt gezeigt und der Urbane Stadtraum in einen internationallen Botanischen Garten verwandelt.
+In der Fotografie Ausstellung „Trees“ werden im Außenraum auf Plakatwänden Bäume aus aller Welt gezeigt und der Urbane Stadtraum in einen internationalen Botanischen Garten verwandelt.

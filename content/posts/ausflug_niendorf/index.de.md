@@ -10,8 +10,9 @@ Das [Künstlerhaus Sootbörn](/places/k_nstlerhaus_sootb_rn/) lädt am **28. und
 mobile Kunstversorgung leistet Gesellschaft.
 
 {{< leaflet-map mapHeight="500px" mapWidth="100%" mapLat="53.61765" mapLon="9.95345" zoom="14">}}
+    {{< leaflet-marker markerLat="53.6162" markerLon="9.9545" markerContent="<b>Dreh den Bierfilz</b><br>zeichnerische Interaktion</br><a href=\"/events/frise_02d\">Details...</a>" >}}
     {{< leaflet-marker markerLat="53.6195" markerLon="9.9514" markerContent="<b>Kunstimbiss #PROFAN 4</b><br>Das Betrachten betrachten</br><a href=\"/events/kunst_04a\">Details...</a>" >}}
-    {{< leaflet-marker markerLat="53.6195" markerLon="9.9514" markerContent="<b>Kunstimbiss #PROFAN 4</b><br>Das Betrachten betrachten</br><a href=\"/events/kunst_04b\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.6158" markerLon="9.9555" markerContent="<b>Kunstimbiss #PROFAN 4</b><br>Das Betrachten betrachten</br><a href=\"/events/kunst_04b\">Details...</a>" >}}
     {{< leaflet-marker markerLat="53.6158" markerLon="9.9555" markerContent="<b>Hurly Burly Luftikus</b><br><a href=\"/events/sootb_00a\">Details...</a>" >}}
     {{< leaflet-marker markerLat="53.6158" markerLon="9.9555" markerContent="<b>Hurly Burly Luftikus</b><br><a href=\"/events/sootb_00b\">Details...</a>" >}}
     {{< leaflet-marker markerLat="53.6158" markerLon="9.9555" markerContent="<b>LTE Air</b><br>4 Kanal-Klanginstallation zum Anrufen</br><a href=\"/events/sootb_01a\">Details...</a>" >}}

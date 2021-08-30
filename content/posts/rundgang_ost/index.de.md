@@ -37,12 +37,10 @@ Sie führen durch Wandsbek, St. Georg, Rothenburgsort und Hammerbrook.
     {{< leaflet-marker markerLat="53.5334" markerLon="10.03554" markerContent="<b>Litfaßsäule</b><br><a href=\"/events/mikro_2c\">Details...</a>" >}}
     {{< leaflet-marker markerLat="53.5475" markerLon="10.0275" markerContent="<b>Blockperformance</b><br><a href=\"/events/wende_03\">Details...</a>" >}}
     {{< leaflet-marker markerLat="53.5442" markerLon="10.0401" markerContent="<b>Living Graffiti</b><br><a href=\"/events/proje_04a\">Details...</a>" >}}
-    {{< leaflet-marker markerLat="53.5436" markerLon="10.0341" markerContent="<b>ZOLLO 6</b><br>Regelwidrige Körper I</br><a href=\"/events/zollo_6\">Details...</a>" >}}
     {{< leaflet-marker markerLat="53.5442" markerLon="10.0401" markerContent="<b>Infinite Jest</b><br>Poetry-Sound-Performance</br><a href=\"/events/proje_13b\">Details...</a>" >}}
     {{< leaflet-marker markerLat="53.5512" markerLon="10.0202" markerContent="<b>liminal//animal</b><br><a href=\"/events/xpon_05a\">Details...</a>" >}}
     {{< leaflet-marker markerLat="53.5548" markerLon="10.0149" markerContent="<b>Steindamm Atlas, Eröffnung</b><br>Fotografie Ausstellung in Läden und Fenstern des Steindamms</br><a href=\"/events/g21vs_18a\">Details...</a>" >}}
     {{< leaflet-marker markerLat="53.5539" markerLon="10.0181" markerContent="<b>After the Flood</b><br><a href=\"/events/n23_02d\">Details...</a>" >}}
-    {{< leaflet-marker markerLat="53.5436" markerLon="10.0341" markerContent="<b>ZOLLO 7</b><br>Regelwidrige Körper II</br><a href=\"/events/zollo_7\">Details...</a>" >}}
     {{< leaflet-marker markerLat="53.5442" markerLon="10.0401" markerContent="<b>Viel</b><br>Ausstellung</br><a href=\"/events/proje_08a\">Details...</a>" >}}
     {{< leaflet-marker markerLat="53.5456" markerLon="10.0327" markerContent="<b>flap</b><br><a href=\"/events/n23_01\">Details...</a>" >}}
     {{< leaflet-marker markerLat="53.57394" markerLon="10.07295" markerContent="<b>Wand und Tür im digitalen Globalismus - 02</b><br>Affekt, Effekt, Infekt, Konfekt.</br><a href=\"/events/einst_03a\">Details...</a>" >}}
@@ -80,6 +78,15 @@ Sie führen durch Wandsbek, St. Georg, Rothenburgsort und Hammerbrook.
     {{< leaflet-marker markerLat="53.555011" markerLon="10.015565" markerContent="<b>Art & Crime</b><br><a href=\"/events/noroo_04a\">Details...</a>" >}}
     {{< leaflet-marker markerLat="53.5539" markerLon="10.0181" markerContent="<b>After the Flood</b><br><a href=\"/events/n23_02e\">Details...</a>" >}}
     {{< leaflet-marker markerLat="53.5442" markerLon="10.0401" markerContent="<b>Data Morgana</b><br><a href=\"/events/proje_06a\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.5402" markerLon="10.0267" markerContent="<b>Fürs Gefühl 01</b><br>Ausstellung</br><a href=\"/events/oelfr_01a\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.5402" markerLon="10.0267" markerContent="<b>Fürs Gefühl 02</b><br>Ausstellung</br><a href=\"/events/oelfr_02a\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.5402" markerLon="10.0267" markerContent="<b>Fürs Gefühl 03</b><br>Ausstellung</br><a href=\"/events/oelfr_03a\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.542857" markerLon="10.035048" markerContent="<b>Regelwidrige Körper</b><br>ALLY WORKSHOP von Ajayini Sathyan</br><a href=\"/events/zollo_10\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.542857" markerLon="10.035048" markerContent="<b>Regelwidrige Körper</b><br>Musik und Performance von SILLY-CONE</br><a href=\"/events/zollo_11\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.542857" markerLon="10.035048" markerContent="<b>Regelwidrige Körper</b><br>Opening lecture: Suma Abdelsamie</br><a href=\"/events/zollo_6\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.542857" markerLon="10.035048" markerContent="<b>Regelwidrige Körper</b><br>Workshop von Lann Hornscheidt Exit Gender</br><a href=\"/events/zollo_7\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.542857" markerLon="10.035048" markerContent="<b>Regelwidrige Körper</b><br>Talk: REGELWIDRIGE KÖRPER Cornelia Kost & Daniel Schiano (4Be TransSuchtHilfe) im Gespräch mit Eliah Lüthi (transdisziplinäre Gender-, Disability und Mad Studies</br><a href=\"/events/zollo_8\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.542857" markerLon="10.035048" markerContent="<b>Regelwidrige Körper</b><br>Performance SILLY-CONE</br><a href=\"/events/zollo_9\">Details...</a>" >}}
 {{< /leaflet-map >}}
 
 <!--more-->

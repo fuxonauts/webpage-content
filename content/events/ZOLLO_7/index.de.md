@@ -1,22 +1,22 @@
 ---
-title: "ZOLLO 7"
-subtitle: "Regelwidrige Körper II"
-date: 2021-08-29T14:00:00
+title: "Regelwidrige Körper"
+subtitle: "Workshop von Lann Hornscheidt Exit Gender"
+date: 2021-08-28T15:30:00
 publishDate: 2021-06-25T19:40:36+02:00
-end: 2021-08-29T23:59:00
+end: 2021-08-28T19:30:00
 draft: false
 street: "Bullerdeich 6"
 address: "20537 Hamburg"
-organizers: ["Zollo"]
-artists: ['Nuriye Tohermes', ' Lila Zoe Krauss', ' Almuth Anders', ' Luka Lenzin', ' Jan Rasehorn', ' Leon Lechner. Daniel Möring']
+organizers: ["ZOLLO"]
+artists: ['Lann Hornscheidt ']
 walks: ['Ost']
-genres: ['Performance']
+genres: ['Performance', 'Literatur']
 kids: []
 featuredImage: ""
 repeats: []
 repeat_times: []
-sequels: ['ZOLLO_O1', 'ZOLLO_2', 'ZOLLO_3', 'ZOLLO_4', 'ZOLLO_5', 'ZOLLO_6']
-sequel_times: ['2021-07-30T15:00:00', '2021-07-31T17:30:00', '2021-08-01T15:00:00', '2021-08-13T18:00:00', '2021-08-14T15:00:00', '2021-08-28T14:00:00']
+sequels: []
+sequel_times: []
 ---
 
-Das ZOLLO Programm verabschiedet sich aus dem Artoff Kultursommer um 21 Uhr mit der Übertragung von Janaya Future Khans Sunday Sermon. Im Vorfeld (ab 14 Uhr) gibt es einen Workshop mit Ajayini Sathyan zu der Frage was es heißt Ally zu sein.
+Workshop von Lann Hornscheidt Exit Gender – aus Gewaltverhältnissen anfangen auszusteigen Wie könnte ein Leben jenseits struktureller Gewalt aussehen? Könnte Genderfreiheit ein Weg weg von Neoliberalismus und Kapitalismus sein? Was würde das mit den eigenen Vorstellungen von Nahbeziehungen, Liebe, Begehren, sexueller Orientierung, Selbstverständnissen, Sprache... machen? Ist Genderfreiheit lebbar in einer Gesellschaft, die wirklich alles gendert und Menschen grundsätzlich über Gender wahrnimmt und zuschreibt? Und wenn ja, was würde das konkret bedeuten können? Das alles sind mögliche Fragen, die wir im Workshop durch Einzelübungen und Diskussionen miteinander füllen werden. / Lann Hornscheidt lebt diskriminierungskritisch und versucht genderfrei zu agieren. Lann gibt Workshops und hält Vorträge zu Lieben als politischem Handeln/Kapitalismus entlieben und Sprache und Gewalt/Diskriminierung. Lann publiziert Bücher, schreibt Artikel, arbeitet bei Gezeiten e.V. zu literarisch-politischen Veranstaltungen und an der Erstellung einer interaktiven Website zu Sprache und Diskriminierung. Außerdem leitet Lann den diskriminierungskritischen Verlag w_orten & meer. ↗lannhornscheidt.com / wortenundmeer.net 

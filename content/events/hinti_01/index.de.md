@@ -19,4 +19,4 @@ sequels: []
 sequel_times: []
 ---
 
-The Sonic Garden - Ein gemeinsamer Konzertabend mit Gartenkunstnetz e.V. und hinterconti. Die Luft soll endlich wieder zum klingen gebracht werden - 4 Musikerinnen aus Hamburg stellen neue musikalische, peformative Experimente und Produktionen vor. 
+The Sonic Garden - Ein gemeinsamer Konzertabend mit Gartenkunstnetz e.V. und hinterconti. Die Luft soll endlich wieder zum klingen gebracht werden - 4 Musikerinnen aus Hamburg stellen neue musikalische, performative Experimente und Produktionen vor. 

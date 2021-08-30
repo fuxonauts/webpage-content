@@ -1,22 +1,26 @@
 ---
-title: "ZOLLO 6 "
-subtitle: "Regelwidrige Körper I"
-date: 2021-08-28T14:00:00
+title: "Regelwidrige Körper"
+subtitle: "Opening lecture: Suma Abdelsamie"
+date: 2021-08-28T14:15:00
 publishDate: 2021-06-25T19:40:36+02:00
-end: 2021-08-28T23:59:00
+end: 2021-08-28T15:30:00
 draft: false
 street: "Bullerdeich 6"
 address: "20537 Hamburg"
-organizers: ["Zollo"]
-artists: ['Nuriye Tohermes', ' Lila Zoe Krauss', ' Almuth Anders', ' Luka Lenzin', ' Jan Rasehorn', ' Leon Lechner. Daniel Möring']
+organizers: ["ZOLLO"]
+artists: ['Suma Abdelsamie ']
 walks: ['Ost']
 genres: ['Performance']
 kids: []
 featuredImage: ""
 repeats: []
 repeat_times: []
-sequels: ['ZOLLO_O1', 'ZOLLO_2', 'ZOLLO_3', 'ZOLLO_4', 'ZOLLO_5', 'ZOLLO_7']
-sequel_times: ['2021-07-30T15:00:00', '2021-07-31T17:30:00', '2021-08-01T15:00:00', '2021-08-13T18:00:00', '2021-08-14T15:00:00', '2021-08-29T14:00:00']
+sequels: []
+sequel_times: []
 ---
 
-Ein Input, ein Workshop, eine Lesungen und eine vielzahl von Gesprächen finden statt zu: There Is No Satisfaction. Von und mit Cornelia Kost (4B e.V.), Daniel Schiano (4B e.V.), Lann Hornscheidt (Literatur),  POSSY und weiteren. 
+Opening lecture: Suma Abdelsamie
+
+
+
+Besides many projects Suma is the Co-founder of welcome LGBTQI+ refugees, Athens and founder of trans newcomers Stockholm. As a trangender activist from Egypt, she talks about the violence and discrimination transgender refugees face in different european countries and how to protect the LGBTQI+ community. ↗https://www.unhcr.org/news/press/2021/6/60be8f344/

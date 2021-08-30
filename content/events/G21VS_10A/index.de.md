@@ -19,10 +19,10 @@ sequels: []
 sequel_times: []
 ---
 
-Zwei maßgeschneiderte Metal Feuer Tonnen.
+Zwei maßgeschneiderte Metallfeuertonnen.
 
-Besucher können mit Brotstangen grille im Garten des Vorwerk-Stifts.
+Besucher können im Garten des Vorwerk-Stifts Stockbrot grillen
 
-In das Metall der Feuer Tonne werden Figuren eingeschnitten.
+In das Metall der Feuertonne werden Figuren eingeschnitten.
 
 Diese Figuren werden in der Nacht im Licht des Feuers leuchten.
