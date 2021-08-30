@@ -1,6 +1,6 @@
 ---
 title: "Wand und Tür im digitalen Globalismus - 01"
-subtitle: " Affekt, Effekt, Infekt, Konfekt."
+subtitle: "Affekt, Effekt, Infekt, Konfekt."
 date: 2021-07-31T14:00:00
 publishDate: 2021-06-25T19:40:36+02:00
 end: 2021-07-31T18:00:00

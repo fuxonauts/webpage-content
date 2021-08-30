@@ -19,4 +19,4 @@ sequels: ['Kunst_05A', 'Kunst_05B', 'Kunst_05C', 'Kunst_05D', 'Kunst_05F']
 sequel_times: ['2021-08-31T15:00:00', '2021-09-01T15:00:00', '2021-09-02T15:00:00', '2021-09-03T15:00:00', '2021-09-05T15:00:00']
 ---
 
-Die Klappe ist geöffnet. Verschiedene Lesungen der fertigen Texte von Autor\*innen. Vorstellung der ausgewählten Künstler\*innen. Alle sind eingeladen ihre eigene Sicht auf die Werke zu beobachten und mitzuteilen: Was sehe ich, was höre ich, was fühle ich und was denke ich wenn ich ein Werk betrachte.  / Im Lauf der Woche findet ein Projekt mit Schüler\\*innen statt (in Kooperation mit Gymnasium Allee)   
+Die Klappe ist geöffnet. Verschiedene Lesungen der fertigen Texte von Autor\*innen. Vorstellung der ausgewählten Künstler\*innen. Alle sind eingeladen ihre eigene Sicht auf die Werke zu beobachten und mitzuteilen: Was sehe ich, was höre ich, was fühle ich und was denke ich wenn ich ein Werk betrachte.  / Im Lauf der Woche findet ein Projekt mit Schüler\*innen statt (in Kooperation mit Gymnasium Allee)   

@@ -21,10 +21,6 @@ sequel_times: []
 
 ALLY WORKSHOP von Ajayini Sathyan
 
-
-
 Ajayini Sathyan bringt rechtliche, gesellschaftliche und politische Fragen rund um das Thema „Regelwidrige Körper“ auf den Tisch. Denn obwohl in Deutschland die Gesellschaft als inklusiv gelten soll, ist es offensichtlich, dass dies nicht der Fall ist. Alles ist noch so cis, weiß, christlich, kapitalistisch, ableistisch und patriarchal wie es immer war. In diesem World-Café-Workshop können gemeinsame Ziele und Strategien gefunden werden.
-
-
 
 Workshop-Sprache: Deutsch; Dauer: 2-3 h; Teilnehmende: 16-20 Personen.

@@ -25,14 +25,11 @@ Musik und Performanceprogramm von SILLY-CONE
 
 Jpeg.luv
 
-
-
 https://soundcloud.com/jpeglove
 
 
 
 Saeleen Bouvar
 
-
-
 https://soundcloud.com/saeleen-bouvar
+

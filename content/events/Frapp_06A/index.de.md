@@ -3,7 +3,7 @@ title: "Lost & Found"
 subtitle: ""
 date: 2021-09-04T00:00:00
 publishDate: 2021-06-25T19:40:36+02:00
-end: 2021-09-05T23:59:00
+end: 2021-09-04T23:59:00
 draft: false
 street: "August-Lütgens-Park und Walter-Möller-Park"
 address: "22765 Hamburg"
@@ -13,8 +13,8 @@ walks: ['West']
 genres: ['Performance', 'Land Art']
 kids: []
 featuredImage: ""
-repeats: []
-repeat_times: []
+repeats: ['Frapp_06B']
+repeat_times: ['2021-09-05T00:00:00']
 sequels: []
 sequel_times: []
 ---

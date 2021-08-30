@@ -21,6 +21,4 @@ sequel_times: []
 
 Opening lecture: Suma Abdelsamie
 
-
-
 Besides many projects Suma is the Co-founder of welcome LGBTQI+ refugees, Athens and founder of trans newcomers Stockholm. As a trangender activist from Egypt, she talks about the violence and discrimination transgender refugees face in different european countries and how to protect the LGBTQI+ community. ↗https://www.unhcr.org/news/press/2021/6/60be8f344/

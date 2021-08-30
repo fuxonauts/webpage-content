@@ -9,7 +9,7 @@ street: "Unverortet – die Mode wird „on the Road“ und auf den Routen präs
 address: "Hamburg"
 organizers: ["Noroom Gallery"]
 artists: ['Gloria Brillowska', ' Jan Holtmann']
-walks: ['Ost', ' Mitte', ' West']
+walks: ['']
 genres: ['Performance']
 kids: []
 featuredImage: ""

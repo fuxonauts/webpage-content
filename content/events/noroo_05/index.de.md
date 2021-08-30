@@ -9,7 +9,7 @@ street: "     Startpunkt in Bahrenfeld nach persönlicher Anmeldung"
 address: "Hamburg"
 organizers: ["Noroom Gallery"]
 artists: [' Einsiedel_und_Jung']
-walks: ['West']
+walks: ['']
 genres: ['Performance']
 kids: []
 featuredImage: ""
