@@ -46,7 +46,7 @@ The third series of ART OFF HAMBURG Art Walks will take place in Hamburg’s wes
     {{< leaflet-marker markerLat="53.5518" markerLon="9.9383" markerContent="<b>Ulrich Kodjo Wendt & Trompeterin Sabine Braun</b><br><a href=\"/events/art_off_walk_00a\">Details...</a>" >}}
     {{< leaflet-marker markerLat="53.5494" markerLon="9.928" markerContent="<b>Pendeln 3</b><br><a href=\"/events/art_off_walk_01a\">Details...</a>" >}}
     {{< leaflet-marker markerLat="53.5495" markerLon="9.9303" markerContent="<b>Hirnverbrannt</b><br>total verrückte Feuershow und Straßenacts</br><a href=\"/events/art_off_walk_02a\">Details...</a>" >}}
-    {{< leaflet-marker markerLat="53.5602" markerLon="9.9369" markerContent="<b>LISTENING</b><br>von der Kunst des Zuhörens'  Exploration und somatic Performance im urbanen Raum</br><a href=\"/events/art_off_walk_03a\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.5602" markerLon="9.9369" markerContent="<b>LISTENING</b><br>'von der Kunst des Zuhörens'  Exploration und somatic Performance im urbanen Raum</br><a href=\"/events/art_off_walk_03a\">Details...</a>" >}}
     {{< leaflet-marker markerLat="53.552" markerLon="9.9453" markerContent="<b>Ist das System relevant</b><br>Andachten zum Status der Demokratie</br><a href=\"/events/art_off_walk_04a\">Details...</a>" >}}
     {{< leaflet-marker markerLat="53.5669" markerLon="9.9388" markerContent="<b>Räume und Menschen</b><br>Künstlerische Expeditionen im urbanen Raum</br><a href=\"/events/berlin_video_arta\">Details...</a>" >}}
     {{< leaflet-marker markerLat="53.5533" markerLon="9.928" markerContent="<b>HELLO AGAIN</b><br>Das Prinzip der Gegenseitigkeit</br><a href=\"/events/frapp_01_a\">Details...</a>" >}}
