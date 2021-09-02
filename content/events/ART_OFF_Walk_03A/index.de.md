@@ -1,6 +1,6 @@
 ---
 title: "LISTENING    "
-subtitle: "von der Kunst des Zuhörens'  Exploration und somatic Performance im urbanen Raum      "
+subtitle: "'von der Kunst des Zuhörens'  Exploration und somatic Performance im urbanen Raum      "
 date: 2021-09-04T15:00:00
 publishDate: 2021-06-25T19:40:36+02:00
 end: 2021-09-04T17:00:00
@@ -14,7 +14,7 @@ genres: ['Musik', 'Performance', 'Malerei']
 kids: ['Kinderprogramm']
 featuredImage: ""
 repeats: ['ART_OFF_Walk_03B']
-repeat_times: ['2021-09-05T11:00:00']
+repeat_times: ['2021-09-05T15:00:00']
 sequels: []
 sequel_times: []
 ---
