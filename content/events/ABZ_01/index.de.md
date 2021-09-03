@@ -30,3 +30,5 @@ Das Abbildungszentrum zeigt an 3 Abenden Filme aus eigener Produktion und Filme 
 - Transit Exil Immigration, Doro Carl, 30 min
 
 - Zwischensprachen – Videodolmetschen + Statements, Andreas Theurer, 15 min
+
+- Geschichten aus Altona − Rosis Fischladen, Anke Wiesenthal, 3 min.
