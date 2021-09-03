@@ -1,9 +1,9 @@
 ---
 title: "wir.hier."
 subtitle: "vergessene Realitäten"
-date: 2021-08-03T14:00:00
+date: 2021-08-03T18:00:00
 publishDate: 2021-06-25T19:40:36+02:00
-end: 2021-08-03T18:00:00
+end: 2021-08-03T21:00:00
 draft: false
 street: "Repsoldstraße 45"
 address: " 20097 Hamburg"
