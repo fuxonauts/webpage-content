@@ -7,7 +7,7 @@ end: 2021-07-25T19:00:00
 draft: false
 street: "Wendenstraße 45"
 address: "20097 Hamburg"
-organizers: ["Künstlerhaus wendenstraße 45"]
+organizers: ["Künstlerhaus Wendenstraße"]
 artists: ['Robert Pawlicek', ' Björn Westphal']
 walks: ['Ost']
 genres: ['Musik', 'Performance', 'Malerei', 'Skulptur']

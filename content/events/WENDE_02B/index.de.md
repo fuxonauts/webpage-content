@@ -7,7 +7,7 @@ end: 2021-07-31T20:00:00
 draft: false
 street: "Wendenstraße 45"
 address: "20097 Hamburg"
-organizers: ["Künstlerhaus wendenstraße 45"]
+organizers: ["Künstlerhaus Wendenstraße"]
 artists: ['Block Barley', ' Balz Isler', ' Bela Pablo Jansen']
 walks: ['Ost']
 genres: ['Musik', 'Skulptur']
