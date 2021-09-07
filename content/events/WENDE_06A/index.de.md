@@ -7,7 +7,7 @@ end: 2021-08-13T23:59:00
 draft: false
 street: "Wendenstraße 45"
 address: "20097 Hamburg"
-organizers: ["Wendenstrasse 45"]
+organizers: ["Künstlerhaus Wendenstraße"]
 artists: ['Patrick Sellmann']
 walks: ['Ost']
 genres: ['Malerei', 'Skulptur']

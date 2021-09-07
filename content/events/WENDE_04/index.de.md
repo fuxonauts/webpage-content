@@ -7,7 +7,7 @@ end: 2021-08-14T23:59:00
 draft: false
 street: "Wendenstraße 45"
 address: "20097 Hamburg"
-organizers: ["Wendenstrasse 45"]
+organizers: ["Künstlerhaus Wendenstraße"]
 artists: ['Robin Hinsch', ' Janusz Beck', ' Tomas Sussex']
 walks: ['Ost']
 genres: ['Fotografie', 'Skulptur']
@@ -19,7 +19,7 @@ sequels: []
 sequel_times: []
 ---
 
-„FORMAT" versteht sich als wandelbares Experimentarium zur Erforschung der genreübergreifenden Schnittstellen der künstlerisch/ dokumentarischen Fotografie die sich ihrer zeitgenössischen Dringlichkeit bewusst ist und sich im Spannungsverhältnis zwischen zwei dimensionalem Bild, Film, Installation, sowie Bildhauerei bewusst zu positionieren weiß. Eine Fotografie die sich emanzipiert ihrer künstlerischen Freiheit bedient und sich in den Dienst des jeweiligen ästhetischen Konzepts stellt.Diesen Positionen soll und wird ein Ort der Verhandlung, des Austausches und der Rezeption geboten werden.
+„FORMAT“ versteht sich als wandelbares Experimentarium zur Erforschung der genreübergreifenden Schnittstellen der künstlerisch/ dokumentarischen Fotografie die sich ihrer zeitgenössischen Dringlichkeit bewusst ist und sich im Spannungsverhältnis zwischen zwei dimensionalem Bild, Film, Installation, sowie Bildhauerei bewusst zu positionieren weiß. Eine Fotografie die sich emanzipiert ihrer künstlerischen Freiheit bedient und sich in den Dienst des jeweiligen ästhetischen Konzepts stellt.Diesen Positionen soll und wird ein Ort der Verhandlung, des Austausches und der Rezeption geboten werden.
 
 
 

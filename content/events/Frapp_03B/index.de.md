@@ -8,7 +8,7 @@ draft: false
 street: "Kreuzung Arnoldstraße und Bahrenfelder Straße"
 address: "22765 Hamburg"
 organizers: ["Frappant"]
-artists: ['Felix Schroeder\nUrte Langrock\n(Robert Helbig)']
+artists: ['Felix Schröder', ' Urte Langrock', ' Andreas Wolf', ' Hans-Christian Jaernecke', ' Robert Helbig']
 walks: ['West']
 genres: ['Musik', 'darstellende Kunst', 'Performance', 'Malerei', 'Skulptur']
 kids: ['Kinderprogramm']

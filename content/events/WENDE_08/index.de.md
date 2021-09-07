@@ -7,7 +7,7 @@ end: 2021-09-19T18:00:00
 draft: false
 street: "Wendenstraße 45"
 address: "20097 Hamburg"
-organizers: ["Wendenstrasse 45"]
+organizers: ["Künstlerhaus Wendenstraße"]
 artists: ['Florian Bräunlich', ' Felix Kubin']
 walks: ['Ost']
 genres: ['Musik', 'Performance', 'Skulptur']
