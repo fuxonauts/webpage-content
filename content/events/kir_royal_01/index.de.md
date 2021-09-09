@@ -8,7 +8,7 @@ draft: false
 street: "Grünfläche Ecke Julius-Leber-Straße, Haubachstraße und Harkortstraße vor der Wäscherei"
 address: "22765 Hamburg"
 organizers: ["Frappant"]
-artists: ['Steve', ' Matze']
+artists: ['Steve', ' Matze', ' Thorsten']
 walks: ['West']
 genres: ['Musik']
 kids: []
