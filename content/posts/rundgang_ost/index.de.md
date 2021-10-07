@@ -24,6 +24,9 @@ Sie führen durch Wandsbek, St. Georg, Rothenburgsort und Hammerbrook.
     {{< leaflet-marker markerLat="53.5334" markerLon="10.03554" markerContent="<b>Litfaßsäule</b><br><a href=\"/events/mikro_2a\">Details...</a>" >}}
     {{< leaflet-marker markerLat="53.5334" markerLon="10.03554" markerContent="<b>Litfaßsäule</b><br>Filmscreening</br><a href=\"/events/mikro_2b\">Details...</a>" >}}
     {{< leaflet-marker markerLat="53.5334" markerLon="10.03554" markerContent="<b>Litfaßsäule</b><br><a href=\"/events/mikro_2c\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.53656" markerLon="10.02948" markerContent="<b>Tatjana-Peng Zchei - Ein algorithmisch guter Tag</b><br><a href=\"/events/oel_frueh_gerd_1a\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.53656" markerLon="10.02948" markerContent="<b>Ingo Gerken - Hyper Ventilation</b><br><a href=\"/events/oel_frueh_gerd_2a\">Details...</a>" >}}
+    {{< leaflet-marker markerLat="53.53656" markerLon="10.02948" markerContent="<b>Raphaela Andrade - ESCA</b><br><a href=\"/events/oel_frueh_gerd_3a\">Details...</a>" >}}
     {{< leaflet-marker markerLat="53.5402" markerLon="10.0267" markerContent="<b>Fürs Gefühl 01</b><br>Ausstellung</br><a href=\"/events/oelfr_01a\">Details...</a>" >}}
     {{< leaflet-marker markerLat="53.5402" markerLon="10.0267" markerContent="<b>Fürs Gefühl 02</b><br>Ausstellung</br><a href=\"/events/oelfr_02a\">Details...</a>" >}}
     {{< leaflet-marker markerLat="53.5402" markerLon="10.0267" markerContent="<b>Fürs Gefühl 03</b><br>Ausstellung</br><a href=\"/events/oelfr_03a\">Details...</a>" >}}
