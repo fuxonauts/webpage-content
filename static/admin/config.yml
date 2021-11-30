@@ -21,7 +21,7 @@ collections:
       - { label: 'Ende', name: 'end', widget: 'datetime' }
       - { label: 'Straße + Hausnummer', name: 'street', widget: 'string' }
       - { label: 'PLZ + Ort', name: 'address', widget: 'string' }
-      - { label: 'Kunstort', name: 'address', widget: 'list' }
-      - { label: 'Künstler:innen', name: 'address', widget: 'list' }
+      - { label: 'Kunstort', name: 'organizers', widget: 'list' }
+      - { label: 'Künstler:innen', name: 'artists', widget: 'list' }
       - { label: 'Bild', name: 'featuredImage', widget: 'image' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
