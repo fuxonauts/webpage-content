@@ -1,0 +1,21 @@
+backend:
+  name: gitlab
+  repo: art-off-hamburg/webpage-content
+  auth_type: pkce
+  app_id: b8f4f6a97c3d66829a375b9bd7fc0025e16be39166d30f7028cc18439c761765
+  branch: master
+media_folder: static/img
+public_folder: /img
+collections:
+  - name: 'new_event'
+    label: 'Veranstaltung'
+    folder: 'content/new_events/'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
