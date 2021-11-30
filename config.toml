@@ -34,20 +34,20 @@ theme = [ "LoveIt", "hugo-shortcode-gallery" ]
       title = ""
       weight = 1
     [[languages.de.menu.main]]
-      identifier = "event"
-      pre = ""
-      post = ""
-      name = "Veranstaltungen"
-      url = "events/"
-      title = "Programm – ART OFF Hamburg Kultursommer – Wir sind hier"
-      weight = 2
-    [[languages.de.menu.main]]
       identifier = "place"
       pre = ""
       post = ""
       name = "Kunstorte"
       url = "places/"
-      title = ""
+      title = "Kunstorte"
+      weight = 2
+    [[languages.de.menu.main]]
+      identifier = "event"
+      pre = ""
+      post = ""
+      name = "Archiv Kultursommer"
+      url = "events/"
+      title = "Archiv – ART OFF Hamburg Kultursommer – Wir sind hier"
       weight = 3
     [[languages.de.menu.main]]
       identifier = "gallery"
@@ -91,20 +91,20 @@ theme = [ "LoveIt", "hugo-shortcode-gallery" ]
       title = ""
       weight = 1
     [[languages.en.menu.main]]
-      identifier = "event"
-      pre = ""
-      post = ""
-      name = "Events"
-      url = "events/"
-      title = "Events Title"
-      weight = 2
-    [[languages.en.menu.main]]
       identifier = "place"
       pre = ""
       post = ""
       name = "Places"
       url = "places/"
       title = ""
+      weight = 2
+    [[languages.en.menu.main]]
+      identifier = "event"
+      pre = ""
+      post = ""
+      name = "Archive Kultursommer"
+      url = "events/"
+      title = "Archive – ART OFF Hamburg Kultursommer – We Are Here"
       weight = 3
     [[languages.en.menu.main]]
       identifier = "gallery"
