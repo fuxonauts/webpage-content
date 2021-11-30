@@ -34,13 +34,21 @@ theme = [ "LoveIt", "hugo-shortcode-gallery" ]
       title = ""
       weight = 1
     [[languages.de.menu.main]]
+      identifier = "new_event"
+      pre = ""
+      post = ""
+      name = "Veranstaltungen"
+      url = "new_events/"
+      title = "Aktuelle Veranstaltungen"
+      weight = 2
+    [[languages.de.menu.main]]
       identifier = "place"
       pre = ""
       post = ""
       name = "Kunstorte"
       url = "places/"
       title = "Kunstorte"
-      weight = 2
+      weight = 3
     [[languages.de.menu.main]]
       identifier = "event"
       pre = ""
@@ -48,7 +56,7 @@ theme = [ "LoveIt", "hugo-shortcode-gallery" ]
       name = "Archiv Kultursommer"
       url = "events/"
       title = "Archiv – ART OFF Hamburg Kultursommer – Wir sind hier"
-      weight = 3
+      weight = 4
     [[languages.de.menu.main]]
       identifier = "gallery"
       pre = ""
@@ -56,7 +64,7 @@ theme = [ "LoveIt", "hugo-shortcode-gallery" ]
       name = "Fotogalerien"
       url = "galleries/"
       title = ""
-      weight = 4
+      weight = 5
     [[languages.de.menu.main]]
       identifier = "demands"
       pre = ""
@@ -64,15 +72,15 @@ theme = [ "LoveIt", "hugo-shortcode-gallery" ]
       name = "Forderungen"
       url = "demands/"
       title = ""
-      weight = 5
+      weight = 6
     [[languages.de.menu.main]]
       identifier = "imprint"
       pre = ""
       post = ""
       name = "Impressum"
       url = "imprint/"
-      title = "langer Name für Impressum"
-      weight = 6
+      title = "Impressum"
+      weight = 7
 
   [languages.en]
     weight = 2
@@ -90,6 +98,14 @@ theme = [ "LoveIt", "hugo-shortcode-gallery" ]
       # title will be shown when you hover on this menu link
       title = ""
       weight = 1
+    [[languages.de.menu.main]]
+      identifier = "new_event"
+      pre = ""
+      post = ""
+      name = "Events"
+      url = "new_events/"
+      title = "Current Events"
+      weight = 2
     [[languages.en.menu.main]]
       identifier = "place"
       pre = ""
@@ -97,7 +113,7 @@ theme = [ "LoveIt", "hugo-shortcode-gallery" ]
       name = "Places"
       url = "places/"
       title = ""
-      weight = 2
+      weight = 3
     [[languages.en.menu.main]]
       identifier = "event"
       pre = ""
@@ -105,7 +121,7 @@ theme = [ "LoveIt", "hugo-shortcode-gallery" ]
       name = "Archive Kultursommer"
       url = "events/"
       title = "Archive – ART OFF Hamburg Kultursommer – We Are Here"
-      weight = 3
+      weight = 4
     [[languages.en.menu.main]]
       identifier = "gallery"
       pre = ""
@@ -113,7 +129,7 @@ theme = [ "LoveIt", "hugo-shortcode-gallery" ]
       name = "Photo Galleries"
       url = "galleries/"
       title = ""
-      weight = 4
+      weight = 5
     [[languages.en.menu.main]]
       identifier = "demands"
       pre = ""
@@ -121,7 +137,7 @@ theme = [ "LoveIt", "hugo-shortcode-gallery" ]
       name = "Demands"
       url = "demands/"
       title = ""
-      weight = 5
+      weight = 6
     [[languages.en.menu.main]]
       identifier = "imprint"
       pre = ""
@@ -129,7 +145,7 @@ theme = [ "LoveIt", "hugo-shortcode-gallery" ]
       name = "Imprint"
       url = "imprint/"
       title = ""
-      weight = 6
+      weight = 7
 
 [taxonomies]
   genre = "genres"
