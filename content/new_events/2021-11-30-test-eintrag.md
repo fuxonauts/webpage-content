@@ -1,4 +1,5 @@
 ---
+publishDate: 2021-11-30T18:58:16.078Z
 title: Test-Eintrag
 subtitle: Untertest
 date: 2021-12-01T19:00:16.107Z
