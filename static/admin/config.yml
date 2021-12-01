@@ -4,8 +4,6 @@ backend:
   auth_type: pkce
   app_id: b8f4f6a97c3d66829a375b9bd7fc0025e16be39166d30f7028cc18439c761765
   branch: master
-  publish_mode: editorial_workflow
-  deploy_preview: art-off-hamburg/blafoo
 media_folder: static/img
 public_folder: /img
 collections:
@@ -14,9 +12,8 @@ collections:
     folder: 'content/new_events/'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    preview_path: 'new_event/{{slug}}'
     editor:
-      preview: true
+      preview: false
     fields:
       - { label: 'Veröffentlichungszeitpunkt', name: 'publishDate', widget: 'datetime', date_format: 'DD.MM.YYYY', time_format: 'HH:mm' }
       - { label: 'Titel', name: 'title', widget: 'string' }
@@ -25,7 +22,7 @@ collections:
       - { label: 'Ende der Veranstaltung', name: 'end', widget: 'datetime', date_format: 'DD.MM.YYYY', time_format: 'HH:mm' }
       - { label: 'Straße + Hausnummer', name: 'street', widget: 'string' }
       - { label: 'PLZ + Ort', name: 'address', widget: 'string' }
-      - { label: 'Kunstort', name: 'organizers', widget: 'relation', collection: 'places', search_fields: 'title', value_field: 'title' }
+      - { label: 'Kunstort', name: 'organizers', widget: 'relation', collection: 'places', search_fields: ['title'], value_field: 'title' }
       - { label: 'Künstler:innen', name: 'artists', widget: 'list' }
       - { label: 'Bild', name: 'featuredImage', widget: 'image' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
