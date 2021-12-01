@@ -24,5 +24,21 @@ collections:
       - { label: 'PLZ + Ort', name: 'address', widget: 'string' }
       - { label: 'Kunstort', name: 'organizers', widget: 'relation', collection: 'places', search_fields: ['title'], value_field: 'title', multiple: true }
       - { label: 'Künstler:innen', name: 'artists', widget: 'list' }
-      - { label: 'Bild', name: 'featuredImage', widget: 'image' }
+      - { label: 'Bild', name: 'featuredImage', widget: 'image', allow_multiple: false }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'place'
+    label: 'Kunstort'
+    folder: 'content/places/'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Veröffentlichungszeitpunkt', name: 'date', widget: 'datetime', date_format: 'DD.MM.YYYY', time_format: 'HH:mm' }
+      - { label: 'Name des Kunstorts', name: 'title', widget: 'string' }
+      - { label: 'Straße + Hausnummer', name: 'street', widget: 'string' }
+      - { label: 'PLZ + Ort', name: 'city', widget: 'string' }
+      - { label: 'Webseite', name: 'contactURL', widget: 'string' }
+      - { label: 'Namens-Kachel', name: 'featuredImage', widget: 'image', allow_multiple: false }
+      - { label: 'Bilder', name: 'featuredImage', widget: 'image', allow_multiple: true }
+      - { label: 'Beschreibung', name: 'body', widget: 'markdown' }
