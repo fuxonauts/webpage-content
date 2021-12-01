@@ -40,5 +40,5 @@ collections:
       - { label: 'PLZ + Ort', name: 'city', widget: 'string' }
       - { label: 'Webseite', name: 'contactURL', widget: 'string' }
       - { label: 'Namens-Kachel', name: 'featuredImage', widget: 'image', allow_multiple: false }
-      - { label: 'Bilder', name: 'featuredImage', widget: 'image', allow_multiple: true }
+      - { label: 'Bilder', name: 'images', widget: 'image', allow_multiple: true }
       - { label: 'Beschreibung', name: 'body', widget: 'markdown' }
