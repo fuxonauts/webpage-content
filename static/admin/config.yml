@@ -18,14 +18,14 @@ collections:
     editor:
       preview: true
     fields:
-      - { label: 'Veröffentlichungszeitpunkt', name: 'publishDate', widget: 'datetime' }
+      - { label: 'Veröffentlichungszeitpunkt', name: 'publishDate', widget: 'datetime', date_format: 'DD.MM.YYYY', time_format: 'HH:mm' }
       - { label: 'Titel', name: 'title', widget: 'string' }
       - { label: 'Untertitel', name: 'subtitle', widget: 'string' }
-      - { label: 'Beginn der Veranstaltung', name: 'date', widget: 'datetime' }
-      - { label: 'Ende der Veranstaltung', name: 'end', widget: 'datetime' }
+      - { label: 'Beginn der Veranstaltung', name: 'date', widget: 'datetime', date_format: 'DD.MM.YYYY', time_format: 'HH:mm' }
+      - { label: 'Ende der Veranstaltung', name: 'end', widget: 'datetime', date_format: 'DD.MM.YYYY', time_format: 'HH:mm' }
       - { label: 'Straße + Hausnummer', name: 'street', widget: 'string' }
       - { label: 'PLZ + Ort', name: 'address', widget: 'string' }
-      - { label: 'Kunstort', name: 'organizers', widget: 'list' }
+      - { label: 'Kunstort', name: 'organizers', widget: 'relation', collection: 'places', search_fields: 'title', value_field: 'title' }
       - { label: 'Künstler:innen', name: 'artists', widget: 'list' }
       - { label: 'Bild', name: 'featuredImage', widget: 'image' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
