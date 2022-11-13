@@ -4,14 +4,19 @@ backend:
   branch: master
 media_folder: static/img
 public_folder: /img
+i18n:
+  structure: multiple_files
+  locales: [de, en]
+  default_locale: de
 collections:
   - name: 'new_event'
     label: 'Veranstaltung'
     folder: 'content/new_events/'
     create: true
+    i18n: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
-      preview: false
+      preview: true
     fields:
       - { label: 'Veröffentlichungszeitpunkt', name: 'publishDate', widget: 'datetime', date_format: 'DD.MM.YYYY', time_format: 'HH:mm' }
       - { label: 'Titel', name: 'title', widget: 'string' }
@@ -28,9 +33,10 @@ collections:
     label: 'Kunstort'
     folder: 'content/places/'
     create: true
+    i18n: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
-      preview: false
+      preview: true
     fields:
       - { label: 'Veröffentlichungszeitpunkt', name: 'date', widget: 'datetime', date_format: 'DD.MM.YYYY', time_format: 'HH:mm' }
       - { label: 'Name des Kunstorts', name: 'title', widget: 'string' }
@@ -40,3 +46,68 @@ collections:
       - { label: 'Namens-Kachel', name: 'featuredImage', widget: 'image', allow_multiple: false }
       - { label: 'Bilder', name: 'images', widget: 'image', allow_multiple: true }
       - { label: 'Beschreibung', name: 'body', widget: 'markdown' }
+  - name: 'post'
+    label: 'Spaziergänge'
+    folder: 'content/posts/'
+    create: true
+    i18n: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: true
+    fields:
+      - { label: 'Titel', name: 'title', widget: 'string' }
+      - { label: 'Veröffentlichungszeitpunkt', name: 'date', widget: 'datetime', date_format: 'DD.MM.YYYY', time_format: 'HH:mm' }
+      - { label: 'Ende der Veranstaltung', name: 'end', widget: 'datetime', date_format: 'DD.MM.YYYY', time_format: 'HH:mm' }
+      - { label: 'GPX-Track', name: 'gpx', widget: 'file', allow_multiple: false, media_folder: "/static/gpx/" }
+      - { label: 'Beschreibung', name: 'body', widget: 'markdown' }
+  - name: 'gallery'
+    label: 'Fotogallerie'
+    folder: 'content/galleries/'
+    create: true
+    i18n: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: true
+    fields:
+      - { label: 'Titel', name: 'title', widget: 'string' }
+      - { label: 'Bilder', name: 'images', widget: 'image', allow_multiple: true, media_folder: 'images' }
+      - { label: 'Gallery Code', name: 'body', widget: 'hidden', default: '{{< gallery match="images/*" sortOrder="desc" rowHeight="300" margins="20" resizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview="true" thumbnailHoverEffect="enlarge" >}}' }
+  - name: 'event'
+    label: 'Archivierte Veranstaltung'
+    folder: 'content/events/'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: true
+    fields:
+      - { label: 'Veröffentlichungszeitpunkt', name: 'publishDate', widget: 'datetime', date_format: 'DD.MM.YYYY', time_format: 'HH:mm' }
+      - { label: 'Titel', name: 'title', widget: 'string' }
+      - { label: 'Untertitel', name: 'subtitle', widget: 'string' }
+      - { label: 'Beginn der Veranstaltung', name: 'date', widget: 'datetime', date_format: 'DD.MM.YYYY', time_format: 'HH:mm' }
+      - { label: 'Ende der Veranstaltung', name: 'end', widget: 'datetime', date_format: 'DD.MM.YYYY', time_format: 'HH:mm' }
+      - { label: 'Straße + Hausnummer', name: 'street', widget: 'string' }
+      - { label: 'PLZ + Ort', name: 'address', widget: 'string' }
+      - { label: 'Kunstort', name: 'organizers', widget: 'relation', collection: 'place', search_fields: ['title'], value_field: 'title', multiple: true }
+      - { label: 'Künstler:innen', name: 'artists', widget: 'list' }
+      - { label: 'Bild', name: 'featuredImage', widget: 'image', allow_multiple: false }
+      - { label: 'Inhalt', name: 'body', widget: 'markdown' }
+  - label: "Statische Seiten"
+    name: "pages"
+    i18n: true
+      structure: single_file
+      locales: [de, en]
+    files:
+      - label: "Forderungen"
+        name: "demands"
+        file: "content/demands/index.md"
+        i18n: true
+        fields:
+          - { label: 'Titel', name: 'title', widget: 'string', i18n: true }
+          - { label: 'Inhalt', name: 'body', widget: 'markdown', i18n: true }
+      - label: "Impressum"
+        name: "imprint"
+        file: "content/imprint.md"
+        i18n: true
+        fields:
+          - { label: 'Titel', name: 'title', widget: 'string', i18n: true }
+          - { label: 'Inhalt', name: 'body', widget: 'markdown', i18n: true }
