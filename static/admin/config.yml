@@ -1,19 +1,19 @@
 backend:
-  name: git-gateway
+  name: github
   repo: art-off-hamburg/webpage-content
   branch: master
 media_folder: static/img
 public_folder: /img
 i18n:
   structure: multiple_files
-  locales: [de, en]
-  default_locale: de
+  locales: [de,en]
+  default_locale: de
 collections:
   - name: 'new_event'
     label: 'Veranstaltung'
     folder: 'content/new_events/'
     create: true
-    i18n: true
+    i18n: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
       preview: true
@@ -33,8 +33,8 @@ collections:
     label: 'Kunstort'
     folder: 'content/places/'
     create: true
-    i18n: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    i18n: true
+    slug: '{{slug}}/index'
     editor:
       preview: true
     fields:
@@ -50,7 +50,7 @@ collections:
     label: 'Spaziergänge'
     folder: 'content/posts/'
     create: true
-    i18n: true
+    i18n: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
       preview: true
@@ -64,14 +64,14 @@ collections:
     label: 'Fotogallerie'
     folder: 'content/galleries/'
     create: true
-    i18n: true
+    i18n: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
       preview: true
     fields:
       - { label: 'Titel', name: 'title', widget: 'string' }
       - { label: 'Bilder', name: 'images', widget: 'image', allow_multiple: true, media_folder: 'images' }
-      - { label: 'Gallery Code', name: 'body', widget: 'hidden', default: '{{< gallery match="images/*" sortOrder="desc" rowHeight="300" margins="20" resizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview="true" thumbnailHoverEffect="enlarge" >}}' }
+      - { label: 'Gallery Code', name: 'body', widget: 'hidden', default: "{{< gallery match='images/*' sortOrder='desc' rowHeight='300' margins='20' resizeOptions='600x600 q90 Lanczos' showExif=true previewType='blur' embedPreview='true' thumbnailHoverEffect='enlarge' >}}" }
   - name: 'event'
     label: 'Archivierte Veranstaltung'
     folder: 'content/events/'
@@ -91,23 +91,26 @@ collections:
       - { label: 'Künstler:innen', name: 'artists', widget: 'list' }
       - { label: 'Bild', name: 'featuredImage', widget: 'image', allow_multiple: false }
       - { label: 'Inhalt', name: 'body', widget: 'markdown' }
-  - label: "Statische Seiten"
-    name: "pages"
+  - name: "demands"
+    label: "Forderungen"
+    folder: 'content/'
+    create: false
     i18n: true
-      structure: single_file
-      locales: [de, en]
-    files:
-      - label: "Forderungen"
-        name: "demands"
-        file: "content/demands/index.md"
-        i18n: true
-        fields:
-          - { label: 'Titel', name: 'title', widget: 'string', i18n: true }
-          - { label: 'Inhalt', name: 'body', widget: 'markdown', i18n: true }
-      - label: "Impressum"
-        name: "imprint"
-        file: "content/imprint.md"
-        i18n: true
-        fields:
-          - { label: 'Titel', name: 'title', widget: 'string', i18n: true }
-          - { label: 'Inhalt', name: 'body', widget: 'markdown', i18n: true }
+    slug: 'demands'
+    editor:
+      preview: true
+    fields:
+      - { label: 'Titel', name: 'title', widget: 'string' }
+      - { label: 'Inhalt', name: 'body', widget: 'markdown' }
+  - name: "imprint"
+    label: "Impressum"
+    folder: 'content/'
+    create: false
+    i18n: true
+    slug: 'imprint'
+    editor:
+      preview: true
+    fields:
+      - { label: 'Titel', name: 'title', widget: 'string' }
+      - { label: 'Inhalt', name: 'body', widget: 'markdown' }
+
