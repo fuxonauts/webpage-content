@@ -20,14 +20,14 @@ collections:
     fields:
       - { label: 'Veröffentlichungszeitpunkt', name: 'publishDate', widget: 'datetime', date_format: 'DD.MM.YYYY', time_format: 'HH:mm' }
       - { label: 'Titel', name: 'title', widget: 'string' }
-      - { label: 'Untertitel', name: 'subtitle', widget: 'string' }
+      - { label: 'Untertitel', name: 'subtitle', widget: 'string', required: false }
       - { label: 'Beginn der Veranstaltung', name: 'date', widget: 'datetime', date_format: 'DD.MM.YYYY', time_format: 'HH:mm' }
       - { label: 'Ende der Veranstaltung', name: 'end', widget: 'datetime', date_format: 'DD.MM.YYYY', time_format: 'HH:mm' }
       - { label: 'Straße + Hausnummer', name: 'street', widget: 'string' }
       - { label: 'PLZ + Ort', name: 'address', widget: 'string' }
       - { label: 'Kunstort', name: 'organizers', widget: 'relation', collection: 'place', search_fields: ['title'], value_field: 'title', multiple: true }
       - { label: 'Künstler:innen', name: 'artists', widget: 'list' }
-      - { label: 'Bild', name: 'featuredImage', widget: 'image', allow_multiple: false }
+      - { label: 'Bild', name: 'featuredImage', widget: 'image', allow_multiple: false, required: false }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'place'
     label: 'Kunstort'
@@ -42,9 +42,9 @@ collections:
       - { label: 'Name des Kunstorts', name: 'title', widget: 'string' }
       - { label: 'Straße + Hausnummer', name: 'street', widget: 'string' }
       - { label: 'PLZ + Ort', name: 'city', widget: 'string' }
-      - { label: 'Webseite', name: 'contactURL', widget: 'string' }
+      - { label: 'Webseite', name: 'contactURL', widget: 'string', required: false }
       - { label: 'Namens-Kachel', name: 'featuredImage', widget: 'image', allow_multiple: false }
-      - { label: 'Bilder', name: 'images', widget: 'image', allow_multiple: true }
+      - { label: 'Bilder', name: 'images', widget: 'image', allow_multiple: true, required: false }
       - { label: 'Beschreibung', name: 'body', widget: 'markdown' }
   - name: 'post'
     label: 'Spaziergänge'
@@ -58,7 +58,7 @@ collections:
       - { label: 'Titel', name: 'title', widget: 'string' }
       - { label: 'Veröffentlichungszeitpunkt', name: 'date', widget: 'datetime', date_format: 'DD.MM.YYYY', time_format: 'HH:mm' }
       - { label: 'Ende der Veranstaltung', name: 'end', widget: 'datetime', date_format: 'DD.MM.YYYY', time_format: 'HH:mm' }
-      - { label: 'GPX-Track', name: 'gpx', widget: 'file', allow_multiple: false, media_folder: "/static/gpx/" }
+      - { label: 'GPX-Track', name: 'gpx', widget: 'file', allow_multiple: false, media_folder: "/static/gpx/", required: false }
       - { label: 'Beschreibung', name: 'body', widget: 'markdown' }
   - name: 'gallery'
     label: 'Fotogallerie'
@@ -70,7 +70,7 @@ collections:
       preview: true
     fields:
       - { label: 'Titel', name: 'title', widget: 'string' }
-      - { label: 'Bilder', name: 'images', widget: 'image', allow_multiple: true, media_folder: 'images' }
+      - { label: 'Bilder', name: 'images', widget: 'image', allow_multiple: true, media_folder: 'images' }
       - { label: 'Gallery Code', name: 'body', widget: 'hidden', default: "{{< gallery match='images/*' sortOrder='desc' rowHeight='300' margins='20' resizeOptions='600x600 q90 Lanczos' showExif=true previewType='blur' embedPreview='true' thumbnailHoverEffect='enlarge' >}}" }
   - name: 'event'
     label: 'Archivierte Veranstaltung'
@@ -82,14 +82,14 @@ collections:
     fields:
       - { label: 'Veröffentlichungszeitpunkt', name: 'publishDate', widget: 'datetime', date_format: 'DD.MM.YYYY', time_format: 'HH:mm' }
       - { label: 'Titel', name: 'title', widget: 'string' }
-      - { label: 'Untertitel', name: 'subtitle', widget: 'string' }
+      - { label: 'Untertitel', name: 'subtitle', widget: 'string', required: false }
       - { label: 'Beginn der Veranstaltung', name: 'date', widget: 'datetime', date_format: 'DD.MM.YYYY', time_format: 'HH:mm' }
       - { label: 'Ende der Veranstaltung', name: 'end', widget: 'datetime', date_format: 'DD.MM.YYYY', time_format: 'HH:mm' }
       - { label: 'Straße + Hausnummer', name: 'street', widget: 'string' }
       - { label: 'PLZ + Ort', name: 'address', widget: 'string' }
       - { label: 'Kunstort', name: 'organizers', widget: 'relation', collection: 'place', search_fields: ['title'], value_field: 'title', multiple: true }
       - { label: 'Künstler:innen', name: 'artists', widget: 'list' }
-      - { label: 'Bild', name: 'featuredImage', widget: 'image', allow_multiple: false }
+      - { label: 'Bild', name: 'featuredImage', widget: 'image', allow_multiple: false, required: false }
       - { label: 'Inhalt', name: 'body', widget: 'markdown' }
   - name: "demands"
     label: "Forderungen"
