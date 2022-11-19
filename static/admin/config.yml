@@ -48,6 +48,16 @@ collections:
       - { label: 'Namens-Kachel', name: 'featuredImage', widget: 'image', allow_multiple: false, i18n: true }
       - { label: 'Bilder', name: 'images', widget: 'image', allow_multiple: true, required: false }
       - { label: 'Beschreibung', name: 'body', widget: 'markdown', i18n: true }
+  - name: 'pre_post'
+    label: 'Text vor Spaziergängen'
+    folder: 'content/pre_posts/'
+    path: 'pre'
+    create: false
+    i18n: true
+    editor:
+      preview: false
+    fields:
+      - { label: 'Pre-Text', name: 'body', widget: 'markdown', i18n: true }
   - name: 'post'
     label: 'Spaziergänge'
     folder: 'content/posts/'
@@ -63,6 +73,16 @@ collections:
       - { label: 'Ende der Veranstaltung', name: 'end', widget: 'datetime', date_format: 'DD.MM.YYYY', time_format: 'HH:mm' }
       - { label: 'GPX-Track', name: 'gpx', widget: 'file', allow_multiple: false, media_folder: "/static/gpx/", required: false }
       - { label: 'Beschreibung', name: 'body', widget: 'markdown', i18n: true }
+  - name: 'post_post'
+    label: 'Text nach Spaziergängen'
+    folder: 'content/post_posts/'
+    path: 'post'
+    create: false
+    i18n: true
+    editor:
+      preview: false
+    fields:
+      - { label: 'Post-Text', name: 'body', widget: 'markdown', i18n: true }
   - name: 'gallery'
     label: 'Fotogallerie'
     folder: 'content/galleries/'
