@@ -27,5 +27,6 @@ jobs:
           server: w018c78b.kasserver.com
           username: w018c78b
           password: ${{ secrets.ftp_password }}
+          local-dir: ./public/
           server-dir: ./art-off-hamburg.de/
 #          dry-run: true
