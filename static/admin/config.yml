@@ -12,9 +12,10 @@ collections:
   - name: 'new_event'
     label: 'Veranstaltung'
     folder: 'content/new_events/'
+    path: '{{slug}}/index'
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     create: true
     i18n: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
       preview: false
     fields:
@@ -32,9 +33,10 @@ collections:
   - name: 'place'
     label: 'Kunstort'
     folder: 'content/places/'
+    path: '{{slug}}/index'
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     create: true
     i18n: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
       preview: false
     fields:
@@ -49,9 +51,10 @@ collections:
   - name: 'post'
     label: 'Spaziergänge'
     folder: 'content/posts/'
+    path: '{{slug}}/index'
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     create: true
     i18n: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
       preview: false
     fields:
@@ -75,8 +78,9 @@ collections:
   - name: 'event'
     label: 'Archivierte Veranstaltung'
     folder: 'content/events/'
-    create: true
+    path: '{{slug}}/index'
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    create: true
     editor:
       preview: false
     fields:
