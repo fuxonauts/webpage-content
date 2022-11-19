@@ -16,7 +16,7 @@ collections:
     i18n: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
-      preview: true
+      preview: false
     fields:
       - { label: 'Veröffentlichungszeitpunkt', name: 'publishDate', widget: 'datetime', date_format: 'DD.MM.YYYY', time_format: 'HH:mm' }
       - { label: 'Titel', name: 'title', widget: 'string' }
@@ -36,7 +36,7 @@ collections:
     i18n: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
-      preview: true
+      preview: false
     fields:
       - { label: 'Veröffentlichungszeitpunkt', name: 'date', widget: 'datetime', date_format: 'DD.MM.YYYY', time_format: 'HH:mm' }
       - { label: 'Name des Kunstorts', name: 'title', widget: 'string' }
@@ -53,7 +53,7 @@ collections:
     i18n: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
-      preview: true
+      preview: false
     fields:
       - { label: 'Titel', name: 'title', widget: 'string' }
       - { label: 'Veröffentlichungszeitpunkt', name: 'date', widget: 'datetime', date_format: 'DD.MM.YYYY', time_format: 'HH:mm' }
@@ -67,7 +67,7 @@ collections:
     i18n: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
-      preview: true
+      preview: false
     fields:
       - { label: 'Titel', name: 'title', widget: 'string' }
       - { label: 'Bilder', name: 'images', widget: 'image', allow_multiple: true, media_folder: 'images' }
@@ -78,7 +78,7 @@ collections:
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
-      preview: true
+      preview: false
     fields:
       - { label: 'Veröffentlichungszeitpunkt', name: 'publishDate', widget: 'datetime', date_format: 'DD.MM.YYYY', time_format: 'HH:mm' }
       - { label: 'Titel', name: 'title', widget: 'string' }
@@ -98,7 +98,7 @@ collections:
     i18n: true
     slug: 'demands'
     editor:
-      preview: true
+      preview: false
     fields:
       - { label: 'Titel', name: 'title', widget: 'string' }
       - { label: 'Inhalt', name: 'body', widget: 'markdown' }
@@ -109,7 +109,7 @@ collections:
     i18n: true
     slug: 'imprint'
     editor:
-      preview: true
+      preview: false
     fields:
       - { label: 'Titel', name: 'title', widget: 'string' }
       - { label: 'Inhalt', name: 'body', widget: 'markdown' }
