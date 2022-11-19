@@ -94,7 +94,7 @@ collections:
     fields:
       - { label: 'Titel', name: 'title', widget: 'string', i18n: true }
       - { label: 'Bilder', name: 'images', widget: 'image', allow_multiple: true, media_folder: 'images' }
-      - { label: 'Gallery Code', name: 'body', widget: 'hidden', default: "{{< gallery match='images/*' sortOrder='desc' rowHeight='300' margins='20' resizeOptions='600x600 q90 Lanczos' showExif=true previewType='blur' embedPreview='true' thumbnailHoverEffect='enlarge' >}}" }
+      - { label: 'Gallery Code', name: 'body', widget: 'hidden', default: "{{< gallery match=\"images/*\" sortOrder=\"desc\" rowHeight=\"300\" margins=\"20\" resizeOptions=\"600x600 q90 Lanczos\" showExif=true previewType=\"blur\" embedPreview=\"true\" thumbnailHoverEffect=\"enlarge\" >}}" }
   - name: 'event'
     label: 'Archivierte Veranstaltung'
     folder: 'content/events/'
