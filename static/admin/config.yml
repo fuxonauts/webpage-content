@@ -81,6 +81,7 @@ collections:
     path: '{{slug}}/index'
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     create: true
+    i18n: true
     editor:
       preview: false
     fields:
