@@ -7,7 +7,7 @@ build_job:
   stage: build
   image: registry.gitlab.com/pages/hugo/hugo_extended:latest
   script:
-    - hugo
+    - hugo --minify
   artifacts:
     paths:
     - public
