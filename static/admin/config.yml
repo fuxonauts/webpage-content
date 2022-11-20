@@ -1,5 +1,5 @@
 backend:
-  name: github
+  name: gitlab
   repo: art-off-hamburg/webpage-content
   branch: master
 media_folder: static/img
