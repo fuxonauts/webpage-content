@@ -1,0 +1,25 @@
+
+stages:
+  - build
+  - deploy
+
+build_job:
+  stage: build
+  image: registry.gitlab.com/pages/hugo/hugo_extended:latest
+  script:
+    - hugo
+  artifacts:
+    paths:
+    - public
+  variables:
+    GIT_SUBMODULE_STRATEGY: recursive
+  only:
+  - master
+
+deploy_job:
+  stage: deploy
+  image: alpine:latest
+  script:
+    - apk update
+    - apk add lftp
+    - lftp -c "set ftp:ssl-allow no; open -u $USERNAME,$PASSWORD $HOST; mirror -Rev public/ ./art-off-hamburg.de/ --ignore-time --parallel=10"
