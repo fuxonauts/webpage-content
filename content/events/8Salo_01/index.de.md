@@ -8,7 +8,7 @@ draft: false
 street: "Platz der Republik, im Park vor dem Rathaus
 Trommelstraße 7"
 address: "20359 Hamburg"
-organizers: ["8.Salon"]
+organizers: ["8. Salon"]
 artists: ['Fari Shams ']
 walks: ['West']
 genres: ['Skulptur']
