@@ -22,7 +22,7 @@ jobs:
         run: hugo --minify
 
       - name: Upload files
-        uses: SamKirkland/FTP-Deploy-Action@4.3.2
+        uses: SamKirkland/FTP-Deploy-Action@4.3.3
         with:
           server: w018c78b.kasserver.com
           username: w018c78b
