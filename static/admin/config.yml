@@ -1,7 +1,8 @@
 backend:
-  name: gitlab
+  name: github
   repo: art-off-hamburg/webpage-content
   branch: master
+  base_url: https://oauth.art-off-hamburg.de
 media_folder: static/img
 public_folder: /img
 i18n:
