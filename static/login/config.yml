@@ -27,7 +27,7 @@ collections:
       - { label: 'Ende der Veranstaltung', name: 'end', widget: 'datetime', date_format: 'DD.MM.YYYY', time_format: 'HH:mm' }
       - { label: 'Straße + Hausnummer', name: 'street', widget: 'string', i18n: true }
       - { label: 'PLZ + Ort', name: 'address', widget: 'string', i18n: true }
-      - { label: 'Kunstort', name: 'organizers', widget: 'relation', collection: 'place', search_fields: ['title'], value_field: 'title', multiple: false }
+      - { label: 'Kunstort', name: 'organizers', widget: 'relation', collection: 'place', search_fields: ['title'], value_field: 'title', multiple: true }
       - { label: 'Künstler:innen', name: 'artists', widget: 'list' }
       - { label: 'Bild', name: 'featuredImage', widget: 'image', allow_multiple: false, required: false }
       - { label: 'Body', name: 'body', widget: 'markdown', i18n: true }
