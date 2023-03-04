@@ -1,0 +1,52 @@
+backend:
+  name: github
+  repo: art-off-hamburg/webpage-content
+  branch: master
+  base_url: https://oauth.art-off-hamburg.de
+media_folder: static/img
+public_folder: /img
+i18n:
+  structure: multiple_files
+  locales: [de,en]
+  default_locale: de
+collections:
+  - name: 'new_event'
+    label: 'Veranstaltung'
+    folder: 'content/new_events/'
+    path: '{{slug}}/index'
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    create: true
+    i18n: true
+    editor:
+      preview: false
+    fields:
+      - { label: 'Veröffentlichungszeitpunkt', name: 'publishDate', widget: 'datetime', date_format: 'DD.MM.YYYY', time_format: 'HH:mm' }
+      - { label: 'Titel', name: 'title', widget: 'string', i18n: true }
+      - { label: 'Untertitel', name: 'subtitle', widget: 'string', required: false, i18n: true }
+      - { label: 'Beginn der Veranstaltung', name: 'date', widget: 'datetime', date_format: 'DD.MM.YYYY', time_format: 'HH:mm' }
+      - { label: 'Ende der Veranstaltung', name: 'end', widget: 'datetime', date_format: 'DD.MM.YYYY', time_format: 'HH:mm' }
+      - { label: 'Straße + Hausnummer', name: 'street', widget: 'string', i18n: true }
+      - { label: 'PLZ + Ort', name: 'address', widget: 'string', i18n: true }
+      - { label: 'Kunstort', name: 'organizers', widget: 'relation', collection: 'place', search_fields: ['title'], value_field: 'title', multiple: false }
+      - { label: 'Künstler:innen', name: 'artists', widget: 'list' }
+      - { label: 'Bild', name: 'featuredImage', widget: 'image', allow_multiple: false, required: false }
+      - { label: 'Body', name: 'body', widget: 'markdown', i18n: true }
+  - name: 'place'
+    label: 'Kunstort'
+    folder: 'content/places/'
+    path: '{{slug}}/index'
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    create: true
+    i18n: true
+    editor:
+      preview: false
+    fields:
+      - { label: 'Veröffentlichungszeitpunkt', name: 'date', widget: 'datetime', date_format: 'DD.MM.YYYY', time_format: 'HH:mm' }
+      - { label: 'Name des Kunstorts', name: 'title', widget: 'string', i18n: true }
+      - { label: 'Straße + Hausnummer', name: 'street', widget: 'string', i18n: true }
+      - { label: 'PLZ + Ort', name: 'city', widget: 'string', i18n: true }
+      - { label: 'Webseite', name: 'contactURL', widget: 'string', required: false, i18n: true }
+      - { label: 'Namens-Kachel', name: 'featuredImage', widget: 'image', allow_multiple: false, i18n: true }
+      - { label: 'Bilder', name: 'images', widget: 'image', allow_multiple: true, required: false }
+      - { label: 'Beschreibung', name: 'body', widget: 'markdown', i18n: true }
+
