@@ -1,4 +1,4 @@
-baseURL = "https://art-off-hamburg.de/"
+baseURL = "https://fuxonauts.de/"
 
 defaultContentLanguage = "de"
 
@@ -10,7 +10,7 @@ theme = [ "LoveIt", "hugo-shortcode-gallery" ]
   galleryLoadJQuery = true
   [params.header]
     [params.header.title]
-      logo = "/lib/img/ART-OFF-Logo_1200.png"
+      logo = "/lib/img/Logo.png"
   [params.footer]
     enable = false
   [params.home.profile]
@@ -19,7 +19,7 @@ theme = [ "LoveIt", "hugo-shortcode-gallery" ]
 [languages]
   [languages.de]
     weight = 1
-    title = "ART OFF Hamburg"
+    title = "Fuxonauts"
     languageCode = "de"
     languageName = "Deutsch"
     [[languages.de.menu.main]]
@@ -53,9 +53,9 @@ theme = [ "LoveIt", "hugo-shortcode-gallery" ]
       identifier = "event"
       pre = ""
       post = ""
-      name = "Archiv Kultursommer"
+      name = "Archiv"
       url = "events/"
-      title = "Archiv – ART OFF Hamburg Kultursommer – Wir sind hier"
+      title = "Archiv"
       weight = 4
     [[languages.de.menu.main]]
       identifier = "gallery"
@@ -84,7 +84,7 @@ theme = [ "LoveIt", "hugo-shortcode-gallery" ]
 
   [languages.en]
     weight = 2
-    title = "ART OFF Hamburg"
+    title = "Fuxonauts"
     languageCode = "en"
     languageName = "English"
     [[languages.en.menu.main]]
@@ -118,9 +118,9 @@ theme = [ "LoveIt", "hugo-shortcode-gallery" ]
       identifier = "event"
       pre = ""
       post = ""
-      name = "Archive Kultursommer"
+      name = "Archive"
       url = "events/"
-      title = "Archive – ART OFF Hamburg Kultursommer – We Are Here"
+      title = "Archive"
       weight = 4
     [[languages.en.menu.main]]
       identifier = "gallery"
