@@ -23,4 +23,4 @@ Eine Zukunftsaufgabe, die gerade Kinder und Jugendliche fasziniert und achtsam w
 
 
 
-![](/img/220805-logo-klimafonds-gross-rbg-copy.jpg)
+![](/img/220805-logo-klimafonds-gross-rbg.jpg)
