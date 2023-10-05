@@ -17,4 +17,10 @@ Die Fuxonauten suchen weitere engagierte Mitstreiter*innen, die bei den kommende
 
 Eine Zukunftsaufgabe, die gerade Kinder und Jugendliche fasziniert und achtsam werden lässt.
 
+
+
+
+
+
+
 ![](/img/220805-logo-klimafonds-gross-rbg.jpg)
