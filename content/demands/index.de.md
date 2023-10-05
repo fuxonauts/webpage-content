@@ -1,5 +1,5 @@
 ---
-title: " Wer nicht, wenn wir –&nbsp; Initiative siedelt Bienen im eigenen Viertel an."
+title: "Wer nicht, wenn wir –  Initiative siedelt Bienen im eigenen Viertel an."
 date: 2021-06-27T06:37:14+02:00
 draft: false
 featuredImage: ""
