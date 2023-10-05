@@ -34,43 +34,35 @@ theme = [ "LoveIt", "hugo-shortcode-gallery" ]
       title = ""
       weight = 1
     [[languages.de.menu.main]]
-      identifier = "new_event"
+      identifier = "demands"
       pre = ""
       post = ""
-      name = "Veranstaltungen"
-      url = "new_events/"
-      title = "Aktuelle Veranstaltungen"
-      weight = 2
-    [[languages.de.menu.main]]
-      identifier = "place"
-      pre = ""
-      post = ""
-      name = "Kunstorte"
-      url = "places/"
-      title = "Kunstorte"
+      name = "Über uns"
+      url = "about/"
+      title = ""
       weight = 3
     [[languages.de.menu.main]]
-      identifier = "event"
+      identifier = "bees"
       pre = ""
       post = ""
-      name = "Archiv"
-      url = "events/"
-      title = "Archiv"
+      name = "Bienen & Klima"
+      url = "bees/"
+      title = ""
       weight = 4
+    [[languages.de.menu.main]]
+      identifier = "links"
+      pre = ""
+      post = ""
+      name = "Links"
+      url = "links/"
+      title = ""
+      weight = 5
     [[languages.de.menu.main]]
       identifier = "gallery"
       pre = ""
       post = ""
       name = "Fotogalerien"
       url = "galleries/"
-      title = ""
-      weight = 5
-    [[languages.de.menu.main]]
-      identifier = "demands"
-      pre = ""
-      post = ""
-      name = "Forderungen"
-      url = "demands/"
       title = ""
       weight = 6
     [[languages.de.menu.main]]
@@ -98,44 +90,36 @@ theme = [ "LoveIt", "hugo-shortcode-gallery" ]
       # title will be shown when you hover on this menu link
       title = ""
       weight = 1
-    [[languages.de.menu.main]]
-      identifier = "new_event"
-      pre = ""
-      post = ""
-      name = "Events"
-      url = "new_events/"
-      title = "Current Events"
-      weight = 2
     [[languages.en.menu.main]]
-      identifier = "place"
+      identifier = "demands"
       pre = ""
       post = ""
-      name = "Places"
-      url = "places/"
+      name = "About us"
+      url = "about/"
       title = ""
       weight = 3
     [[languages.en.menu.main]]
-      identifier = "event"
+      identifier = "bees"
       pre = ""
       post = ""
-      name = "Archive"
-      url = "events/"
-      title = "Archive"
+      name = "Bees & Climate"
+      url = "bees/"
+      title = ""
       weight = 4
+    [[languages.en.menu.main]]
+      identifier = "links"
+      pre = ""
+      post = ""
+      name = "Links"
+      url = "links/"
+      title = ""
+      weight = 5
     [[languages.en.menu.main]]
       identifier = "gallery"
       pre = ""
       post = ""
       name = "Photo Galleries"
       url = "galleries/"
-      title = ""
-      weight = 5
-    [[languages.en.menu.main]]
-      identifier = "demands"
-      pre = ""
-      post = ""
-      name = "Demands"
-      url = "demands/"
       title = ""
       weight = 6
     [[languages.en.menu.main]]

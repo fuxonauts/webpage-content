@@ -10,80 +10,39 @@ i18n:
   locales: [de,en]
   default_locale: de
 collections:
-  - name: 'new_event'
-    label: 'Veranstaltung'
-    folder: 'content/new_events/'
-    path: '{{slug}}/index'
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    create: true
-    i18n: true
-    editor:
-      preview: false
-    fields:
-      - { label: 'Veröffentlichungszeitpunkt', name: 'publishDate', widget: 'datetime', date_format: 'DD.MM.YYYY', time_format: 'HH:mm' }
-      - { label: 'Titel', name: 'title', widget: 'string', i18n: true }
-      - { label: 'Untertitel', name: 'subtitle', widget: 'string', required: false, i18n: true }
-      - { label: 'Beginn der Veranstaltung', name: 'date', widget: 'datetime', date_format: 'DD.MM.YYYY', time_format: 'HH:mm' }
-      - { label: 'Ende der Veranstaltung', name: 'end', widget: 'datetime', date_format: 'DD.MM.YYYY', time_format: 'HH:mm' }
-      - { label: 'Straße + Hausnummer', name: 'street', widget: 'string', i18n: true }
-      - { label: 'PLZ + Ort', name: 'address', widget: 'string', i18n: true }
-      - { label: 'Kunstort', name: 'organizers', widget: 'relation', collection: 'place', search_fields: ['title'], value_field: 'title', multiple: true }
-      - { label: 'Künstler:innen', name: 'artists', widget: 'list' }
-      - { label: 'Bild', name: 'featuredImage', widget: 'image', allow_multiple: false, required: false }
-      - { label: 'Body', name: 'body', widget: 'markdown', i18n: true }
-  - name: 'place'
-    label: 'Kunstort'
-    folder: 'content/places/'
-    path: '{{slug}}/index'
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    create: true
-    i18n: true
-    editor:
-      preview: false
-    fields:
-      - { label: 'Veröffentlichungszeitpunkt', name: 'date', widget: 'datetime', date_format: 'DD.MM.YYYY', time_format: 'HH:mm' }
-      - { label: 'Name des Kunstorts', name: 'title', widget: 'string', i18n: true }
-      - { label: 'Straße + Hausnummer', name: 'street', widget: 'string', i18n: true }
-      - { label: 'PLZ + Ort', name: 'city', widget: 'string', i18n: true }
-      - { label: 'Webseite', name: 'contactURL', widget: 'string', required: false, i18n: true }
-      - { label: 'Namens-Kachel', name: 'featuredImage', widget: 'image', allow_multiple: false, i18n: true }
-      - { label: 'Bilder', name: 'images', widget: 'image', allow_multiple: true, required: false }
-      - { label: 'Beschreibung', name: 'body', widget: 'markdown', i18n: true }
-  - name: 'pre_post'
-    label: 'Text vor Spaziergängen'
-    folder: 'content/pre_posts/'
-    path: 'pre'
+  - name: "demands"
+    label: "Über uns"
+    folder: 'content/about/'
     create: false
     i18n: true
-    editor:
-      preview: false
-    fields:
-      - { label: 'Pre-Text', name: 'body', widget: 'markdown', i18n: true }
-  - name: 'post'
-    label: 'Spaziergänge'
-    folder: 'content/posts/'
-    path: '{{slug}}/index'
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    create: true
-    i18n: true
+    slug: 'about'
     editor:
       preview: false
     fields:
       - { label: 'Titel', name: 'title', widget: 'string', i18n: true }
-      - { label: 'Veröffentlichungszeitpunkt', name: 'date', widget: 'datetime', date_format: 'DD.MM.YYYY', time_format: 'HH:mm' }
-      - { label: 'Ende der Veranstaltung', name: 'end', widget: 'datetime', date_format: 'DD.MM.YYYY', time_format: 'HH:mm' }
-      - { label: 'GPX-Track', name: 'gpx', widget: 'file', allow_multiple: false, media_folder: "/static/gpx/", required: false }
-      - { label: 'Beschreibung', name: 'body', widget: 'markdown', i18n: true }
-  - name: 'post_post'
-    label: 'Text nach Spaziergängen'
-    folder: 'content/post_posts/'
-    path: 'post'
+      - { label: 'Inhalt', name: 'body', widget: 'markdown', i18n: true }
+  - name: "bees"
+    label: "Bienen & Klima"
+    folder: 'content/bees/'
     create: false
     i18n: true
+    slug: 'bees'
     editor:
       preview: false
     fields:
-      - { label: 'Post-Text', name: 'body', widget: 'markdown', i18n: true }
+      - { label: 'Titel', name: 'title', widget: 'string', i18n: true }
+      - { label: 'Inhalt', name: 'body', widget: 'markdown', i18n: true }
+  - name: "links"
+    label: "Links"
+    folder: 'content/links/'
+    create: false
+    i18n: true
+    slug: 'links'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Titel', name: 'title', widget: 'string', i18n: true }
+      - { label: 'Inhalt', name: 'body', widget: 'markdown', i18n: true }
   - name: 'gallery'
     label: 'Fotogallerie'
     folder: 'content/galleries/'
@@ -96,38 +55,6 @@ collections:
       - { label: 'Titel', name: 'title', widget: 'string', i18n: true }
       - { label: 'Bilder', name: 'images', widget: 'image', allow_multiple: true, media_folder: 'images' }
       - { label: 'Gallery Code', name: 'body', widget: 'hidden', default: "{{< gallery match=\"images/*\" sortOrder=\"desc\" rowHeight=\"300\" margins=\"20\" resizeOptions=\"600x600 q90 Lanczos\" showExif=true previewType=\"blur\" embedPreview=\"true\" thumbnailHoverEffect=\"enlarge\" >}}" }
-  - name: 'event'
-    label: 'Archivierte Veranstaltung'
-    folder: 'content/events/'
-    path: '{{slug}}/index'
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    create: true
-    i18n: true
-    editor:
-      preview: false
-    fields:
-      - { label: 'Veröffentlichungszeitpunkt', name: 'publishDate', widget: 'datetime', date_format: 'DD.MM.YYYY', time_format: 'HH:mm' }
-      - { label: 'Titel', name: 'title', widget: 'string', i18n: true }
-      - { label: 'Untertitel', name: 'subtitle', widget: 'string', required: false, i18n: true }
-      - { label: 'Beginn der Veranstaltung', name: 'date', widget: 'datetime', date_format: 'DD.MM.YYYY', time_format: 'HH:mm' }
-      - { label: 'Ende der Veranstaltung', name: 'end', widget: 'datetime', date_format: 'DD.MM.YYYY', time_format: 'HH:mm' }
-      - { label: 'Straße + Hausnummer', name: 'street', widget: 'string', i18n: true }
-      - { label: 'PLZ + Ort', name: 'address', widget: 'string', i18n: true }
-      - { label: 'Kunstort', name: 'organizers', widget: 'relation', collection: 'place', search_fields: ['title'], value_field: 'title', multiple: true }
-      - { label: 'Künstler:innen', name: 'artists', widget: 'list', i18n: true }
-      - { label: 'Bild', name: 'featuredImage', widget: 'image', allow_multiple: false, required: false }
-      - { label: 'Inhalt', name: 'body', widget: 'markdown', i18n: true }
-  - name: "demands"
-    label: "Forderungen"
-    folder: 'content/demands/'
-    create: false
-    i18n: true
-    slug: 'demands'
-    editor:
-      preview: false
-    fields:
-      - { label: 'Titel', name: 'title', widget: 'string', i18n: true }
-      - { label: 'Inhalt', name: 'body', widget: 'markdown', i18n: true }
   - name: "imprint"
     label: "Impressum"
     folder: 'content/'
