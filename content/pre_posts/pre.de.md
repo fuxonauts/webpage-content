@@ -1,6 +1,5 @@
 ---
-title: "Kontakt"
+title: Kontakt
 draft: false
 ---
-
-Lorem Ipsum pre
+Kontakt-Text

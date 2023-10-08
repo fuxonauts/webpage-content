@@ -1,4 +1,4 @@
 ---
-title: "Contact"
+title: Contact
 ---
 Lorem Ipsum pre
