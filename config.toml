@@ -15,6 +15,8 @@ theme = [ "LoveIt", "hugo-shortcode-gallery" ]
     enable = false
   [params.home.profile]
     enable = false
+  [params.home.posts]
+    enable = true
 
 [languages]
   [languages.de]
@@ -22,6 +24,17 @@ theme = [ "LoveIt", "hugo-shortcode-gallery" ]
     title = "Fuxonauts"
     languageCode = "de"
     languageName = "Deutsch"
+    [[languages.de.menu.main]]
+      identifier = "posts"
+      # you can add extra information before the name (HTML format is supported), such as icons
+      pre = ""
+      # you can add extra information after the name (HTML format is supported), such as icons
+      post = ""
+      name = "Termine/Kontakt"
+      url = ""
+      # title will be shown when you hover on this menu link
+      title = ""
+      weight = 1
     [[languages.de.menu.main]]
       identifier = "demands"
       pre = ""
@@ -68,6 +81,17 @@ theme = [ "LoveIt", "hugo-shortcode-gallery" ]
     title = "Fuxonauts"
     languageCode = "en"
     languageName = "English"
+    [[languages.en.menu.main]]
+      identifier = "posts"
+      # you can add extra information before the name (HTML format is supported), such as icons
+      pre = ""
+      # you can add extra information after the name (HTML format is supported), such as icons
+      post = ""
+      name = "Events/Contact"
+      url = ""
+      # title will be shown when you hover on this menu link
+      title = ""
+      weight = 1
     [[languages.en.menu.main]]
       identifier = "demands"
       pre = ""

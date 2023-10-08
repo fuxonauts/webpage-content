@@ -10,6 +10,29 @@ i18n:
   locales: [de,en]
   default_locale: de
 collections:
+  - name: 'pre_post'
+    label: 'Kontakt'
+    folder: 'content/pre_posts/'
+    path: 'pre'
+    create: false
+    i18n: true
+    editor:
+      preview: false
+    fields:
+      - { label: 'Kontakt', name: 'body', widget: 'markdown', i18n: true }
+  - name: 'post'
+    label: 'Termine'
+    folder: 'content/posts/'
+    path: '{{slug}}/index'
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    create: true
+    i18n: true
+    editor:
+      preview: false
+    fields:
+      - { label: 'Datum und Uhrzeit', name: 'end', widget: 'datetime', date_format: 'DD.MM.YYYY', time_format: 'HH:mm' }
+      - { label: 'Titel', name: 'title', widget: 'string', i18n: true }
+      - { label: 'Beschreibung', name: 'body', widget: 'markdown', i18n: true }
   - name: "demands"
     label: "Über uns"
     folder: 'content/about/'
