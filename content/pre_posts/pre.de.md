@@ -7,5 +7,6 @@ Bitte vorher per E-Mail die Teilnahme anmelden.
 
 Arbeitseinsätze werden bei den Treffen geplant und abgesprochen.
 
+Pressekontakt:  \
 fuxonauts, Zeiseweg 9,  22765 Hamburg \
  info@fuxonauts.de,  www.fuxonauts.de
