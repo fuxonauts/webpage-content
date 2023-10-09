@@ -6,7 +6,7 @@ featuredImage: ""
 ---
 Mitglieder der Genossenschaft der Viktoria Kaserne und aktive Nachbarn aus dem Helenenviertel haben die „Fuxonauts“ gegründet, eine Gruppe, die urbane Klimaschutzmaßnahmen umsetzt und Orte zum Erhalt der Biodiversität erschafft.
 \
-Gefördert mit Mitteln des Hamburger Klimafonds und der Hamburger Klimaschutzstiftung, haben sie eine Nistwand errichtet und Stauden für Wildbienen gepflanzt.\
+Gefördert mit Mitteln des Hamburger Klimafonds und der Hamburger Klimaschutzstiftung, haben sie eine Nistwand errichtet und Stauden für Wildbienen gepflanzt.
 
 Warum ist das so wichtig? \
 Pflanzen müssen durch Insekten bestäubt werden, damit sie Früchte und Samen tragen. Pflanzen fördern in einer sich aufheizenden Stadt das notwendige kühlende Mikroklima. 
