@@ -22,7 +22,7 @@ Die Fuxonauten suchen weitere engagierte Mitstreiter*innen, die bei den kommende
 Eine Zukunftsaufgabe, die gerade Kinder und Jugendliche fasziniert und achtsam werden lässt.
 
 Pressekontakt:  \
-Julia Melzner,  Zeiseweg 9,  22765 Hamburg \
-0176 32 24 01 17,  info@fuxonauts.de,  www.fuxonauts.de 
+ fuxonauts, Zeiseweg 9,  22765 Hamburg \
+ info@fuxonauts.de,  www.fuxonauts.de 
 
 ![](/img/220805-logo-klimafonds-gross-rbg.jpg)
