@@ -6,6 +6,6 @@ featuredImage: ""
 ---
 <https://www.viktoria-kaserne.de/>
 
-[https://www.fux-eg.org](https://www.fux-eg.org/)\
+[https://www.fux-eg.or](https://www.fux-eg.org/)[\
 \
-<https://www.hamburger-klimaschutzstiftung.de/>
+https://www.hamburger-klimaschutzstiftung.de/](https://www.hamburger-klimaschutzstiftung.de/)
