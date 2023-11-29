@@ -5,4 +5,4 @@ end: "1630274399"
 draft: false
 gpx: empty.gpx
 ---
-Monthly Fuxonauts meeting at Victoria Barracks
+please contact us at info@fuxonauts.de
